@@ -1,5 +1,5 @@
 ---
-title: Biobohnen
+title: Dicke Bohnen
 image: images/post/beans.webp
 date: 2009-07-25
 type: regular
