@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kochessenz.de/"
+baseURL = "https://www.kochessenz.de/"
 title = "kochessenz"
 theme = "galaxy-hugo"
 # post pagination

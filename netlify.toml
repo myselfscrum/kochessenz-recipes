@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.89.4"
   HUGO_THEME = "galaxy-hugo"
-  HUGO_BASEURL = "https://kochessenz.de/"
+  HUGO_BASEURL = "https://www.kochessenz.de/"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.

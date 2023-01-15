@@ -15,8 +15,6 @@ tags:
 
 Ein schnelles Rezept für Sommertage, wenn die mal wieder kommen sollten. Der Urahn kommt von Jamie Oliver, ich hab immer wieder mal was variiert, diesmal mit Pflücksalat und Orangenvinaigrette.
 
-[![Feigen-Schinken-Salat](images/20090712-DSC_2651.jpg "Feigen-Schinken-Salat")](http://www.kochessenz.de/wp-content/uploads/sites/3/2009/07/20090712-DSC_2651.jpg)
-
 Für 2 Personen
 
 * eine Handvoll Pflücksalat mit Rucola
