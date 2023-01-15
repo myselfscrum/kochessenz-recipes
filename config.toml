@@ -1,0 +1,126 @@
+######################## default configuration ####################
+baseURL = "https://kochessenz.de/"
+title = "kochessenz"
+theme = "galaxy-hugo"
+# post pagination
+paginate = "10"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+defaultContentLanguage = "de"
+disableLanguages = ["en"] 
+
+
+############################# output ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "Über kochessenz"
+URL = "about/"
+weight = 2
+  
+[[menu.main]]
+name = "Kontakt"
+URL = "contact/"
+weight = 3
+
+[[menu.main]]
+name = "Impressum/Datenschutz"
+URL = "privacy-policy/"
+weight = 4
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "This is meta description"
+author = "Martin Jahr"
+# contact info
+address = "26603 Aurich"
+mobile = "+49 151 5989 1333"
+email = "info@kochessenz.de"
+# contact form action
+contact_form_action = "https://formspree.io/f/xgebvebp"
+# Google Analitycs
+google_analitycs_id = "" # your id
+# search
+search = false
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+
+# Subscription
+[params.subscription]
+enable = false
+# mailchimp subsciption
+#mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+#mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+  
+############################# social site ########################
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/martin-jahr-72559214b/"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+
+################################### German language #####################################
+[Languages.de]
+languageName = "German"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2022 Martin Jahr"

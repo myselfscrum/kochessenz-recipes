@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{ partial "head.html" . }}
+
+<body>
+	<noscript>
+		<style>
+		  body {
+			visibility: visible;
+			opacity: 1;
+		  }
+		</style>
+	  </noscript>	
+	{{ partial "preloader.html" . }}
+	<div class="main-wrapper">
+		{{ partial "header.html" . }}
+		<div class="wrapper">
+			{{ partial "header-block.html" . }}
+			{{ block "main" . }} {{ end }}
+			{{ partial "footer-block" . }}
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+	<script>
+	function showTheme() {
+		// Check Local Storage then apply dark theme if it's active
+	  }
+	  
+	  function showContent() {
+		document.body.style.visibility = 'visible';
+		document.body.style.opacity = 1;
+	  }
+	  
+	  window.addEventListener('DOMContentLoaded', function () {
+		showTheme();
+		showContent();
+	  });
+	</script>	
+</body>
+
+</html>
