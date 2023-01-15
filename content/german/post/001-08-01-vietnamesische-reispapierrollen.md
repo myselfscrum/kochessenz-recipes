@@ -51,3 +51,5 @@ Die Blätter lege ich dann auf meinen Essteller und fülle mit den bereit stehen
 Man kann (und sollte) die Rollen dann immer nach der Fertigung gleich essen. Wenn sie länger liegen, wird das Reispapier wieder hart und reißt ein. Ich schaffe ohne Fleischfüllung vielleicht 5 von diesen Rollen, aber das ist sehr unterschiedlich.
 
 So habe ich mit wenig Aufwand eine wohlschmeckende Sommermahlzeit!
+
+> summer rolls with prawns, rice noodles, soy sprouts and herbs, food photography, award-winning photo, closeup, unreal engine rendering, photorealistic, bright image
