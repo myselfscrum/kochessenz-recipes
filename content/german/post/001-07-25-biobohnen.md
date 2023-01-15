@@ -20,6 +20,8 @@ Am Freitag war es wieder mal so weit - die Lust auf Bohneneintopf in diesem unso
 
 Perfiderweise kann man das von außen kaum erkennen. Die Schädlinge (oder deren Eltern?) bohren sich durch die Schale der Schote mit einer sehr kleinen Öffnung. Erst wenn man die Schote öffnet, sieht man, dass etwas nicht stimmt - am ehesten sieht man es auf der Innenseite der Schote, dort entstehen schwarze Flecken, die ihr Gegenstück auf den Kernen wiederfindet - den Eingang, hinter dem sich dann eine Larve verbirgt.
 
+![Befallene Bohne](images/post/beans-photo.webp)
+
 Kleineren Befall kann man noch wegschneiden, bei mir war es aber so viel, dass ich das ganze Kilo entsorgt habe.
 
 Lesson Learned - heute auf dem Markt habe ich an einem anderen Stand erstmal eine Schote öffnen lassen, um den Befall zu kontrollieren. Diesmal war es besser, so dass es dann morgen einen Bohneneintopf geben kann.

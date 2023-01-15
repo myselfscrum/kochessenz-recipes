@@ -22,10 +22,6 @@ Nachdem das letzte Brathähnchen aufgrund seiner immensen Größe von fast 2 kg 
 - Piment d'espelette kurz in Butter aufschäumen und Hähnchen damit einpinseln
 - bei 200°C Umluft für 30min in den Ofen, dann auf 160°C runter und weitere 40 Minuten
 
-Das Ergebnis sieht dann so aus:
-
-[![Hähnchen im Heu](images/DSC_0191_186.jpg "Hähnchen im Heu")](http://www.kochessenz.de/wp-content/uploads/sites/3/2009/03/DSC_0191_186.jpg)
-
 Das Gericht gab es dann mit Kartoffel-Spitzkohl-Stampf. Das Hühnchen war ok, aber noch nicht optimal. Der Geschmack mit dem Piment war sehr gut, die Brust sehr saftig und zart. Die Keulen waren  noch nicht weit genug, das Fleisch ließ sich nur sehr schwer von den Knochen lösen.
 
 Das nächste mal also noch 20 Minuten länger...
