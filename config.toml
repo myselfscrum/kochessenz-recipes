@@ -12,7 +12,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 defaultContentLanguage = "de"
 disableLanguages = ["en"] 
 
-
 ############################# output ##############################
 [outputs]
 home = ["HTML", "RSS", "JSON"]
