@@ -17,6 +17,7 @@ disableLanguages = ["en"]
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
