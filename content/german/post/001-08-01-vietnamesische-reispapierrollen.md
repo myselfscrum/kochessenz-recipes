@@ -17,7 +17,7 @@ Vor Jahren hatten wir im Frankfurter Kiez einen Chinesen (die, wie wir ja inzwis
 
 Das wollte ich nun dieses Wochenende auch herstellen, da die Kräutersammlung im Kühlschrank dringend verbraucht werden wollte und das Vorabendgrillen noch schwer im Magen lag.
 
-Unser [China Food Lieferant am Bahnhof](https://www.yelp.de/biz/asiatische-lebensmittel-thanh-binh-m%C3%BCnster) lieferte dann die noch notwendigen dünnen Reispapierblätter mit 22cm Durchmesser. Nicht die dicken nehmen, die frittiert werden!
+Unser **[China Food Lieferant am Bahnhof](https://www.yelp.de/biz/asiatische-lebensmittel-thanh-binh-m%C3%BCnster)** lieferte dann die noch notwendigen dünnen Reispapierblätter mit 22cm Durchmesser. Nicht die dicken nehmen, die frittiert werden!
 
 Vom Markteinkauf sind noch ein paar (4) Biogarnelen über, die werden kurz in Salzwasser gar gezogen und in Streifen geschnitten. Man könnte sie auch braten, dann sind sie sicher aromatischer, aber ich wollte diesemal ein "sanftes" Essen.
 
