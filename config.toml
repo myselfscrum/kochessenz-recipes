@@ -54,6 +54,12 @@ weight = 1
 name = "Über kochessenz"
 URL = "about/"
 weight = 2
+
+[[menu.main]]
+name = "Rezepte"
+URL = "post/"
+weight = 4
+  
   
 [[menu.main]]
 name = "Zutaten"

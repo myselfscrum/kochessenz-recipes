@@ -1,5 +1,5 @@
 ---
-title: "Nachmittagsgenuss - Jakobsmuscheln auf Fenchelsalat"
+title: "Jakobsmuscheln auf Fenchelsalat"
 image: "images/post/fennel.webp"
 date: "2009-01-11"
 categories: 

@@ -575,15 +575,28 @@ textarea.form-control {
   background: #E4112F;
   color: #fff; }
 
+.section-terms-tag {
+  display: grid;
+  grid-template-columns: 3rem auto;
+  align-items: baseline; }
+  .section-terms-tag ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    line-height: 1.5; }
+  .section-terms-tag a {
+    color: #f03852; }
+  .section-terms-tag li {
+    margin-right: 1em; }
+  .section-terms-tag .key {
+    font-size: 1rem; }
+
 .section-pages-tag {
   display: grid;
   grid-template-columns: 3rem auto;
   align-items: baseline; }
   .section-pages-tag ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    line-height: 1.5; }
+    list-style: none; }
   .section-pages-tag a {
     color: #f03852; }
   .section-pages-tag li {

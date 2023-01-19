@@ -1,5 +1,5 @@
 ---
-title: "Nachmittagsgenuss: Vietnamesische Reispapierrollen"
+title: "Vietnamesische Reispapierrollen"
 image: images/post/summer-rolls.webp
 date: 2009-08-01
 categories: 

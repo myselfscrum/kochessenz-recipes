@@ -467,7 +467,7 @@
   }
 }
 
-.section-pages-tag {
+.section-terms-tag {
   display: grid;
   grid-template-columns: 3rem auto;
   align-items: baseline;
@@ -477,6 +477,28 @@
     flex-wrap: wrap;
     list-style: none;
     line-height: 1.5;
+  }
+
+  a {
+    color:#f03852;
+  }
+
+  li {
+    margin-right: 1em;
+  }
+
+  .key {
+    font-size: 1rem;
+  }
+}
+
+.section-pages-tag {
+  display: grid;
+  grid-template-columns: 3rem auto;
+  align-items: baseline;
+
+  ul {
+    list-style: none;
   }
 
   a {

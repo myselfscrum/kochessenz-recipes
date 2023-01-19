@@ -1,5 +1,5 @@
 ---
-title: "Nachmittagsgenuss - Feigen mit Ziegenkäse und Honigsenf"
+title: "Feigen mit Ziegenkäse und Honigsenf"
 image: images/post/ciabatta-figs.webp
 date: 2009-09-13
 categories: 
