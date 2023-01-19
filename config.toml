@@ -56,14 +56,19 @@ URL = "about/"
 weight = 2
   
 [[menu.main]]
+name = "Zutaten"
+URL = "tags/"
+weight = 4
+  
+[[menu.main]]
 name = "Kontakt"
 URL = "contact/"
-weight = 3
+weight = 5
 
 [[menu.main]]
 name = "Impressum/Datenschutz"
 URL = "privacy-policy/"
-weight = 4
+weight = 6
 
 
 #################### default parameters ################################
