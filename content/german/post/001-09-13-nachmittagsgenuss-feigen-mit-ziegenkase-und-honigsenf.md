@@ -8,7 +8,7 @@ categories:
 type: regular
 tags: 
   - feige
-  - feta"
+  - feta
   - honig
   - senf
 ---
