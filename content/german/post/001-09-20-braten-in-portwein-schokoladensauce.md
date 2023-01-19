@@ -23,19 +23,19 @@ Da ich während der Wartezeit ja auch noch ein kleines Muschelragout essen musst
 
 Die Zutaten aus dem Originalrezept für 4 - 6 Personen:
 
-    4 Ochsenbacken oder Rinderbacken, circa 2 - 2,4 kg Gesamtgewicht, küchenfertig geputzt
-    1 Flasche kräftigen Rotwein
-    1 Flasche roter Portwein
-    1 Bd. Wurzelgemüse und 2 Lorbeerblätter
-    1 Sternanis
-    1 Kapsel schwarzer Kardamom, im Mörser oder mit einem breiten Messerrücken leicht angequetscht
-    3 Körner Piment, ebenfalls leicht angequetscht
-    1 EL Tomatenmark
-    50 ml Tomatenketchup
-    2 cl Cognac
-    5 cl alter Balsamico
-    1,5 l Kalbsfond (Rinderfond schmeckt natürlich auch, die Sauce wird etwas kräftiger)
-    15 - 20 g Valrhona
-    etwas Mondamin oder Pfeilwurzstärke zum Abbinden der Sauce
+* 4 Ochsenbacken oder Rinderbacken, circa 2 - 2,4 kg Gesamtgewicht, küchenfertig geputzt
+* 1 Flasche kräftigen Rotwein
+* 1 Flasche roter Portwein
+* 1 Bd. Wurzelgemüse und 2 Lorbeerblätter
+* 1 Sternanis
+* 1 Kapsel schwarzer Kardamom, im Mörser oder mit einem breiten Messerrücken leicht angequetscht
+* 3 Körner Piment, ebenfalls leicht angequetscht
+* 1 EL Tomatenmark
+* 50 ml Tomatenketchup
+* 2 cl Cognac
+* 5 cl alter Balsamico
+* 1,5 l Kalbsfond (Rinderfond schmeckt natürlich auch, die Sauce wird etwas kräftiger)
+* 15 - 20 g Valrhona
+* etwas Mondamin oder Pfeilwurzstärke zum Abbinden der Sauce
 
 > Roast with potatoes in port wine chocolate sauce, food photography, award-winning photo, closeup, octane engine rendering, photorealistic, bright image
