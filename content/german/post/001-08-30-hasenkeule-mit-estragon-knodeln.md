@@ -17,3 +17,5 @@ Der TK-Schrank muss mal wieder umgeschichtet werden. Da entdecke ich doch gester
 Dazu die Estragon-Knödel aus der aktuellen e&t, aus Brotwürfeln (ich habe Vollkorn-Ciabatta genommen, ging gut), Stampfkartoffeln, Bergkäse, Milch, Ei, ebenfalls Estragon. Das Ganze ergab einen schön festen Teig, aus dem sich leicht Frikadellen formen ließen. Kurz in den Kühlschrank, dann ließen sie sich in der beschichteten Pfanne wunderbar braten.
 
 Dazu ein bisschen Kürbisgemüse: Suppengrün und Knobi sehr klein würfeln, andünsten und mit Sahne weich kochen. Ein Stück Kürbis fein hobeln und 5 Minuten in der Sahne kochen.
+
+> grilled hare leg with fried dumplings and Squash vegetables, view from above, white plate, food photography, award-winning photo, closeup, octane engine rendering, photorealistic, bright image 

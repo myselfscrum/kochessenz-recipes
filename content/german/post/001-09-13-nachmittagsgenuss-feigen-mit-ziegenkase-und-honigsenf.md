@@ -26,3 +26,5 @@ na dann ist es ja einfach:
 2\. Feigen vierteln, aber nicht durchschneiden und mit einer Soße aus 1 TL Honig, 2 TL grobem Senf und ein paar Fetakrümeln beglücken.
 
 Fertig ist der Sonntagsnachmittagsgenuss!
+
+> ciabatta slices with basil cream, crumbled feta, basil olive oil and figs, food photography, award-winning photo, closeup, octane engine rendering, photorealistic, bright image
