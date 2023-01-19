@@ -1,5 +1,5 @@
 ---
-title: "Braten in Portwein-Schokoladensauce"
+title: "Rinderbraten in Portwein-Schokoladensauce"
 image: images/post/roast-port.webp
 date: 2009-09-20
 categories: 
