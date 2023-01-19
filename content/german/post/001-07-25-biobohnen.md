@@ -6,7 +6,7 @@ type: regular
 categories: 
   - zutaten
 tags:
-  - dickebohne
+  - dicke-bohne
 ---
 
 Dicke Bohnen sind was ganz Feines - wenn man sich überwindet und die unförmigen, äußerlich unattraktiven Schoten ersteht und die aufwändige Zubereitungsprozedur auf sich nimmt:
