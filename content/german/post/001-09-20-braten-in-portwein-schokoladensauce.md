@@ -20,3 +20,22 @@ Das gelingt im neuen Schmortopf sehr gut. Angebraten, Sauce nach Rezept zubereit
 Das war dann doch ein bisschen viel. Die Sauce ist großartig, das Fleisch ein wenig eingesackt und sehr weich geworden. Es lässt sich kaum noch schneiden, weil es dabei schon zerfällt. Das nächste Mal also etwas kürzer braten, 2 Stunden dürften es wohl dann auch tun.
 
 Da ich während der Wartezeit ja auch noch ein kleines Muschelragout essen musste, war der Hunger abends nicht mehr so groß. Wir haben den Braten mit in paar einfachen Pellkartoffeln gegessen. Die Sauce ist ein Gedicht! Die übrig gebliebene Hälfte gibts dann später ordnungsgemäß mit Klößen!
+
+Die Zutaten aus dem Originalrezept für 4 - 6 Personen:
+
+    4 Ochsenbacken oder Rinderbacken, circa 2 - 2,4 kg Gesamtgewicht, küchenfertig geputzt
+    1 Flasche kräftigen Rotwein
+    1 Flasche roter Portwein
+    1 Bd. Wurzelgemüse und 2 Lorbeerblätter
+    1 Sternanis
+    1 Kapsel schwarzer Kardamom, im Mörser oder mit einem breiten Messerrücken leicht angequetscht
+    3 Körner Piment, ebenfalls leicht angequetscht
+    1 EL Tomatenmark
+    50 ml Tomatenketchup
+    2 cl Cognac
+    5 cl alter Balsamico
+    1,5 l Kalbsfond (Rinderfond schmeckt natürlich auch, die Sauce wird etwas kräftiger)
+    15 - 20 g Valrhona
+    etwas Mondamin oder Pfeilwurzstärke zum Abbinden der Sauce
+
+> Roast with potatoes in port wine chocolate sauce, food photography, award-winning photo, closeup, octane engine rendering, photorealistic, bright image
