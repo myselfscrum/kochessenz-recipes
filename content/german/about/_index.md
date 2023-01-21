@@ -25,4 +25,4 @@ Ich habe am Ende jedes Rezepts einen Textprompt angegeben, der das dargestellte 
 
 #### Thanks
 
-Hugo Code für die Zutatenliste von [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/)
+Dank an [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) für den Hugo Code für die Zutatenliste.

@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@octokit/core": "^4.2.0",
-    "@octokit/plugin-rest-endpoint-methods": "^7.0.1"
+    "@octokit/plugin-rest-endpoint-methods": "^7.0.1",
+    "dotenv": "^16.0.3"
   }
 }

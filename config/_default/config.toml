@@ -41,74 +41,6 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
-
-############################## navigation ###############################
-
-# main menu
-[[menu.main]]
-name = "Home"
-URL = "/"
-weight = 1
-
-[[menu.main]]
-name = "Über kochessenz"
-URL = "about/"
-weight = 2
-
-[[menu.main]]
-name = "Rezepte"
-URL = "post/"
-weight = 4
-  
-  
-[[menu.main]]
-name = "Zutaten"
-URL = "tags/"
-weight = 4
-  
-[[menu.main]]
-name = "Kontakt"
-URL = "contact/"
-weight = 5
-
-[[menu.main]]
-name = "Impressum/Datenschutz"
-URL = "privacy-policy/"
-weight = 6
-
-# main menu
-[[menu.en.main]]
-name = "Home"
-URL = "en/"
-weight = 1
-
-[[menu.en.main]]
-name = "About kochessenz"
-URL = "en/about/"
-weight = 2
-
-[[menu.en.main]]
-name = "Recipes"
-URL = "en/post/"
-weight = 4
-  
-  
-[[menu.en.main]]
-name = "Ingredients"
-URL = "en/tags/"
-weight = 4
-  
-[[menu.en.main]]
-name = "Contact"
-URL = "en/contact/"
-weight = 5
-
-[[menu.en.main]]
-name = "Imprint/Privacy"
-URL = "en/privacy-policy/"
-weight = 6
-
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
@@ -147,23 +79,3 @@ icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/martin-jahr-72559214b/"
 
 
-################################### English language #####################################
-[Languages.en]
-languageName = "English"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### German language #####################################
-[Languages.de]
-languageName = "German"
-languageCode = "de-de"
-contentDir = "content/german"
-weight = 2
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2022 Martin Jahr"

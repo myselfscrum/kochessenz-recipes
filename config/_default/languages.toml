@@ -1,0 +1,20 @@
+################################### English language #####################################
+[en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+
+################################### German language #####################################
+[de]
+languageName = "German"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2022 Martin Jahr"

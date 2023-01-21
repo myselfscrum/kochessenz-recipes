@@ -24,3 +24,5 @@ Tomaten blanchieren, enthäuten und entkernen, in Stücke schneiden. Zusammen mi
 Den Lachs in quadratische Stücke teilen (Haut dranlassen, wenn er gut geschuppt ist, sonst entfernen) und in Butter bei mittlerer Hitze 5-8 Minuten braten, salzen und pfeffern. Ich hab noch selbst gemachtes Kräutersalz drauf gegeben. 2 Portionen Nudeln unter dem Grill 5 Minuten überbacken, dann Lachs dazugeben und servieren. Die 2. Runde kann dann nach Bedarf in den Ofen gegeben werden.
 
 Damit geht ein produktives Kochwochenende zu Ende, morgen gibt's wieder Kantine...
+
+> small spaghetti gratin with tomatosauce and thick crunchy cheese crust, grilled salmon on top,food magazine style, award-winning photo, closeup, unreal engine rendering, photorealistic, bright image, one plate only 
