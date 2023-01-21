@@ -1,5 +1,6 @@
 ---
 title: "Figs with goat cheese and honey mustard"
+slug: figs-with-goat-cheese
 image: images/post/ciabatta-figs.webp
 date: 2009-09-13
 categories: 

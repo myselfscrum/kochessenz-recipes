@@ -1,5 +1,6 @@
 ---
 title: "Capellini with salmon"
+slug: capellini-with-salmon
 date: "2009-09-20"
 image: images/post/capellini-lachs.webp
 categories: 

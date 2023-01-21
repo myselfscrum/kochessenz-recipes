@@ -1,5 +1,6 @@
 ---
 title: Fig and ham salad
+slug: fig-and-ham-salad
 date: 2009-07-12
 image: images/post/rucola-salad.webp
 categories: 

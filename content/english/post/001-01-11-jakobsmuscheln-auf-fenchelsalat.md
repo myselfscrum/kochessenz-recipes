@@ -1,5 +1,6 @@
 ---
 title: "Scallops on fennel salad"
+slug : scallops-on-fennel-salad
 image: "images/post/fennel.webp"
 date: "2009-01-11"
 categories: 

@@ -1,5 +1,6 @@
 ---
 title: "Chanterelle stock"
+slug: chanterelle-stock
 image: images/post/pilzfond.webp
 date: 2009-08-03
 categories: 

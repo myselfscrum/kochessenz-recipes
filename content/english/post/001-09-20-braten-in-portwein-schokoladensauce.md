@@ -1,5 +1,6 @@
 ---
 title: "Roast beef in port wine-chocolate sauce"
+slug: roast-beef-in-port-sauce
 image: images/post/roast-port.webp
 date: 2009-09-20
 categories: 

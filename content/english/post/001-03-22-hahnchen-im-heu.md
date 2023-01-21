@@ -1,5 +1,6 @@
 ---
 title: Chicken in hay
+slug: chicken-in-hay
 date: 2009-03-22
 image: images/post/hay-chicken.webp
 categories: 
