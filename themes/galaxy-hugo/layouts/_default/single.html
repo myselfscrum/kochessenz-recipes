@@ -52,10 +52,9 @@
           <div class="col-12">
             <button class="btn btn-primary" type="submit">{{ i18n "send-comment"}}<i class="ti-arrow-right ml-2"></i></button>
           </div>
-        </form>
         <input type="hidden" name="bot-field" />
-        <input type="hidden" name="Page" value ="{{- .Title -}}" />
-        <input type="hidden" name="URL" value ="{{- .Permalink -}}" />
+        <input type="hidden" name="title" value ="{{- .Title -}}" />
+        <input type="hidden" name="url" value ="{{- .Permalink -}}" />
         </form>
         </div>
         
