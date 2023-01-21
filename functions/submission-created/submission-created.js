@@ -9,7 +9,7 @@ dayjs.extend(utc)
 exports.handler = (event, context, callback) => {
   const payload = JSON.parse(event.body).payload
   console.log(payload.data)
-
+  const { firstname, lastname, email, message, referrer } = payload.data
   return { 
     statusCode: 200, 
     body: "Success!" 
