@@ -4,7 +4,7 @@
 
 [build]
   publish = "public"
-  command = "yarn build && hugo --minify --gc -EF"
+  command = "hugo --minify --gc -EF"
   
 [build.environment]
   HUGO_VERSION = "0.89.4"
