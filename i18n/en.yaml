@@ -39,3 +39,41 @@
 
 - id: know_more
   translation: know more
+
+  - id: long_month_1
+  translation: January
+
+- id: long_month_2
+  translation: February
+
+- id: long_month_3
+  translation: March
+
+- id: long_month_4
+  translation: April
+
+- id: long_month_5
+  translation: May
+
+- id: long_month_6
+  translation: June
+
+- id: long_month_7
+  translation: July
+
+- id: long_month_8
+  translation: August
+
+- id: long_month_9
+  translation: September
+
+- id: long_month_10
+  translation: October
+
+- id: long_month_11
+  translation: November
+
+- id: long_month_12
+  translation: December
+
+  
