@@ -1,4 +1,3 @@
-[params]
 logo = "images/logo.png"
 # Meta data
 description = "kochessenz Food Blog"
@@ -15,12 +14,12 @@ google_analitycs_id = "" # your id
 search = false
 
 # Preloader
-[params.preloader]
+[preloader]
 enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
-[params.subscription]
+[subscription]
 enable = false
 # mailchimp subsciption
 #mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
@@ -28,9 +27,17 @@ enable = false
 
   
 ############################# social site ########################
-[[params.social]]
+[[social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/martin-jahr-72559214b/"
 
+[[social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/kochessenz.de/"
 
+[[social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/selfscrum/kochessenz-ai"
