@@ -40,7 +40,7 @@
 - id: know_more
   translation: know more
 
-  - id: long_month_1
+- id: long_month_1
   translation: January
 
 - id: long_month_2
