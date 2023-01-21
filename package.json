@@ -2,7 +2,7 @@
   "name" : "kochessenz-ai",
   "scripts": {
     "postinstall": "cd functions/staticman && yarn --production"    
-  }
+  },
   "dependencies": {
     "@octokit/core": "^4.2.0",
     "@octokit/plugin-rest-endpoint-methods": "^7.0.1",
