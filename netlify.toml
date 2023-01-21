@@ -1,3 +1,7 @@
+[dev]
+  command = "hugo server"
+  targetPort = 1313
+
 [build]
   publish = "public"
   command = "hugo --minify --gc -EF"

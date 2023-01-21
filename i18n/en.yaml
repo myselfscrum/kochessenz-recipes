@@ -40,6 +40,12 @@
 - id: know_more
   translation: know more
 
+- id: comment
+  translation: Your Comment
+
+- id: send-comment
+  translation: Send Comment
+
 - id: long_month_1
   translation: January
 

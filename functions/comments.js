@@ -2,8 +2,13 @@
 const { Octokit } = require("@octokit/core");
 const { createTokenAuth } = require('@octokit/auth-token');
 */
+const dayjs = require('dayjs')
+var relativeTime = require('dayjs/plugin/relativeTime')
 
-const { Octokit } = require("@octokit/core");
+var md = require('markdown-it')()
+const sanitizeHtml = require('sanitize-html')
+
+const { Octokit } = require("@octokit/core")
 const {
   restEndpointMethods,
 } = require("@octokit/plugin-rest-endpoint-methods");
@@ -45,12 +50,12 @@ exports.handler = async (event) => {
     return {
       user: {
         avatarUrl: comment.user.avatar_url,
-        name: comment.user.login,
+        name: sanitizeHtml(comment.user.login),
       },
-      datePosted: comment.created_at,
+      datePosted: dayjs(comment.created_at).format('DD MMM YYYY'),
       isEdited: comment.created_at !== comment.updated_at,
       isAuthor: comment.author_association === 'OWNER',
-      body: comment.body,
+      body: sanitizeHtml(md.render(comment.body)),
     };
   });
 

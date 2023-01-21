@@ -21,8 +21,49 @@
           {{ template "_internal/disqus.html" . }}
         </div>
         {{ end }}
+
+        <!-- mja comments -->
+        <div class="comments">
+          <form
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          name="new-comment"
+          class="my"
+        >
+          <div class="col-12">
+            <h3 class="section-title">{{ i18n "comment" }}</h3>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="first-name">{{ i18n "first_name"}}</label>
+            <input type="text" name="first-name" id="first-name" class="form-control" placeholder="Ruth">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="last-name">{{ i18n "last_name"}}</label>
+            <input type="text" name="last-name" id="last-name" class="form-control" placeholder="Grahambel">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="email">{{ i18n "email"}}</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="du@email.com">
+          </div>
+          <div class="form-group col-12">
+            <label for="message">{{ i18n "message"}}</label>
+            <textarea name="message" id="message" class="form-control" placeholder="Was ich mitteilen möchte...……."></textarea>
+          </div>
+          <div class="col-12">
+            <button class="btn btn-primary" type="submit">{{ i18n "send-comment"}}<i class="ti-arrow-right ml-2"></i></button>
+          </div>
+        </form>
+        <input type="hidden" name="bot-field" />
+        <input type="hidden" name="Page" value ="{{- .Title -}}" />
+        <input type="hidden" name="URL" value ="{{- .Permalink -}}" />
+        </form>
+        </div>
+        
+
+
       </div>
     </div>
   </div>
 </section>
+
 {{ end }}
