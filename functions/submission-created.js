@@ -40,10 +40,24 @@ exports.handler = async (event, context, callback) => {
         repo: process.env.COMMENTREPO
       });
 
-    console.log(issues.data);
+    // filter the right issue by post title
     const thisIssue = _.filter(issues.data, {"title" : title } );
-    console.log(title);
     console.log(thisIssue);
+
+    const issueKeys = Object.keys(thisIssue)
+    if (issueKeys.length > 1)
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ error: 'Invalid comment entry.' }),
+    }
+
+    if (issueKeys.length === 0)
+      {
+        // create issue
+      }
+
+    console.log('Using issue id: ' + thisIssue[0].id )
+    // create comment
 
     return {
       statusCode: 200,
