@@ -7,6 +7,8 @@ dayjs.extend(utc)
 
 exports.handler = async (event, context, callback) => {
   const payload = JSON.parse(event.body).payload
+  console.log(event)
+  console.log(context)
   console.log(payload.data)
   const { name, email, message, referrer, title, language } = payload.data
 

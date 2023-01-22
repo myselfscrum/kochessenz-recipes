@@ -556,17 +556,21 @@
   left: 0;
   height: 20px;
   width: 20px;
-  background-color: #aaa;
+  background-color: #000;
+  border: solid #B0B0B0;
+  border-width: 1px;  
 }
 
 /* On mouse-over, add a grey background color */
 .ccontainer:hover input ~ .checkmark {
-  background-color: #9e0d23;
+  background-color: #52525e;
 }
 
 /* When the checkbox is checked, add a red background */
 .ccontainer input:checked ~ .checkmark {
   background-color: #E4112F;
+  border: solid #E4112F;
+  border-width: 1px;  
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
@@ -583,8 +587,8 @@
 
 /* Style the checkmark/indicator */
 .ccontainer .checkmark:after {
-  left: 9px;
-  top: 5px;
+  left: 6px;
+  top: 3px;
   width: 5px;
   height: 10px;
   border: solid white;

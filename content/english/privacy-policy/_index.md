@@ -5,112 +5,117 @@ showDate: false
 weight: 30
 ---
 
-## IMPRESSUM
+## IMPRINT
 <br/>
 
-### Angaben gemäß § 5 TMG
+### Information according to § 5 TMG
 
-Betreiber der Website: 
+Operator of the website: 
 
 * Martin Jahr
 * Blücherstraße 14
 * 26603 Aurich
 
-### Kontakt
+### Contact
 
-* Telefon: +49 151 5989 1333
-* E-Mail: hello "@" kochessenz.de
+* Phone: +49 151 5989 1333
+* E-mail: hello "@" kochessenz.de
 
-### Hinweise zur Website
+### Website notes
 
-[Site Design: Martin Jahr](https://martin-jahr.de) unter Nutzung des themefisher Themes "galaxy". Abbildungen, wo nicht anders angegeben: Martin Jahr. Images generiert mit midjourney.
+[Site Design: Martin Jahr](https://martin-jahr.de) using the themefisher theme "galaxy". Images, unless otherwise noted: Martin Jahr. Images generated with midjourney.
 
-## DATENSCHUTZ
+## DATA PROTECTION
 <br/>
 
-### Allgemeine Hinweise
+### General information
 
-Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+The following notices provide a simple overview of what happens to your personal data when you visit our website. Personal data is any data that can be used to identify you personally. For detailed information on data protection, please refer to our privacy policy listed below this text.
 
-### Datenerfassung auf unserer Website
+### Data collection on our website
 
-#### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
+#### Who is responsible for data collection on this website?
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
+Data processing on this website is carried out by the website operator. You can find his contact details in the imprint of this website.
 
-#### Wie erfassen wir Ihre Daten?
+#### How do we collect your data?
 
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
+On the one hand, your data is collected by you providing it to us. This can be, for example, data that you enter in a contact form.
 
-Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.
+Other data is collected automatically by our IT systems when you visit the website. This is mainly technical data (e.g. Internet browser, operating system or time of page view). The collection of this data takes place automatically as soon as you enter our website.
 
-#### Wofür nutzen wir Ihre Daten?
+#### What do we use your data for?
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+Part of the data is collected to ensure error-free provision of the website. Other data may be used to analyze your user behavior.
 
-#### Welche Rechte haben Sie bezüglich Ihrer Daten?
+#### What rights do you have regarding your data?
 
-Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
+You have the right to receive information about the origin, recipient and purpose of your stored personal data free of charge at any time. You also have a right to request the correction, blocking or deletion of this data. For this purpose, as well as for further questions on the subject of data protection, you can contact us at any time at the address given in the imprint. Furthermore, you have the right to lodge a complaint with the competent supervisory authority.
 
-#### Analyse-Tools und Tools von Drittanbietern
+#### Analysis tools and third-party tools
 
-Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung.
+When visiting our website, your surfing behavior may be statistically analyzed. This is done primarily with cookies and with so-called analysis programs. The analysis of your surfing behavior is usually anonymous; the surfing behavior cannot be traced back to you. You can object to this analysis or prevent it by not using certain tools. You can find detailed information on this in the following privacy policy.
 
-Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.
+You can object to this analysis. We will inform you about the objection options in this privacy policy.
 
-## Allgemeine Hinweise und Pflichtinformationen
+## General notes and mandatory information
 <br/>
 
-### Datenschutz
+### Data protection
 
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this data protection declaration.
 
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
+When you use this website, various personal data is collected. Personal data is data with which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this is done.
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+We would like to point out that data transmission on the Internet (e.g. when communicating by e-mail) can have security gaps. Complete protection of data against access by third parties is not possible.
 
-### Hinweis zur verantwortlichen Stelle
+### Note on the responsible body
 
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+The responsible party for data processing on this website is:
 Martin Jahr
-Blücherstraße 14
+Blücherstrasse 14
 26603 Aurich
-Telefon: +49 151 5989 1333
-E-Mail: hello @ kochessenz.de
+Phone: +49 151 5989 1333
+E-mail: hello @ kochessenz.de
 
-Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+The responsible party is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, e-mail addresses or similar).
 
-### Widerruf Ihrer Einwilligung zur Datenverarbeitung
+### Revocation of your consent to data processing.
 
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
+Many data processing operations are only possible with your express consent. You can revoke consent you have already given at any time. For this purpose, an informal communication by e-mail to us is sufficient. The legality of the data processing carried out until the revocation remains unaffected by the revocation.
 
-### Beschwerderecht bei der zuständigen Aufsichtsbehörde
+### Right of complaint to the competent supervisory authority
 
-Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können [diesem Link](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html) entnommen werden.
+In the event of violations of data protection law, the person concerned has the right to lodge a complaint with the competent supervisory authority. The competent supervisory authority in matters of data protection law is the state data protection commissioner of the federal state in which our company is based. A list of the data protection officers and their contact details can be found at [this link](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
 
-### SSL- bzw. TLS-Verschlüsselung
+### SSL or TLS encryption
 
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+For security reasons and to protect the transmission of confidential content, such as orders or requests that you send to us as the site operator, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the fact that the address line of the browser changes from "http://" to "https://" and by the lock symbol in your browser line.
 
-Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
+If SSL or TLS encryption is activated, the data you transmit to us cannot be read by third parties.
 
-### Auskunft, Sperrung, Löschung
+### Information, blocking, deletion
 
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
+Within the scope of the applicable legal provisions, you have the right at any time to obtain information free of charge about your stored personal data, its origin and recipients and the purpose of the data processing and, if applicable, the right to correct, block or delete this data. For this purpose, as well as for further questions on the subject of personal data, you can contact us at any time at the address given in the imprint.
 
-### Widerspruch gegen Werbe-Mails
+### Objection to advertising mails
 
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+We hereby object to the use of contact data published within the scope of the imprint obligation to send advertising and information material that has not been expressly requested. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam e-mails.
 
-### Nutzung der Website durch Kinder
+### Use of the website by children
 
-Unser Angebot richtet sich an Erwachsene. Personen unter 18 Jahren sollen ohne Zustimmung der Eltern oder Erziehungsberechtigten keine personenbezogenen Daten an uns übermitteln.
+Our offer is aimed at adults. Persons under the age of 18 should not transmit any personal data to us without the consent of their parents or legal guardians.
 
-## Netlify Website Hosting und Nutzungsanalyse
+## Netlify Website Hosting and Usage Analytics.
 
-Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sichfreiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist. Ihre persönlichen Daten werden von Netlify verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen. Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben. Weiterführende Informationen zu der Datenschutzrichtlinie von Netlify finden Sie unter  https://www.netlify.com/gdpr-ccpa . Wir haben mit Netlify einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen.
+We use the services of Netlify Inc ("Netlify"). By providing us with personal information, you voluntarily consent to the collection, use and disclosure of such personal information to Netlify. Netlify will only share your personal information with third parties as necessary to provide a particular service and in accordance with our Privacy Policy. Your Personal Information is used by Netlify to provide services to you and to continually improve the quality of the Site and Services, to use the Site and Services more effectively, to evaluate service levels, and to monitor traffic patterns and measure the popularity of various service options. Netlify uses cookies to measure the popularity of service offerings. Netlify will use this information to ensure that visitors always see the same website when they return to the corresponding web URL. It also collects the number of visitors clicking on our website. For more information about Netlify's privacy policy, please visit https://www.netlify.com/gdpr-ccpa . We have concluded a contract with Netlify for commissioned data processing.
 
-## Weitere Plugins und Tools
+## Github project and comment repository
 
-Wir verwenden keine weiteren Tools.
+Comments are stored by the website in github after confirmation by the users. Thus, they are subject to the privacy policy of github: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+
+
+## Other plugins and tools
+
+We do not use any other tools.

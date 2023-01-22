@@ -111,6 +111,10 @@ Unser Angebot richtet sich an Erwachsene. Personen unter 18 Jahren sollen ohne Z
 
 Wir verwenden die Dienste von Netlify Inc. (“Netlify”). Indem Sie uns personenbezogene Daten zur Verfügung stellen, erklären Sie sichfreiwillig mit der Erhebung, Verwendung und Offenlegung solcher personenbezogenen Daten an Netlify einverstanden. Netlify gibt Ihre persönlichen Daten nur an Dritte weiter, sofern dies für die Bereitstellung eines bestimmten Dienstes erforderlich und im Einklang mit unseren Datenschutzbestimmungen ist. Ihre persönlichen Daten werden von Netlify verwendet, um Dienste für Sie bereitzustellen und die Qualität der Webseite und der Dienste kontinuierlich zu verbessern, die Website und Dienste effektiver nutzen zu können, um Serviceniveaus zu bewerten sowie Verkehrsmuster zu überwachen und die Beliebtheit verschiedener Serviceoptionen zu messen. Netlify verwendet Cookies, um die Beliebtheit von Serviceangeboten zu messen. Netlify wird diese Informationen nutzen, um sicherzustellen, dass Besucher stets dieselbe Website sehen, wenn sie zur entsprechenden Web-URL zurückkehren. Ferner wird die Anzahl der klickenden Besucher auf unserer Website erhoben. Weiterführende Informationen zu der Datenschutzrichtlinie von Netlify finden Sie unter  https://www.netlify.com/gdpr-ccpa . Wir haben mit Netlify einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen.
 
+## Github Ablage für Projekte und Kommentare
+
+Kommentare werden von der Website nach Bestätigung durch die Nutzer in github gespeichert. Damit unterliegen sie der Datenschutzrichtlinie von github: https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement .
+
 ## Weitere Plugins und Tools
 
 Wir verwenden keine weiteren Tools.
