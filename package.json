@@ -7,10 +7,16 @@
     "dotenv": "^16.0.3",
     "markdown-it": "^13.0.1",
     "sanitize-html": "^2.8.1",
+    "underscore": "^1.13.6",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/sanitize-html": "^2.8.0"
   },
-  "keywords": ["blog", "hugo", "netlify", "ai"]
+  "keywords": [
+    "blog",
+    "hugo",
+    "netlify",
+    "ai"
+  ]
 }
