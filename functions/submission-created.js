@@ -41,7 +41,7 @@ exports.handler = async (event, context, callback) => {
       });
 
     console.log(issues);
-    const thisIssue = _.where(issues, {"title" : title } );
+    const thisIssue = _.filter(issues, {"title" : title } );
     console.log(thisIssue);
 
     return {
