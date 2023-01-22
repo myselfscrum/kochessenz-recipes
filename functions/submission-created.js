@@ -40,8 +40,9 @@ exports.handler = async (event, context, callback) => {
         repo: process.env.COMMENTREPO
       });
 
-    console.log(issues);
-    const thisIssue = _.filter(issues, {"title" : title } );
+    console.log(issues.data);
+    const thisIssue = _.filter(issues.data, {"title" : title } );
+    console.log(title);
     console.log(thisIssue);
 
     return {
