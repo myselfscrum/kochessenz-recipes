@@ -2,13 +2,11 @@
   "dependencies": {
     "@octokit/core": "^4.2.0",
     "@octokit/plugin-rest-endpoint-methods": "^7.0.1",
-    "axios": "^1.2.3",
     "dayjs": "^1.11.7",
     "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
     "sanitize-html": "^2.8.1",
-    "underscore": "^1.13.6",
-    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/sanitize-html": "^2.8.0"

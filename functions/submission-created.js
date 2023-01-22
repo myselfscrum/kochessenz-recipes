@@ -1,4 +1,4 @@
-var _ = require("underscore");
+var _ = require("lodash");
 const { Octokit } = require("@octokit/core")
 const { restEndpointMethods } = require("@octokit/plugin-rest-endpoint-methods");
 const dayjs = require('dayjs')
@@ -41,7 +41,7 @@ exports.handler = async (event, context, callback) => {
       });
 
     console.log(issues);
-    const thisIssue = _.where(issues, {title: title } );
+    const thisIssue = _.where(issues, {"title" : title } );
     console.log(thisIssue);
 
     return {
