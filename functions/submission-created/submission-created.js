@@ -27,7 +27,7 @@ exports.handler = async (event, context, callback) => {
   */
 
   try {
-    const issues = github.request('GET /repos/{owner}/{repo}/issues', 
+    const issues = await github.request('GET /repos/{owner}/{repo}/issues', 
       {      
         owner: `selfscrum`,
         repo: `kochessenz-ai`
