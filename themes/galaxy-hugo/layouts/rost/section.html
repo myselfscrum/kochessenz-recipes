@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<section>
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-sm-7">
+        {{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+        {{- $pages := where .Data.Pages "Params.recipe" "!=" "no" -}}
+        {{- $pages_by_letters := dict -}}
+        {{ range $pages }}
+        {{- $page := . -}}
+          {{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
+          {{- if not (in $letters $first_letter) }}
+            {{ $first_letter = "#" }}
+          {{ end }}
+          {{- $new_list := slice -}}
+          {{ with index $pages_by_letters $first_letter }}
+            {{- $new_list = . | append $page -}}
+          {{ else }}
+            {{- $new_list = slice $page -}}
+          {{ end }}
+          {{- $sort_list := sort $new_list ".Name" -}}
+          {{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $sort_list) -}}
+        {{ end }}
+        
+        <section class="section-pages-tag">
+          {{ range $key, $items := $pages_by_letters }}
+            <span class="key">{{ $key }}</span>
+            <ul>
+            {{- range $items -}}
+              <li>
+                <a href="{{ .RelPermalink }}">{{ .Name }}</a><br/>
+              </li>
+            {{- end -}}
+            </ul>
+          {{ end }}
+          </section>
+      </div>
+      {{ partial "sidebar.html" . }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
