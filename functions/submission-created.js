@@ -33,7 +33,7 @@ exports.handler = async (event) => {
     const remainingCalls = rateLimitInfo.resources.core.remaining;
     console.log(`GitHub API requests remaining: ${remainingCalls}`);
 
-    if (remainingCalls === 0) {
+    if (remainingCalls < 5) {
       return {
         statusCode: 429,
         body: JSON.stringify({ error: 'Unable to fetch comments at this time. Check back later.' }),
