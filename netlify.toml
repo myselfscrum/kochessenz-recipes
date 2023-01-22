@@ -7,6 +7,7 @@
   HUGO_THEME = "galaxy-hugo"
   HUGO_BASEURL = "https://www.kochessenz.de/"
 
+
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
 

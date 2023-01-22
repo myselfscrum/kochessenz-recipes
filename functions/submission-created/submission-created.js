@@ -1,4 +1,4 @@
-const github = require('./utils/githubconnect.js')
+const github = require('../utils/githubconnect.js')
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 dayjs.extend(utc)
