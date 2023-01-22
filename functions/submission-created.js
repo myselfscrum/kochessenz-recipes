@@ -79,6 +79,7 @@ exports.handler = async (event) => {
           body: ''
         })
         iNumber = newIssue.number
+        console.log(newIssue)
       }
     else
       iNumber = thisIssue[0].number
