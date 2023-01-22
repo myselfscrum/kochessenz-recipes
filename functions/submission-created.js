@@ -69,8 +69,6 @@ exports.handler = async (event, context, callback) => {
     else 
       issueNumber = thisIssue[0].number;
 
-    console.log('Using issue id: ' + thisIssue[0].id )
-
     // create comment
     const commentPayload = { 
       created: dayjs().format('DD MMM YYYY'),
