@@ -28,6 +28,12 @@
 - id: name
   translation: Name
 
+- id: displayed
+  translation: (will be displayed)
+
+- id: hidden
+  translation: (will remain hidden)
+
 - id: email
   translation: Email Address
 
