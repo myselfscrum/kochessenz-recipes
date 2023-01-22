@@ -7,6 +7,10 @@
   HUGO_THEME = "galaxy-hugo"
   HUGO_BASEURL = "https://www.kochessenz.de/"
 
+[build.processing.js]
+  bundle = true
+  minify = false
+
 [[redirects]]
   from = "/api/*"
   to = "./netlify/functions/:splat"
@@ -22,4 +26,5 @@
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
 [functions]
-  directory = "functions"
+  directory = "functions/"
+  included_files = ["functions/utils/*.js"]
