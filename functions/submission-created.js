@@ -7,9 +7,6 @@ dayjs.extend(utc)
 
 exports.handler = async (event, context, callback) => {
   const payload = JSON.parse(event.body).payload
-  console.log(event)
-  console.log(context)
-  console.log(payload.data)
   const { form, name, email, message, referrer, title, language } = payload.data
 
   // ignore other forms than new-comment
@@ -23,10 +20,10 @@ exports.handler = async (event, context, callback) => {
   solution strategy: 
 
   get all issues ot the owner/repo
-  find issue with referrer as title
+  find issue with same title
   if not available
-    create issue with referrer as title
-  add comment to issue
+    create issue with title as name and comment as body
+  else add comment to issue
   */
 
   try {

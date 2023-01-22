@@ -1,17 +1,10 @@
-/*
-const { Octokit } = require("@octokit/core");
-const { createTokenAuth } = require('@octokit/auth-token');
-*/
+const { Octokit } = require("@octokit/core")
+const { restEndpointMethods } = require("@octokit/plugin-rest-endpoint-methods");
 const dayjs = require('dayjs')
 var relativeTime = require('dayjs/plugin/relativeTime')
 
 var md = require('markdown-it')()
 const sanitizeHtml = require('sanitize-html')
-
-const { Octokit } = require("@octokit/core")
-const {
-  restEndpointMethods,
-} = require("@octokit/plugin-rest-endpoint-methods");
 
 exports.handler = async (event) => {
   const issueNumber = event.queryStringParameters.id;
