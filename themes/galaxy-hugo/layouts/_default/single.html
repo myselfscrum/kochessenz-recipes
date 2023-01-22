@@ -51,7 +51,7 @@ const commentsObserver = new IntersectionObserver(
       console.log(entry)
       if (entry.isIntersecting) {
         // Don't need this until they reach the comments section
-        const { fetchComments, renderComments } = await import('./utils/commentutils.js');
+        const { fetchComments, renderComments } = await import('/api/utils/commentutils.js');
         try {
           const comments = await fetchComments(lang, title);
           renderComments(comments);
