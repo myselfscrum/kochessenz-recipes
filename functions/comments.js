@@ -41,6 +41,8 @@ exports.handler = async (event) => {
       repo: `kochessenz-ai`,
       issue_number: issueNumber,
     });    
+    
+    console.log(issues);
 
     const comments = response.data
   // Show comments in chronological order (oldest comments first)

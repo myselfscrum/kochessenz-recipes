@@ -13,7 +13,7 @@ exports.handler = async (event, context, callback) => {
   const { form, name, email, message, referrer, title, language } = payload.data
 
   // ignore other forms than new-comment
-  if (form != 'new-comment')
+  if (form !== 'new-comment')
       return {
         statusCode: 406,
         body: 'Not Acceptable',
