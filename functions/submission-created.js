@@ -78,7 +78,7 @@ exports.handler = async (event) => {
           title: language + "." + title,
           body: ''
         })
-        iNumber = newIssue.number
+        iNumber = newIssue.data.number
         console.log(newIssue)
       }
     else
