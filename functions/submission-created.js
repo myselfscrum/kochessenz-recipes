@@ -44,6 +44,7 @@ exports.handler = async (event, context, callback) => {
     const thisIssue = _.filter(issues.data, {"title" : title } );
     console.log(thisIssue);
 
+    // error if more than one issue exists with the title name
     const issueKeys = Object.keys(thisIssue)
     if (issueKeys.length > 1) {
       console.error('\'' + title + '\' got more than one issue entries: ' + issueKeys.length)
@@ -52,20 +53,37 @@ exports.handler = async (event, context, callback) => {
         body: JSON.stringify({ error: 'Invalid comment entry.' }),
       }  
     }
-      
+
+    // create issue if none exists
+    var issueNumber; 
     if (issueKeys.length === 0)
       {
-        // create issue
+        const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
+          owner: process.env.COMMENTOWNER,
+          repo: process.env.COMMENTREPO,
+          title: title,
+          body: ''
+        })
+        issueNumber = newIssue.number;
       }
+    else 
+      issueNumber = thisIssue[0].number;
 
     console.log('Using issue id: ' + thisIssue[0].id )
-    // create comment
 
+    // create comment
+    const commentPayload = { 
+      created: dayjs().format('DD MMM YYYY')
+      firstname: firstname, 
+      lastname: lastname, 
+      email: email, 
+      message: message
+    };
     const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
       owner: process.env.COMMENTOWNER,
       repo: process.env.COMMENTREPO,
-      issue_number: thisIssue[0].number,
-      body: JSON.stringify(payload.data)
+      issue_number: issueNumber,
+      body: JSON.stringify(commentPayload)
     })
 
     return {
