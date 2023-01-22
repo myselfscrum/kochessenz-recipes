@@ -1,10 +1,10 @@
-const { Octokit } = require("@octokit/core")
+const { Octokit } = require("@octokit/core");
 const { restEndpointMethods } = require("@octokit/plugin-rest-endpoint-methods");
-const dayjs = require('dayjs')
-var relativeTime = require('dayjs/plugin/relativeTime')
+const dayjs = require('dayjs');
+var relativeTime = require('dayjs/plugin/relativeTime');
 
-var md = require('markdown-it')()
-const sanitizeHtml = require('sanitize-html')
+var md = require('markdown-it')();
+const sanitizeHtml = require('sanitize-html');
 
 exports.handler = async (event) => {
   const issueNumber = event.queryStringParameters.id;
@@ -25,22 +25,22 @@ exports.handler = async (event) => {
 
     const issues = await octokit.request('GET /repos/{owner}/{repo}/issues', 
       {      
-        owner: `selfscrum`,
-        repo: `kochessenz-ai`
+        owner: process.env.COMMENTOWNER,
+        repo: process.env.COMMENTREPO
       });
 
     const response = await octokit.rest.issues.listComments({
-      owner: `selfscrum`,
-      repo: `kochessenz-ai`,
-      issue_number: issueNumber,
+    owner: process.env.COMMENTOWNER,
+    repo: process.env.COMMENTREPO,
+    issue_number: issueNumber,
     });    
     
-    console.log(issues);
-
     const comments = response.data
   // Show comments in chronological order (oldest comments first)
   .sort((comment1, comment2) => comment1.created_at.localeCompare(comment2.created_at))
   // Restructure the data so the client-side JS doesn't have to do this
+    console.log(comments);
+  /*
   .map((comment) => {
     return {
       user: {
@@ -53,7 +53,7 @@ exports.handler = async (event) => {
       body: sanitizeHtml(md.render(comment.body)),
     };
   });
-
+*/
 return {
   statusCode: response.status,
   body: JSON.stringify({ data: comments }),

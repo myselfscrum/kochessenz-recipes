@@ -5,7 +5,7 @@ const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 dayjs.extend(utc)
 
-exports.handler = async (event, context, callback) => {
+exports.handler = async (event) => {
   const payload = JSON.parse(event.body).payload
   const { form, name, email, message, referrer, title, language } = payload.data
 
@@ -13,7 +13,7 @@ exports.handler = async (event, context, callback) => {
   if (form !== 'new-comment')
       return {
         statusCode: 406,
-        body: 'Not Acceptable',
+        body: JSON.stringify({ error: 'Not Acceptable' }),
       };
   
   /*
@@ -22,8 +22,8 @@ exports.handler = async (event, context, callback) => {
   get all issues ot the owner/repo
   find issue with same title
   if not available
-    create issue with title as name and comment as body
-  else add comment to issue
+    create issue with title as name
+  add comment to issue
   */
 
   try {
@@ -67,8 +67,9 @@ exports.handler = async (event, context, callback) => {
       email: email, 
       message: message
     };
+    var iNumber;
 
-    // just add the comment if issue exists otherwise create new issue with comment text
+    // create new issue if it not yet exists
     if (issueKeys.length === 0)
       {
         const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
@@ -77,15 +78,18 @@ exports.handler = async (event, context, callback) => {
           title: language + "." + title,
           body: JSON.stringify(commentPayload)
         })
+        iNumber = newIssue.number
       }
-    else {
-      const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
-        owner: process.env.COMMENTOWNER,
-        repo: process.env.COMMENTREPO,
-        issue_number: thisIssue[0].number,
-        body: JSON.stringify(commentPayload)
-      })
-    }
+    else
+      iNumber = thisIssue[0].number
+    // create comment    
+
+    const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
+      owner: process.env.COMMENTOWNER,
+      repo: process.env.COMMENTREPO,
+      issue_number: iNumber,
+      body: JSON.stringify(commentPayload)
+    })
 
     return {
       statusCode: 201,
