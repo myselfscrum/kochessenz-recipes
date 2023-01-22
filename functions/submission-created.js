@@ -73,7 +73,7 @@ exports.handler = async (event, context, callback) => {
 
     // create comment
     const commentPayload = { 
-      created: dayjs().format('DD MMM YYYY')
+      created: dayjs().format('DD MMM YYYY'),
       firstname: firstname, 
       lastname: lastname, 
       email: email, 
