@@ -10,9 +10,9 @@ exports.handler = async (event, context, callback) => {
   console.log(payload.data)
   const { firstname, lastname, email, message, referrer, title, url } = payload.data
 
-  //  see "https://www.lindsaykwardell.com/blog/git-comment-system"
-
   /*
+  solution strategy: 
+
   get all issues ot the owner/repo
   find issue with referrer as title
   if not available
@@ -46,14 +46,13 @@ exports.handler = async (event, context, callback) => {
 
     const issueKeys = Object.keys(thisIssue)
     if (issueKeys.length > 1) {
-      console.log('\'' + title + '\' got more than one entries: ' + issueKeys.length)
+      console.error('\'' + title + '\' got more than one issue entries: ' + issueKeys.length)
       return {
         statusCode: 500,
         body: JSON.stringify({ error: 'Invalid comment entry.' }),
       }  
     }
       
-    
     if (issueKeys.length === 0)
       {
         // create issue
@@ -62,9 +61,16 @@ exports.handler = async (event, context, callback) => {
     console.log('Using issue id: ' + thisIssue[0].id )
     // create comment
 
+    const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
+      owner: process.env.COMMENTOWNER,
+      repo: process.env.COMMENTREPO
+      issue_number: thisIssue[0].number,
+      body: JSON.stringify(payload.data)
+    })
+
     return {
-      statusCode: 200,
-      body: 'OK',
+      statusCode: 201,
+      body: 'Created',
     };
       
   } catch (error) {
