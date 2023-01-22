@@ -6,7 +6,7 @@
     "dotenv": "^16.0.3",
     "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
-    "sanitize-html": "^2.8.1",
+    "sanitize-html": "^2.8.1"
   },
   "devDependencies": {
     "@types/sanitize-html": "^2.8.0"
