@@ -1,4 +1,3 @@
-const github = require('../utils/githubconnect.js')
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 dayjs.extend(utc)
@@ -19,6 +18,7 @@ exports.handler = async (event, context, callback) => {
   */
 
   try {
+    const github = require('../utils/githubconnect.js')
     const issues = await github.request('GET /repos/{owner}/{repo}/issues', 
       {      
         owner: `selfscrum`,
