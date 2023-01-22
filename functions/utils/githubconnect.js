@@ -10,7 +10,7 @@ const rateLimitInfo = async() => {
     const remainingCalls = rateLimitInfo.resources.core.remaining;
     console.log(`GitHub API requests remaining: ${remainingCalls}`);
 
-    if (remainingCalls === 0) {
+    if (remainingCalls < 5000) {
         throw new Error('Unable to fetch comments at this time. Check back later.')
     }
 }
