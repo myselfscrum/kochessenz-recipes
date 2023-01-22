@@ -29,7 +29,7 @@
   translation: Name
 
 - id: displayed
-  translation: (wird später angezeigt)
+  translation: (wird angezeigt)
 
 - id: hidden
   translation: (wird nicht angezeigt)
@@ -45,6 +45,9 @@
 
 - id: message_from_you
   translation: Was ich mitteilen möchte...
+
+- id: privacy
+  translation: Ich bin mit der Verarbeitung und Speicherung meiner persönlichen Daten einverstanden
 
 - id: send
   translation: Nachricht senden

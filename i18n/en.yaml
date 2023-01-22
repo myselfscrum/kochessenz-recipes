@@ -46,6 +46,9 @@
 - id: message_from_you
   translation: My message is...
 
+- id: privacy
+  translation: I agree with the processing and storage of my personal data
+
 - id: send
   translation: send message
 
