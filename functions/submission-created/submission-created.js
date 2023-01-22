@@ -3,7 +3,7 @@ const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 dayjs.extend(utc)
 
-exports.handler = (event, context, callback) => {
+exports.handler = async (event, context, callback) => {
   const payload = JSON.parse(event.body).payload
   console.log(payload.data)
   const { firstname, lastname, email, message, referrer, title, url } = payload.data
@@ -27,9 +27,7 @@ exports.handler = (event, context, callback) => {
   */
 
   try {
-    gh = await github.connect();
-
-    const issues = await gh.request('GET /repos/{owner}/{repo}/issues', 
+    const issues = github.request('GET /repos/{owner}/{repo}/issues', 
       {      
         owner: `selfscrum`,
         repo: `kochessenz-ai`
