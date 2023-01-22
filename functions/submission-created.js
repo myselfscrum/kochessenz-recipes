@@ -8,7 +8,7 @@ dayjs.extend(utc)
 exports.handler = async (event, context, callback) => {
   const payload = JSON.parse(event.body).payload
   console.log(payload.data)
-  const { firstname, lastname, email, message, referrer, title, url } = payload.data
+  const { name, email, message, referrer, title, language } = payload.data
 
   /*
   solution strategy: 
@@ -41,7 +41,7 @@ exports.handler = async (event, context, callback) => {
       });
 
     // filter the right issue by post title
-    const thisIssue = _.filter(issues.data, {"title" : title } );
+    const thisIssue = _.filter(issues.data, {"title" : language + "." + title } );
     console.log(thisIssue);
 
     // error if more than one issue exists with the title name
@@ -57,8 +57,7 @@ exports.handler = async (event, context, callback) => {
     // create comment data
     const commentPayload = { 
       created: dayjs().format('DD MMM YYYY'),
-      firstname: firstname, 
-      lastname: lastname, 
+      name: name, 
       email: email, 
       message: message
     };
@@ -69,7 +68,7 @@ exports.handler = async (event, context, callback) => {
         const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
           owner: process.env.COMMENTOWNER,
           repo: process.env.COMMENTREPO,
-          title: title,
+          title: language + "." + title,
           body: JSON.stringify(commentPayload)
         })
       }

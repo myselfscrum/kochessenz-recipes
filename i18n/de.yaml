@@ -25,6 +25,9 @@
 - id: last_name
   translation: Nachname
 
+- id: name
+  translation: Name
+
 - id: email
   translation: E-Mail Addresse
 
