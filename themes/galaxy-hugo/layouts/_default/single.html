@@ -34,16 +34,16 @@
             <h3 class="section-title">{{ i18n "comment" }}</h3>
           </div>
           <div class="form-group col-md-6">
-            <label for="name">{{- i18n "name" -}} {{- i18n "displayed" -}}</label>
-            <input type="text" name="name" id="name" class="form-control" placeholder="Grahambel">
+            <label for="name">{{- i18n "name" }} {{ i18n "displayed" -}}</label>
+            <input type="text" name="name" id="name" class="form-control" placeholder="Grahambel" required>
           </div>
           <div class="form-group col-md-6">
-            <label for="email">{{- i18n "email" -}} {{- i18n "hidden" -}}</label>
-            <input type="email" name="email" id="email" class="form-control" placeholder="du@email.com">
+            <label for="email">{{- i18n "email" }} {{ i18n "hidden" -}}</label>
+            <input type="email" name="email" id="email" class="form-control" placeholder="du@email.com" required>
           </div>
           <div class="form-group col-12">
             <label for="message">{{ i18n "message"}}</label>
-            <textarea name="message" id="message" class="form-control" placeholder="Was ich mitteilen möchte...……."></textarea>
+            <textarea name="message" id="message" class="form-control" placeholder="{{- i18n "message_from_you" -}}" required></textarea>
           </div>
           <div class="col-12">
             <button class="btn btn-primary" type="submit">{{ i18n "send-comment"}}<i class="ti-arrow-right ml-2"></i></button>

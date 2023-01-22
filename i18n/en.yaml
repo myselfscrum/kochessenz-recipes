@@ -43,6 +43,9 @@
 - id: message
   translation: Message
 
+- id: message_from_you
+  translation: My message is...
+
 - id: send
   translation: send message
 
