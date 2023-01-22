@@ -4,6 +4,7 @@ const MyOctokit = Octokit.plugin(restEndpointMethods);
 
 const octokit = new MyOctokit({ auth: process.env.GITHUB_PERSONAL_ACCESS_TOKEN });
 
+console.log ("init connection request")
 const rateLimitInfo = async() => {
     await octokit.request('GET /rate_limit', {})
     const remainingCalls = rateLimitInfo.resources.core.remaining;
@@ -13,5 +14,7 @@ const rateLimitInfo = async() => {
         throw new Error('Unable to fetch comments at this time. Check back later.')
     }
 }
+
+console.log ("export connection")
 
 module.exports = octokit
