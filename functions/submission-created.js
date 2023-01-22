@@ -54,22 +54,7 @@ exports.handler = async (event, context, callback) => {
       }  
     }
 
-    // create issue if none exists
-    var issueNumber; 
-    if (issueKeys.length === 0)
-      {
-        const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
-          owner: process.env.COMMENTOWNER,
-          repo: process.env.COMMENTREPO,
-          title: title,
-          body: ''
-        })
-        issueNumber = newIssue.number;
-      }
-    else 
-      issueNumber = thisIssue[0].number;
-
-    // create comment
+    // create comment data
     const commentPayload = { 
       created: dayjs().format('DD MMM YYYY'),
       firstname: firstname, 
@@ -77,12 +62,25 @@ exports.handler = async (event, context, callback) => {
       email: email, 
       message: message
     };
-    const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
-      owner: process.env.COMMENTOWNER,
-      repo: process.env.COMMENTREPO,
-      issue_number: issueNumber,
-      body: JSON.stringify(commentPayload)
-    })
+
+    // just add the comment if issue exists otherwise create new issue with comment text
+    if (issueKeys.length === 0)
+      {
+        const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
+          owner: process.env.COMMENTOWNER,
+          repo: process.env.COMMENTREPO,
+          title: title,
+          body: JSON.stringify(commentPayload)
+        })
+      }
+    else {
+      const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
+        owner: process.env.COMMENTOWNER,
+        repo: process.env.COMMENTREPO,
+        issue_number: thisIssue[0].number,
+        body: JSON.stringify(commentPayload)
+      })
+    }
 
     return {
       statusCode: 201,
