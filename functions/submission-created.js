@@ -1,3 +1,4 @@
+var _ = require("underscore");
 const { Octokit } = require("@octokit/core")
 const { restEndpointMethods } = require("@octokit/plugin-rest-endpoint-methods");
 const dayjs = require('dayjs')
