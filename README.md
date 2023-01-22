@@ -2,4 +2,7 @@
 Hugo Code for kochessenz website
 
 
-npm install @octokit/core @octokit/plugin-rest-endpoint-methods
+to get the local environment to netlify:
+  netlify env:import .env
+
+  
