@@ -40,10 +40,9 @@ exports.handler = async (event, context, callback) => {
       });
 
     console.log(issues);
-    const i = JSON.parse(issues.data)
-    const thisIssue = _.where(i, {title: referrer } );
+    const thisIssue = _.where(issues, {title: title } );
     console.log(thisIssue);
-    
+
     return {
       statusCode: 200,
       body: 'OK',
