@@ -45,12 +45,15 @@ exports.handler = async (event, context, callback) => {
     console.log(thisIssue);
 
     const issueKeys = Object.keys(thisIssue)
-    if (issueKeys.length > 1)
-    return {
-      statusCode: 500,
-      body: JSON.stringify({ error: 'Invalid comment entry.' }),
+    if (issueKeys.length > 1) {
+      console.log('\'' + title + '\' got more than one entries: ' + issueKeys.Length)
+      return {
+        statusCode: 500,
+        body: JSON.stringify({ error: 'Invalid comment entry.' }),
+      }  
     }
-
+      
+    
     if (issueKeys.length === 0)
       {
         // create issue
