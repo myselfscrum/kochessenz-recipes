@@ -2,8 +2,8 @@
 
 <section>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-9">
+    <div class="row justify-content-between">
+      <div class="col-lg-7">
         <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
         <h1 class="mb-4">{{ .Title | markdownify }}</h1>
         <ul class="post-meta list-inline mb-3">
@@ -21,44 +21,10 @@
           {{ template "_internal/disqus.html" . }}
         </div>
         {{ end }}
-
-        <!-- mja comments -->
-        <div class="comments">
-          <form
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          name="new-comment"
-          class="my"
-        >
-          <div class="col-12">
-            <h3 class="section-title">{{ i18n "comment" }}</h3>
-          </div>
-          <div class="form-group col-md-6">
-            <label for="name">{{- i18n "name" }} {{ i18n "displayed" -}}</label>
-            <input type="text" name="name" id="name" class="form-control" placeholder="Grahambel" required>
-          </div>
-          <div class="form-group col-md-6">
-            <label for="email">{{- i18n "email" }} {{ i18n "hidden" -}}</label>
-            <input type="email" name="email" id="email" class="form-control" placeholder="du@email.com" required>
-          </div>
-          <div class="form-group col-12">
-            <label for="message">{{ i18n "message"}}</label>
-            <textarea name="message" id="message" class="form-control" placeholder="{{- i18n "message_from_you" -}}" required></textarea>
-          </div>
-          <div class="col-12">
-            <button class="btn btn-primary" type="submit">{{ i18n "send-comment"}}<i class="ti-arrow-right ml-2"></i></button>
-          </div>
-        <input type="hidden" name="bot-field" />
-        <input type="hidden" name="title" id="title" value ="{{- .Title -}}" />
-        <input type="hidden" name="language" id="language" value ="{{- .Page.Lang -}}" />
-        </form>
-        </div>
-        
-
-
       </div>
-    </div>
+    {{ partial "comment-sidebar.html" . }}
   </div>
+</div>
 </section>
 
 {{ end }}

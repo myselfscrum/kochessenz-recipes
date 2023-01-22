@@ -603,3 +603,12 @@ textarea.form-control {
     margin-right: 1em; }
   .section-pages-tag .key {
     font-size: 1rem; }
+
+.comment-parent {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end; }
+
+.comments {
+  display: inline-block;
+  align-self: flex-end; }

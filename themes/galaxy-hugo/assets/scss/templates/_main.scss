@@ -513,3 +513,15 @@
     font-size: 1rem;
   }
 }
+
+
+.comment-parent {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.comments {
+  display: inline-block;
+  align-self: flex-end;  
+}
