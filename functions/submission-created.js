@@ -76,13 +76,14 @@ exports.handler = async (event) => {
           owner: process.env.COMMENTOWNER,
           repo: process.env.COMMENTREPO,
           title: language + "." + title,
-          body: JSON.stringify(commentPayload)
+          body: ''
         })
         iNumber = newIssue.number
       }
     else
       iNumber = thisIssue[0].number
-    // create comment    
+
+      // create comment    
 
     const comment = await octokit.request('POST /repos/{owner}/{repo}/issues/{issue_number}/comments', {
       owner: process.env.COMMENTOWNER,

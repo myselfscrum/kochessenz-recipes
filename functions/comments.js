@@ -37,7 +37,7 @@ exports.handler = async (event) => {
     
     const comments = response.data
   // Show comments in chronological order (oldest comments first)
-  .sort((comment1, comment2) => comment1.created_at.localeCompare(comment2.created_at))
+//  .sort((comment1, comment2) => comment1.created_at.localeCompare(comment2.created_at))
   // Restructure the data so the client-side JS doesn't have to do this
     console.log(comments);
   /*
