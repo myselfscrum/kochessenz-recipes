@@ -58,6 +58,9 @@
 - id: comment
   translation: Your Comment
 
+- id: commented
+  translation: commented
+
 - id: comments
   translation: Comments
 

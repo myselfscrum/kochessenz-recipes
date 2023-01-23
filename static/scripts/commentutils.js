@@ -7,7 +7,7 @@ export const fetchComments = async (lang, title) => {
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
-  export const renderComments = async (comments, nocomment) => {
+  export const renderComments = async (comments, nocomment, commented) => {
     const commentsSection = document.querySelector('#storedcomments');
     const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
     const commentsCounter = commentsSection.querySelector('#comments-count');
@@ -30,7 +30,7 @@ export const fetchComments = async (lang, title) => {
                     <header class="post-comment-meta">
                         ${user}
                       <span class="fs-sm">
-                        commented ${datePosted}
+                        ${commented} ${datePosted}
                       </span>
                       ${
                         isAuthor
