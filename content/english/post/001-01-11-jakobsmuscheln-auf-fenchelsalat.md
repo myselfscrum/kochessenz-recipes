@@ -8,8 +8,8 @@ categories:
   - "afternoon delight"
 type: "regular"
 tags: 
-  - "fennel"
-  - "scallop"
+  - fennel
+  - scallop
 ---
 
 On Sunday afternoons I like to use the free time to make a snack after the obligatory walk. Today it was the turn of scallops, as I was able to get them fresh in good quality yesterday at the Münster market at the fish stand of [Fischhaus Kittner](http://www.fischhaus-kittner.de).

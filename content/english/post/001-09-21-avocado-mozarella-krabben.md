@@ -4,7 +4,7 @@ slug: avocado-mozzarella-shrimps
 date: "2009-09-21T15:00:00"
 image: images/post/krabben-mozzarella-avocado.webp
 categories: 
-  - "afternoon delight"
+  - afternoon delight
 type: regular  
 tags: 
   - avocado

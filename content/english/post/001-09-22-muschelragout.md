@@ -4,8 +4,8 @@ slug: mussels-ragout
 date: 2009-09-22T16:00:00
 image: images/post/mussels.webp
 categories: 
-  - "recooked"
-  - "afternoon delight"
+  - recooked
+  - afternoon delight
 type: regular  
 tags: 
   - mussels
