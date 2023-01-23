@@ -45,7 +45,24 @@ exports.handler = async (event) => {
         body: JSON.stringify({ error: 'Invalid issue entry.' }),
       }  
     }
+    var iNumber;
 
+    // create new issue if it not yet exists
+    if (issueKeys.length === 0)
+      {
+        const newIssue = await octokit.request('POST /repos/{owner}/{repo}/issues', {
+          owner: process.env.COMMENTOWNER,
+          repo: process.env.COMMENTREPO,
+          title: lang + "." + title,
+          body: ''
+        })
+        iNumber = newIssue.data.number
+        console.log(newIssue)
+      }
+      else
+        iNumber = thisIssue[0].number
+      
+/*
     if (issueKeys.length === 0) {
       console.log ('returning:' + JSON.stringify({ error: 'Unable to fetch comments for this post.' }));
       return {
@@ -53,16 +70,21 @@ exports.handler = async (event) => {
         body: JSON.stringify({ error: 'Unable to fetch comments for this post.' }),
       }  
     }
+*/
 
     const response = await octokit.rest.issues.listComments({
     owner: process.env.COMMENTOWNER,
     repo: process.env.COMMENTREPO,
-    issue_number: thisIssue[0].number,
+    issue_number: iNumber,
+    sort: 'created',
+    direction: 'asc'
     });
-    
+
+    console.log(response.data)
+
     const comments = response.data
     // Show comments in chronological order (oldest comments first)
-    .sort((comment1, comment2) => comment1.created_at.localeCompare(comment2.created_at))
+//    .sort((comment1, comment2) => comment1.created_at.localeCompare(comment2.created_at))
     // Restructure the data so the client-side JS doesn't have to do this
     .map((comment) => {
         var payload = JSON.parse(comment.body)
