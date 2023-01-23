@@ -28,3 +28,5 @@ Vinaigrette from
 * pepper, salt
 
 It's very simple: cut the avocado in half, spoon it out of the shell, dice it. Dice mozzarella into small cubes, mix with shrimps and the vinaigrette. Arrange everything in serving bowls. Serve with toast.
+
+> small sandshrimps, diced avocado, diced mozzarella salad, tiny garden cress leaves, olive oil, lemon, food magazine style, award-winning photo, closeup, white bowl, unreal engine rendering, photorealistic, bright image 
