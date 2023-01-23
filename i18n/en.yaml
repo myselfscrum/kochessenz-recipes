@@ -60,7 +60,10 @@
 
 - id: comments
   translation: Comments
-  
+
+- id: nocomment
+  translation: No comment 😉
+
 - id: send-comment
   translation: Send Comment
 

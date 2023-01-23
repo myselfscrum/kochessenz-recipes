@@ -3,36 +3,18 @@ export const fetchComments = async (lang, title) => {
     const response = await fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`);
     const { data: comments, error } = await response.json();
 
-/*
-    fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`)
-    .then(response => response.json()
-    .then(response => ({
-          data: response.comments,
-          error: response.error
-      })
-    ).then(res => {
-      console.log(res.error, res.data)
-    }));
-
-
-
-    if (typeof data === 'undefined' || error) {
-      console.error('no answer from query')
-      throw new Error('No Comment :)');
-    }
-*/    
     return comments;
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
-  export const renderComments = async (comments) => {
+  export const renderComments = async (comments, nocomment) => {
     const commentsSection = document.querySelector('#storedcomments');
     const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
     const commentsCounter = commentsSection.querySelector('#comments-count');
     const commentsPlaceholder = commentsSection.querySelector('#comments-placeholder');
   
     if (!comments.length) {
-      commentsPlaceholder.innerHTML = `No Comment 😉`;
+      commentsPlaceholder.innerHTML = nocomment;
       return;
     }
   

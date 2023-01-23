@@ -57,7 +57,7 @@ const commentsObserver = new IntersectionObserver(
         const { fetchComments, renderComments } = await import('https://www.kochessenz.de/scripts/commentutils.js');
         try {
           const comments = await fetchComments(lang, title);
-          renderComments(comments);
+          renderComments(comments, "{{- i18n "nocomment" -}}");
         } catch (error) {
           commentsPlaceholder.innerHTML = error.message;
         }
