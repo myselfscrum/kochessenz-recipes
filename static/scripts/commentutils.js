@@ -17,7 +17,7 @@ export const fetchComments = async (lang, title) => {
     console.log("data" + comments)
     console.log("error" + error)
 
-    if (typeof error === 'undefined' || typeof data === 'undefined' || error) {
+    if (typeof data === 'undefined' || error) {
       console.error('no answer from query')
       throw new Error('No Comments :)');
     }
