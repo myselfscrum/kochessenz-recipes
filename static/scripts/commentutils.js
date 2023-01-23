@@ -1,6 +1,6 @@
 /** Returns all comments using the provided issue ID. */
 export const fetchComments = async (lang, title) => {
-    const response = await fetch(`/.netlify/functions/comments?id=${lang}&title=${title}`);
+    const response = await fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`);
     const { data: comments, error } = await response.json();
     if (error) {
       throw new Error(error);
