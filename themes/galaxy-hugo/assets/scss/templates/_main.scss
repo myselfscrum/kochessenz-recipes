@@ -597,3 +597,33 @@
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 } 
+
+
+.pill-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: spacing("-2");
+}
+
+.pill {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--color-surface-3);
+  color: var(--color-text-emphasis);
+
+  &[data-shape="round"] {
+    border-radius: spacing("8");
+  }
+
+  &[data-size="sm"] {
+    padding: spacing("-3") spacing("0");
+  }
+
+  &[data-size="xs"] {
+    padding: spacing("-4") spacing("-1");
+  }
+
+  &-count {
+  }
+}
