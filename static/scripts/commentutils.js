@@ -1,32 +1,9 @@
 /** Returns all comments using the provided issue ID. */
 export const fetchComments = async (lang, title) => {
-/*
     const response = await fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`);
     const { data: comments, error } = await response.json();
-*/
 
-function callApi(url) {
-  return fetch(url)
-    .then(response => {
-      if (response.ok) {
-        return response.json().then(response => ({ response }));
-      }
-
-      return response.json().then(error => ({ error }));
-    })
-  ;
-}
-
-let url = 'http://jsonplaceholder.typicode.com/posts/6';
-
-const { response, error } = callApi(url);
-if (response) {
-  // handle json decoded response
-} else {
-  // handle json decoded 500 series response
-}
-
-
+/*
     fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`)
     .then(response => response.json()
     .then(response => ({
@@ -37,6 +14,7 @@ if (response) {
       console.log(res.error, res.data)
     }));
 
+*/
     console.log("data" + data)
     console.log("error" + error)
 
