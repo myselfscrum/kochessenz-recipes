@@ -50,8 +50,7 @@ exports.handler = async (event) => {
     if (issueKeys.length === 0) {
       return {
         statusCode: 204,
-        body: "[]",
-
+        body: JSON.stringify({ error: 'Unable to fetch comments for this post.' }),
       }  
     }
 
