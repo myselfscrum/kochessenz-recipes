@@ -46,8 +46,8 @@ exports.handler = async (event) => {
       }  
     }
 
-
     if (issueKeys.length === 0) {
+      console.log ('returning:' + JSON.stringify({ error: 'Unable to fetch comments for this post.' }));
       return {
         statusCode: 204,
         body: JSON.stringify({ error: 'Unable to fetch comments for this post.' }),
