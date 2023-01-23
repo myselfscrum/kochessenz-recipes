@@ -4,24 +4,47 @@ export const fetchComments = async (lang, title) => {
     const response = await fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`);
     const { data: comments, error } = await response.json();
 */
+
+function callApi(url) {
+  return fetch(url)
+    .then(response => {
+      if (response.ok) {
+        return response.json().then(response => ({ response }));
+      }
+
+      return response.json().then(error => ({ error }));
+    })
+  ;
+}
+
+let url = 'http://jsonplaceholder.typicode.com/posts/6';
+
+const { response, error } = callApi(url);
+if (response) {
+  // handle json decoded response
+} else {
+  // handle json decoded 500 series response
+}
+
+
     fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`)
     .then(response => response.json()
     .then(response => ({
-          comments: response.comments,
+          data: response.comments,
           error: response.error
       })
     ).then(res => {
-      console.log(res.error, res.comments)
+      console.log(res.error, res.data)
     }));
 
-    console.log("data" + comments)
+    console.log("data" + data)
     console.log("error" + error)
 
-    if (typeof comments === 'undefined' || error) {
+    if (typeof data === 'undefined' || error) {
       console.error('no answer from query')
       throw new Error('No Comments :)');
     }
-    return comments;
+    return data;
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
