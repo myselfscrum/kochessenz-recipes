@@ -6,7 +6,7 @@ export const fetchComments = async (lang, title) => {
 */
     const { comments, error } = fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`)
     .then(response => response.json()
-    .then(data => ({
+    .then(comments => ({
           comments: response.comments,
           error: response.error
       })
