@@ -41,3 +41,8 @@ link = "https://www.instagram.com/kochessenz.de/"
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/selfscrum/kochessenz-ai"
+
+[[social]]
+title = "rss"
+icon = "ti-rss" # themify icon : https://themify.me/themify-icons
+link = "https://www.kochessenz.de/index.xml"
