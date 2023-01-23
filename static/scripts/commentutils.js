@@ -7,7 +7,7 @@ export const fetchComments = async (lang, title) => {
     fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`)
     .then(response => response.json()
     .then(data => ({
-          data: comments,
+          data: response.comments,
           error: response.error
       })
     ).then(res => {
@@ -17,11 +17,11 @@ export const fetchComments = async (lang, title) => {
     console.log("data" + data)
     console.log("error" + error)
 
-    if (typeof error === 'undefined' || typeof comments === 'undefined' || error) {
+    if (typeof error === 'undefined' || typeof data === 'undefined' || error) {
       console.error('no answer from query')
       throw new Error('no answer from query');
     }
-    return comments;
+    return data;
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
