@@ -18,7 +18,7 @@ export const fetchComments = async (lang, title) => {
 
     if (typeof data === 'undefined' || error) {
       console.error('no answer from query')
-      throw new Error('No Comments :)');
+      throw new Error('No Comment :)');
     }
 */    
     return comments;
@@ -32,7 +32,7 @@ export const fetchComments = async (lang, title) => {
     const commentsPlaceholder = commentsSection.querySelector('#comments-placeholder');
   
     if (!comments.length) {
-      commentsPlaceholder.innerHTML = `No comments yet.`;
+      commentsPlaceholder.innerHTML = `No Comment 😉`;
       return;
     }
   
