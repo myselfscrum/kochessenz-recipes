@@ -40,6 +40,7 @@ exports.handler = async (event) => {
       };
     }
 
+    // get the issues of this repo
     const issues = await octokit.request('GET /repos/{owner}/{repo}/issues', 
       {      
         owner: process.env.COMMENTOWNER,

@@ -25,6 +25,7 @@ exports.handler = async (event) => {
       };
     }
 
+    // get the issues of this repo
     const issues = await octokit.request('GET /repos/{owner}/{repo}/issues', 
       {      
         owner: process.env.COMMENTOWNER,
@@ -36,6 +37,7 @@ exports.handler = async (event) => {
 
     // error if more than one issue exists with the title name
     const issueKeys = Object.keys(thisIssue)
+
     if (issueKeys.length > 1) {
       console.error('\'' + title + '\' got more than one issue entries: ' + issueKeys.length)
       return {
@@ -48,7 +50,7 @@ exports.handler = async (event) => {
     if (issueKeys.length === 0) {
       return {
         statusCode: 204,
-        body: "{}",
+        body: "[]",
 
       }  
     }
