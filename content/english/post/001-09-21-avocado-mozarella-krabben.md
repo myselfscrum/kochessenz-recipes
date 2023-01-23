@@ -1,5 +1,5 @@
 ---
-title: "Avocado-Mozarella-Krabben"
+title: "Avocado, Mozzarella, Shrimps"
 slug: avocado-mozzarella-shrimps
 date: "2009-09-21T15:00:00"
 image: images/post/krabben-mozzarella-avocado.webp

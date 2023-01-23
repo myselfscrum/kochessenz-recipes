@@ -68,7 +68,7 @@
   translation: Comments
 
 - id: nocomment
-  translation: No comment 😉
+  translation: No comment yet 😉
 
 - id: send-comment
   translation: Send Comment
