@@ -4,14 +4,14 @@ slug: avocado-mozzarella-shrimps
 date: "2009-09-21T15:00:00"
 image: images/post/krabben-mozzarella-avocado.webp
 categories: 
-  - nachmittagsgenuss
+  - "afternoon delight"
 type: regular  
 tags: 
   - avocado
   - mozzarella
-  - nordseekrabbe
+  - sand shrimps
   - limette
-  - olivenöl
+  - olive oil
 ---
 
 After yesterday's gluttony, today we have something simple:

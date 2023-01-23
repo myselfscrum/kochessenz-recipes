@@ -24,7 +24,7 @@ const markdownLib = markdownIt({
   // Conversion of \n to <br>
   breaks: false,
   // Automatically hyperlinking inline links
-  linkify: false,
+  linkify: true,
   // Smart quotes and other symbol replacements
   typographer: true,
 })
