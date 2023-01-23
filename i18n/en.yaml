@@ -61,6 +61,9 @@
 - id: commented
   translation: commented
 
+- id: onecomment
+  translation: Comment
+
 - id: comments
   translation: Comments
 

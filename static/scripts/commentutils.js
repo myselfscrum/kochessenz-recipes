@@ -18,7 +18,7 @@ export const fetchComments = async (lang, title) => {
       return;
     }
   
-    commentsCounter.innerText = `${comments.length} `;
+    commentsCounter.innerText = `${comments.length} ${comments.length == 1 ? 'Kommentar' : 'Kommentare'} `;
     const commentsList = document.createElement('ol');
     commentsList.className = 'stack gap-10';
     commentsList.innerHTML = comments

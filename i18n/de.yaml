@@ -60,7 +60,10 @@
   
 - id: commented
   translation: kommentierte am
-  
+
+- id: onecomment
+  translation: Kommentar
+
 - id: comments
   translation: Kommentare
 
