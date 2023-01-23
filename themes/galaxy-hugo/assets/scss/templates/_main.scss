@@ -602,7 +602,7 @@
 .pill-group {
   display: flex;
   flex-wrap: wrap;
-  gap: spacing("-2");
+  gap: -2;
 }
 
 .pill {
@@ -615,16 +615,16 @@
   font-weight: bolder;  
 
   &[data-shape="round"] {
-    border-radius: spacing("8");
+    border-radius: 8;
   }
 
   &[data-size="sm"] {
-    padding: spacing("-3") spacing("0");
+    padding: -3 0;
     font-size: smaller;
   }
 
   &[data-size="xs"] {
-    padding: spacing("-4") spacing("-1");
+    padding: -4 1;
     font-size: x-small;
   }
 }
