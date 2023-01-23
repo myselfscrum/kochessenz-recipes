@@ -21,13 +21,8 @@
           {{ template "_internal/disqus.html" . }}
         </div>             
         {{ end }}
-      </div>
-    {{ partial "comment-sidebar.html" . }}
-  </div>
-</div>
-</section>
-        <!-- new comments -->
-        <section id="storedcomments" class="stack gap-10" data-title="{{- .Title -}}" data-lang="{{- .Page.Lang -}}">
+
+        <div id="storedcomments" class="stack gap-10" data-title="{{- .Title -}}" data-lang="{{- .Page.Lang -}}">
           <div class="stack gap-0">
             <div class="comment-actions flex flex-wrap align-center justify-between gap-0">
               <h2><span id="comments-count" aria-hidden="true"></span>Comments</h2>
@@ -36,7 +31,15 @@
           <div id="comments-wrapper">
             <p id="comments-placeholder" class="text-center">Loading...</p>
           </div>
+        </div>
+
+
+      </div>
+    {{ partial "comment-sidebar.html" . }}
+  </div>
+</div>
 </section>
+        <!-- new comments -->
 
 <script type="application/javascript">
 const commentsSection = document.querySelector('#storedcomments');
