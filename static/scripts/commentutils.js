@@ -27,7 +27,9 @@ export const fetchComments = async (lang, title) => {
         return `<li>
                   <article class="post-comment stack gap-0">
                     <header class="post-comment-meta">
+                    <span class="post-comment-user">
                         ${user}
+                    </span>
                       <span class="fs-sm">
                         ${commented} ${datePosted}
                       </span>

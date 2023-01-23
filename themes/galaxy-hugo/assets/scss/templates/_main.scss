@@ -599,12 +599,6 @@
 } 
 
 
-.pill-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: -2px;
-}
-
 .pill {
   text-decoration: none;
   display: inline-flex;
@@ -613,6 +607,31 @@
   color: $text-color-dark;
   font-family: monospace, sans-serif;
   border-radius: 8px;
-  padding: 3px;
+  padding: 3px 6px 3px 6px;
+  margin-left: 5px;
   font-size: smaller;
+}
+
+.post-comment-user {
+  font-weight: bold;
+}
+
+.post-comment-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.post-comment-body ul {
+    list-style: disc;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.rhythm {
+    margin-top: 1em;
 }
