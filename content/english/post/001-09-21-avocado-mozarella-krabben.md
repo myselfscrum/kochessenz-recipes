@@ -14,17 +14,17 @@ tags:
   - olivenöl
 ---
 
-Nach der Völlerei von gestern gibt es heute etwas Einfaches:
+After yesterday's gluttony, today we have something simple:
 
-* 2 Avocados
-* 150g frisch gepulte Nordseekrabben
-* 1 Mozzarella
+* 2 avocados
+* 150g freshly shelled sand shrimps (north sea)
+* 1 mozzarella
  
-Vinaigrette aus 
-* 1 Limette 
-* 4 EL gutes Olivenöl 
-* 1 rohes Eigelb 
-* 1 Kasten Kresse 
-* Pfeffer, Salz
+Vinaigrette from 
+* 1 lime 
+* 4 tablespoons good olive oil 
+* 1 raw egg yolk 
+* 1 box of garden cress 
+* pepper, salt
 
-Es geht ganz einfach: Avocado halbieren, aus der Schale löffeln, vierteln. Mozzarella klein würfeln, mit Krabben und der Vinaigrette mischen. Alles auf in Portionsschüsseln anrichten. Dazu gibt's Toast.
+It's very simple: cut the avocado in half, spoon it out of the shell, dice it. Dice mozzarella into small cubes, mix with shrimps and the vinaigrette. Arrange everything in serving bowls. Serve with toast.

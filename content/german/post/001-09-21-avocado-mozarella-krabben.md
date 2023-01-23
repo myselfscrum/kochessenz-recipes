@@ -1,6 +1,6 @@
 ---
 title: "Avocado-Mozarella-Krabben"
-date: "2009-09-21T15:00"
+date: "2009-09-21T15:00:00"
 image: images/post/krabben-mozzarella-avocado.webp
 categories: 
   - nachmittagsgenuss
