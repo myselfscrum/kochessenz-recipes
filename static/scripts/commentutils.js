@@ -24,7 +24,6 @@ export const fetchComments = async (lang, title) => {
     commentsList.innerHTML = comments
       .map((comment, i) => {
         const { user, isAuthor, datePosted, body } = comment;
-        const authorPillId = `author-${i}`;
         return `<li>
                   <article class="post-comment stack gap-0">
                     <header class="post-comment-meta">
@@ -34,7 +33,7 @@ export const fetchComments = async (lang, title) => {
                       </span>
                       ${
                         isAuthor
-                          ? `<span id="${authorPillId}" class="pill post-comment-author" data-shape="round" data-size="xs">Author</span>`
+                          ? `<span class="pill">Author</span>`
                           : ''
                       }
                     </header>
