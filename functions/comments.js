@@ -1,4 +1,5 @@
 var _ = require("lodash");
+const markdownLib = require('./utils/markdown.js');
 const { Octokit } = require("@octokit/core");
 const { restEndpointMethods } = require("@octokit/plugin-rest-endpoint-methods");
 const dayjs = require('dayjs');
@@ -92,7 +93,7 @@ exports.handler = async (event) => {
           user: sanitizeHtml(payload.name),
           isAuthor: payload.name === process.env.COMMENTOWNER,
           datePosted: payload.created,
-          body: sanitizeHtml(payload.message)
+          body: sanitizeHtml(markdownLib.render(payload.message)) // needs markdown rendering
         };
     });
 

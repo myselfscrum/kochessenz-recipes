@@ -1,12 +1,21 @@
 {
   "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^4.0.1",
     "@octokit/core": "^4.2.0",
     "@octokit/plugin-rest-endpoint-methods": "^7.0.1",
+    "@toycode/markdown-it-class": "^1.2.4",
     "dayjs": "^1.11.7",
     "dotenv": "^16.0.3",
     "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
-    "sanitize-html": "^2.8.1"
+    "markdown-it-anchor": "^8.6.6",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-code-tabindex": "^0.0.3",
+    "markdown-it-link-attributes": "^4.0.1",
+    "markdown-it-prism": "^2.3.0",
+    "markdown-it-toc-done-right": "^4.2.0",
+    "sanitize-html": "^2.8.1",
+    "slugify": "^1.6.5"
   },
   "devDependencies": {
     "@types/sanitize-html": "^2.8.0"
