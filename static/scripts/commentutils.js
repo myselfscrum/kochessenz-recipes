@@ -21,7 +21,7 @@ export const fetchComments = async (lang, title) => {
       throw new Error('No Comments :)');
     }
 */    
-    return data;
+    return comments;
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
