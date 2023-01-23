@@ -7,7 +7,7 @@ export const fetchComments = async (lang, title) => {
   };
   
   /** Renders the given list of comments, converting markdown to HTML. */
-  export const renderComments = async (comments, nocomment, commented) => {
+  export const renderComments = async (comments, nocomment, commented, onecomment, manycomments) => {
     const commentsSection = document.querySelector('#storedcomments');
     const commentsWrapper = commentsSection.querySelector('#comments-wrapper');
     const commentsCounter = commentsSection.querySelector('#comments-count');
@@ -18,7 +18,7 @@ export const fetchComments = async (lang, title) => {
       return;
     }
   
-    commentsCounter.innerText = `${comments.length} ${comments.length == 1 ? 'Kommentar' : 'Kommentare'} `;
+    commentsCounter.innerText = `${comments.length} ${comments.length == 1 ? onecomment : manycomments} `;
     const commentsList = document.createElement('ol');
     commentsList.className = 'stack gap-10';
     commentsList.innerHTML = comments
