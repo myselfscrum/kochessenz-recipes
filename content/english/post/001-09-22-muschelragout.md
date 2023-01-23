@@ -12,12 +12,12 @@ tags:
   - mustard
 ---
 
-Diesmal gibts den Sonntagsnachmittagsgenuss schon samstags - es gab genug leckere Sachen beim Fischhändler Kittner auf dem Markt, dass es für zwei Nachmittagsgerichte reicht.
+This time there is the Sunday afternoon pleasure already on Saturday - there were enough delicious things to buy at the fishmonger Kittner on the market, so it is enough for two afternoon dishes.
 
-Vage hatte ich beim Einkauf noch das Muschelragout aus der e&t im Kopf. Daher erstand ich ein Pfund Muscheln, die hier immer sehr groß und wohlschmeckend sind.
+Vaguely I still had the mussel ragout from the e&t magazine in mind while shopping. So I bought a pound of mussels, which are always very large and tasty here.
 
-Die Muscheln habe ich dann in einigen Minuten in Salzwasser gekocht und aus den Schalen befreit.
+I boiled the mussels in salted water for a few minutes and removed them from their shells.
 
-Danach habe ich dann ein paar Gemüse vom Mis en Place fürs Abendessen entwendet - je eine halbe Handvoll kleingeschnittene Möhren, Sellerie und Lauch. Einmal kurz in Butter angeschwitzt und mit einem Glas Weißwein (Riesling), einem Becher Sahne und einem Viertel Liter Hühnerfond abgelöscht und 20 Minuten eingekocht. Abschmecken mit Salz, Pfeffer, Senf, dann kurz die Muscheln zum Erhitzen dazugeben, dazu ein Toast mit Chilibutter, fertig. Zum Glück mag hier keiner Muscheln, so wird es für mich eine etwas größere Portion!
+I then pilfered a few vegetables from the Mis en Place for dinner - half a handful each of chopped carrots, celery and leeks. Once briefly sautéed in butter and deglazed with a glass of white wine (Riesling), a cup of cream and a quarter of a liter of chicken stock, then simmered for 20 minutes. Season with salt, pepper, mustard, then briefly add the mussels to heat, plus a toast with chili butter, done. Fortunately, no one here likes mussels, so it becomes a slightly larger portion for me!
 
 > mussel ragout with buttered toast, food magazine style, award-winning photo, small bowl, closeup, unreal engine rendering, photorealistic, bright image
