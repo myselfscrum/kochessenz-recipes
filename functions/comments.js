@@ -44,10 +44,12 @@ exports.handler = async (event) => {
       }  
     }
 
+
     if (issueKeys.length === 0) {
       return {
         statusCode: 204,
-        body: JSON.stringify({ error: 'no issue for that title' }),
+        body: "{}",
+
       }  
     }
 
