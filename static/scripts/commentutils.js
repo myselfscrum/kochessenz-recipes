@@ -8,7 +8,7 @@ export const fetchComments = async (lang, title) => {
     .then(response => response.json()
     .then(data => ({
           data: comments,
-          status: response.status
+          error: response.error
       })
     ).then(res => {
       console.log(res.status, res.data)
