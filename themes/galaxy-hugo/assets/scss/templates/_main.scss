@@ -612,8 +612,13 @@
   font-size: smaller;
 }
 
+.post-comment {
+  margin-top: 1em;
+}
+
 .post-comment-user {
   font-weight: bold;
+  margin-right: 3px;
 }
 
 .post-comment-meta {
@@ -633,5 +638,5 @@
 }
 
 .rhythm {
-    margin-top: 1em;
+    margin-top: 0.5em;
 }
