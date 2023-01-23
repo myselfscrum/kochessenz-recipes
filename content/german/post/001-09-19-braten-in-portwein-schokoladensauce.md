@@ -1,7 +1,7 @@
 ---
 title: "Rinderbraten in Portwein-Schokoladensauce"
 image: images/post/roast-port.webp
-date: 2009-09-20
+date: 2009-09-19
 categories: 
   - nachgekochtes
 type: regular

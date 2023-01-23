@@ -58,6 +58,9 @@
 - id: comment
   translation: Dein Kommentar
   
+- id: comments
+  translation: Kommentare
+  
 - id: send-comment
   translation: Kommentar senden
   
