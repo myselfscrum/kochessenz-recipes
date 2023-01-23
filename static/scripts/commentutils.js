@@ -3,8 +3,8 @@ export const fetchComments = async (lang, title) => {
     const response = await fetch(`/.netlify/functions/comments?lang=${lang}&title=${title}`);
     console.log("Response" + response)
     const { data: comments, error } = await response.json();
-    if (error) {
-      console.error(error)
+    if (error || typeof comments === 'undefined') {
+      console.error('no answer from query')
       throw new Error(error);
     }
     return comments;
