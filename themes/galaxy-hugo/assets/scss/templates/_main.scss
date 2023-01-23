@@ -611,6 +611,8 @@
   align-items: center;
   background-color: $primary-color;
   color: $text-color-dark;
+  font-family: monospace, sans-serif;
+  font-weight: bolder;  
 
   &[data-shape="round"] {
     border-radius: spacing("8");
@@ -618,9 +620,11 @@
 
   &[data-size="sm"] {
     padding: spacing("-3") spacing("0");
+    font-size: smaller;
   }
 
   &[data-size="xs"] {
     padding: spacing("-4") spacing("-1");
+    font-size: x-small;
   }
 }
