@@ -1,5 +1,5 @@
 ---
-title: "Maccaroniauflauf"
+title: "Maccaroni Gratin"
 slag: maccaroni-gratin
 date: "2009-10-07"
 image: images/post/maccaroni-gratin.webp
