@@ -39,4 +39,4 @@ The resulting paste is now stirred for 30 minutes until deim stirring the large 
 
 This looks like it would go very well with a strong cheese platter!
 
-> 
+> cheese plate with fig chutney, long lens, depth of field, shot from material height, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image

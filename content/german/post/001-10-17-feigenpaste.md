@@ -40,4 +40,4 @@ Der entstandene Brei wird nun 30 Minuten gerührt, bis deim Rühren der großen 
 
 Das sieht so aus, als würde das sehr gut zu einer kräftigen Käseplatte passen!
 
-> 
+> cheese plate with fig chutney, long lens, depth of field, shot from material height, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image
