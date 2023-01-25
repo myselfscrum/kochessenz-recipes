@@ -1,6 +1,6 @@
 ---
 title: Smoked Shrimp on Trout Mousse Sandwich
-slag: smoked Shrimp
+slag: smoked-shrimp
 date: 2009-10-11
 image: images/post/smoked-shrimp.webp
 categories: 
