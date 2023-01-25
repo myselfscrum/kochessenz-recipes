@@ -1,5 +1,5 @@
 ---
-title: Geräucherte Garnele auf Forellenmousse
+title: "Geräucherte Garnele auf Forellenmousse"
 date: 2009-10-11
 image: images/post/smoked-shrimp.webp
 categories: 
