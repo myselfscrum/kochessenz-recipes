@@ -1,7 +1,7 @@
 ---
 title: Smoked Shrimp on Trout Mousse Sandwich
 slag: smoked-shrimp
-date: 2009-10-11
+date: 2009-10-12
 image: images/post/smoked-shrimp.webp
 categories: 
   - afternoon delight

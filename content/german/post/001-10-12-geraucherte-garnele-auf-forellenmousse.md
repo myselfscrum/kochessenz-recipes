@@ -1,6 +1,6 @@
 ---
 title: "Geräucherte Garnele auf Forellenmousse"
-date: 2009-10-11
+date: 2009-10-12
 image: images/post/smoked-shrimp.webp
 categories: 
   - nachmittagsgenuss
