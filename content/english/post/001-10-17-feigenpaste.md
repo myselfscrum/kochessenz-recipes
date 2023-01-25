@@ -33,7 +33,8 @@ and cook the mixture for 20 minutes.
 
 To this we add
 
-400 g preserving sugar 1 pinch of vanilla
+* 400 g preserving sugar
+* 1 pinch of vanilla
 
 The resulting paste is now stirred for 30 minutes until deim stirring the large 8 can be seen the bottom of the pot. Now the paste is thick enough to fill into sterilized twist-off jars, which we accomplish together with only a few burns.
 
