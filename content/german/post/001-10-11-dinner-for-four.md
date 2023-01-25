@@ -80,3 +80,5 @@ Das Karamelgemisch grob hacken und kurz vor dem Servieren auf den Quark geben. D
 Ein Menü, das zum vorzeitigen Ende des Abends führte, da alle mit vollem Bauch müde wurden und ins Bett gingen. Also nichts für lange Feiern ;)
 
 Aber immerhin ein Artikel für ein Blogevent...
+
+> an aesthetic view on grilled ocean perch, lying flat on the plate, side-to-side with potato-pointy-cabbage mesh, long lens, depth of field, shot from material height, hyperrealistic, chanterelle, steamed spinach, very photorealistic, food magazine style, award-winning photo, big white plate for many persons, unreal engine rendering, light background, bright image

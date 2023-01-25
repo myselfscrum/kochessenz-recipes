@@ -79,3 +79,5 @@ Roughly chop the caramel mixture and add to the curd just before serving. I add 
 A menu that led to the premature end of the evening, as everyone got tired with a full belly and went to bed. So nothing for long parties ;)
 
 But at least a post for a blog event....
+
+> an aesthetic view on grilled ocean perch, lying flat on the plate, side-to-side with potato-pointy-cabbage mesh, long lens, depth of field, shot from material height, hyperrealistic, chanterelle, steamed spinach, very photorealistic, food magazine style, award-winning photo, big white plate for many persons, unreal engine rendering, light background, bright image

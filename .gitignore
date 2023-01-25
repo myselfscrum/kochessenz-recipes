@@ -1,6 +1,7 @@
 # Local Netlify folder
 .netlify
 public
+stock
 .editorconfig
 config.toml.not
 
