@@ -1,6 +1,6 @@
 ---
 title: "Grilled Pikeperch with Potato Cream"
-slug: grilled-pikeperch-with-potato-ream
+slug: grilled-pikeperch-with-potato-cream
 image: images/post/pikeperch-potato.webp
 date: "2009-09-26"
 categories: 
