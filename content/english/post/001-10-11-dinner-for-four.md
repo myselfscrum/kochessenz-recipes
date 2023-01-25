@@ -56,7 +56,7 @@ The mashed potatoes are spread on plates and the spinach is placed on top. I put
 
 Yummy. I find that this fish-mushroom-potato combination suits me very well, it is structurally very similar to [pike-perch with mashed potatoes](../grilled-pikeperch-with-potato-cream) after all.
 
-## Elderflower curd with lavender raspberries and almond brittle.
+### Elderflower curd with lavender raspberries and almond brittle.
 
 We are out of everything but one bowl of potatoes. So we have to wait until there is room for the dessert I made in the afternoon.
 

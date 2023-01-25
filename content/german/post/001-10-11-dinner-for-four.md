@@ -57,7 +57,7 @@ Der Kartoffelstampf wird auf Tellern verstrichen, darauf kommt der Spinat. Die T
 
 Mmmh. Ich stelle fest, dass mir diese Fisch-Pilz-Kartoffel-Kombination sehr liegt, sie ähnelt strukturell doch sehr dem [Zander mit Kartoffelschaum](../001-09-26-zander-mit-kartoffelschaum).
 
-## Holunderblütenquark mit Lavendel-Himbeeren und Mandelkrokant
+### Holunderblütenquark mit Lavendel-Himbeeren und Mandelkrokant
 
 Alles ist alle bis auf eine Schüssel mit den Kartoffeln. Daher müssen wir jetzt erstmal abwarten, bis wieder Platz für das Dessert ist, das ich nachmittags schon gemacht habe
 
