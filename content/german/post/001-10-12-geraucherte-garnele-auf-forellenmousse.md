@@ -39,3 +39,5 @@ sind die Basis für die Mousse, die der mit der Gabel kleingemusten Forelle in d
 mit dem großen Portionierring so bearbeiten, dass runde Brotscheiben entstehen. Die Reste werden gewürfelt und für spätere Croutons eingefroren.
 
 Scheiben toasten, dann die Creme darauf, dann die ausgelösten Garnelen. Ein wenig Dill und Limette als Deko und die Lebensgefährtin strahlt.
+
+> one round thin flat ciabatta slice::1, mousse spread on it::1, on top on smoked prawn::1, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic,, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image

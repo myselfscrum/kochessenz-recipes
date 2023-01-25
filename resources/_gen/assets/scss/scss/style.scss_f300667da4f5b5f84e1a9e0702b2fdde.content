@@ -677,20 +677,52 @@ textarea.form-control {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg); }
 
-.pill-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: spacing("-2"); }
+.comment-actions {
+  margin-top: 2em; }
 
 .pill {
   text-decoration: none;
   display: inline-flex;
   align-items: center;
-  background-color: var(--color-surface-3);
-  color: var(--color-text-emphasis); }
-  .pill[data-shape="round"] {
-    border-radius: spacing("8"); }
-  .pill[data-size="sm"] {
-    padding: spacing("-3") spacing("0"); }
-  .pill[data-size="xs"] {
-    padding: spacing("-4") spacing("-1"); }
+  background-color: #E4112F;
+  color: #fff;
+  font-family: monospace, sans-serif;
+  border-radius: 8px;
+  padding: 3px 6px 3px 6px;
+  margin-left: 5px;
+  font-size: smaller; }
+
+.post-comment {
+  margin-top: 1.5em; }
+
+.post-comment-user {
+  font-weight: bold;
+  margin-right: 0.125em; }
+
+.post-comment-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2px; }
+
+.post-comment-body ul {
+  list-style: disc; }
+
+.stack {
+  display: flex;
+  flex-direction: column; }
+
+.rhythm {
+  margin-top: 0.5em; }
+
+.rhythm h1 {
+  margin-top: 0.7em;
+  font-size: 1.3em; }
+
+.rhythm h2 {
+  margin-top: 0.6em;
+  font-size: 1.1em; }
+
+.rhythm h3, h4, h5, h6 {
+  font-size: 1em;
+  font-weight: bolder; }

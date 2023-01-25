@@ -39,4 +39,4 @@ Cut 4 slices of toast with the large portioning ring so that round slices of bre
 
 Toast slices, then top with the cream, then the shrimp. A little dill and lime as decoration and the significant other beams.
 
-> one round thin flat ciabatta slice, 1, mousse spread on it, 1, on top on smoked prawn, 1, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic,, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image
+> one round thin flat ciabatta slice, mousse spread on it, on top on smoked prawn, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image
