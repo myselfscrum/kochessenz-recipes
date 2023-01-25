@@ -37,4 +37,6 @@ are the base for the mousse. The trout follows, minced with a fork, into the pot
 
 Cut 4 slices of toast with the large portioning ring so that round slices of bread are formed. Dice the leftovers and freeze for croutons later.
 
-Toast slices, then top with the cream, then the shrimp. A little dill and lime as decoration and the life partner beams.
+Toast slices, then top with the cream, then the shrimp. A little dill and lime as decoration and the significant other beams.
+
+> one round thin flat ciabatta slice, 1, mousse spread on it, 1, on top on smoked prawn, 1, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic,, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image
