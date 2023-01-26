@@ -4,6 +4,7 @@ date: 2009-10-24
 image: images/post/rote-currypaste.webp
 categories: 
   - zutaten
+type: regular
 tags: 
   - chili
   - galgant

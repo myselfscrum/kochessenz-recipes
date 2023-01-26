@@ -5,6 +5,7 @@ date: 2009-10-24
 image: images/post/rote-currypaste.webp
 categories: 
   - ingredients
+type: regular
 tags: 
   - chili
   - galangal
