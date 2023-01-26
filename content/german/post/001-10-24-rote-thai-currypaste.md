@@ -47,3 +47,5 @@ Das Ergebnis sieht ordentlich aus und riecht sehr aromatisch. Die Garnelenpaste 
 8 EL voll sind es geworden, genug für 4 Gerichte. Ich friere das Curry portionsweise ein und hebe mir 2 Löffel fürs heutige Abendessen auf. Zum Glück erinnere ich mich noch vor dem Kochbeginn daran, dass man für 2 Personen nur 1 EL benötigt. Das Fisch Curry wäre sonst wohl etwas scharf geworden!
 
 Die übrigen Limettenblätter werden eingefroren und die Garnelenpaste kommt in zwei ineinandergestellte Tupperdosen in den Kühlschrank. Ich werde bei Erfolg weitere Curryvarianten probieren.
+
+> red thai curry paste, selfmade, ingredients, very photorealistic, food magazine style, award-winning photo, light background, white dish, restaurant setting, bright image
