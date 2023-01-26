@@ -44,7 +44,7 @@ Da der Mörser eher klein ist, muss ich in Portionen arbeiten und hinterher zusa
 
 Das Ergebnis sieht ordentlich aus und riecht sehr aromatisch. Die Garnelenpaste wird durch die anderen Gewürze entschärft. Allerdings habe ich für die gesamte Aktion fast zweieinhalb Stunden gebraucht, und ich hatte nicht den Eindruck, dass ich mich besonders ungeschickt anstelle... Ich werde mal bei Gelegenheit nach einem größeren Mörser Ausschau halten, vielleicht war das der Engpass.
 
-8 EL voll sind es geworden, genug für 4 Gerichte. Ich friere das Curry portionsweise ein und hebe mir 2 Löffel fürs heutige Abendessen auf. Zum Glück erinnere ich mich noch vor dem Kochbeginn daran, dass man für 2 Personen nur 1 EL benötigt. Das Fisch Curry wäre sonst wohl etwas scharf geworden!
+8 EL voll sind es geworden, genug für 4 Gerichte. Ich friere das Curry portionsweise ein und hebe mir 2 Löffel fürs heutige Abendessen auf. Zum Glück erinnere ich mich noch vor dem Kochbeginn daran, dass man für 2 Personen nur 1 EL benötigt. Das **[Fisch Curry](../001-10-24-gaeng-pet-pla-rotes-fisch-curry)** wäre sonst wohl etwas scharf geworden!
 
 Die übrigen Limettenblätter werden eingefroren und die Garnelenpaste kommt in zwei ineinandergestellte Tupperdosen in den Kühlschrank. Ich werde bei Erfolg weitere Curryvarianten probieren.
 

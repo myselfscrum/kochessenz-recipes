@@ -20,7 +20,7 @@ Jetzt gerade kann man wunderbar die Wochenendnachmittage mit Küchenbasteleien v
 
 Wir folgen diesem Ruf heute, indem wir die letzte Woche vergessenen Feigen verarbeiten.  Dank Eierkarton haben sie Transport und Lagerung gut überstanden.
 
-Mit dem Rezept folgen wir dem Buch ["Einmachen - selbst gemacht schmeckt's einfach besser"](http://www.amazon.de/Einmachen-Selbst-gemacht-schmeckt%C2%B4s-einfach/dp/3774269408), das zu den besseren der Grabbeltischkochbücher gehört.
+Mit dem Rezept folgen wir dem Buch **["Einmachen - selbst gemacht schmeckt's einfach besser"](http://www.amazon.de/Einmachen-Selbst-gemacht-schmeckt%C2%B4s-einfach/dp/3774269408)**, das zu den besseren der Grabbeltischkochbücher gehört.
 
 wir nehmen also unsere
 

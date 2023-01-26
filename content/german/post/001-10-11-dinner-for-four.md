@@ -40,7 +40,7 @@ Mittlerweile ist richtig Aktion in der Küche. Es ist ja auch genug vorzubereite
 
 1kg Spinat putzen, dazu 1 Knoblauchzehe fein hacken
 
-250g Pfifferlinge putzen, dazu 1 Bund Frühlingszwiebeln putzen und in Scheiben schneiden und 1/2 Glas Weißwein, 1/2 Becher Sahne sowie 2 Würfel gefrorenen [Pilzfond](../001-08-03-pilzfond) bereitstellen für die Sauce
+250g Pfifferlinge putzen, dazu 1 Bund Frühlingszwiebeln putzen und in Scheiben schneiden und 1/2 Glas Weißwein, 1/2 Becher Sahne sowie 2 Würfel gefrorenen **[Pilzfond](../001-08-03-pilzfond)** bereitstellen für die Sauce
 
 1 kg Kartoffeln ungeschält aufsetzen 1/2 Sptzkohl in sehr dünne Streifen schneiden 125g Butter schon mal aus dem Kühlschrank holen
 
@@ -55,7 +55,7 @@ Die Pfifferlinge sind heute nicht einzeln geputzt, sie sind einfach grob vorsort
 
 Der Kartoffelstampf wird auf Tellern verstrichen, darauf kommt der Spinat. Die Teller bugsiere ich in den heißen Ofen, der jetzt ausgeschaltet wird, da Roberts letztes Stündlein geschlagen hat. Er hat sich auf dem Blech gut entwickelt und ich teile die Haut oben neben der Rückenflosse und kann sie dann auf beiden Seiten einfach zur Seite runterklappen. Die Filets lassen sich nun perfekt abheben und auf den Spinat platzieren. Sie sind saftig, aber gar. Genau, wie es sein soll. Obenauf kommt die Pfifferlingsauce und noch ein wenig Rucola und Dill zur Garnitur.
 
-Mmmh. Ich stelle fest, dass mir diese Fisch-Pilz-Kartoffel-Kombination sehr liegt, sie ähnelt strukturell doch sehr dem [Zander mit Kartoffelschaum](../001-09-26-zander-mit-kartoffelschaum).
+Mmmh. Ich stelle fest, dass mir diese Fisch-Pilz-Kartoffel-Kombination sehr liegt, sie ähnelt strukturell doch sehr dem **[Zander mit Kartoffelschaum](../001-09-26-zander-mit-kartoffelschaum)**.
 
 ### Holunderblütenquark mit Lavendel-Himbeeren und Mandelkrokant
 

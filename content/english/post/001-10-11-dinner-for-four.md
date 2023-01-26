@@ -40,7 +40,7 @@ Meanwhile, there's real action in the kitchen. There's plenty to prepare.
 
 Clean 1kg of spinach and finely chop 1 clove of garlic.
 
-250g chanterelles clean, in addition 1 bunch spring onions clean and cut into slices and 1/2 glass white wine, 1/2 cup cream as well as 2 cubes frozen [mushroom stock](../chanterelle-stock) provide for the sauce
+250g chanterelles clean, in addition 1 bunch spring onions clean and cut into slices and 1/2 glass white wine, 1/2 cup cream as well as 2 cubes frozen **[mushroom stock](../chanterelle-stock)** provide for the sauce
 
 1 kg potatoes unpeeled 1/2 cut cabbage into very thin strips 125g butter from the refrigerator
 
@@ -54,7 +54,7 @@ The chanterelles are not cleaned individually today, they are just roughly pre-s
 
 The mashed potatoes are spread on plates and the spinach is placed on top. I put the plates in the hot oven, which is now turned off because Robert's last hour has come. He has done well on the tray and I split the skin at the top next to the dorsal fin and can then just fold it down to the side on both sides. The fillets are now perfect to lift off and place on top of the spinach. They are juicy, but cooked. Just as they should be. On top comes the chanterelle sauce and a little arugula and dill for garnish.
 
-Yummy. I find that this fish-mushroom-potato combination suits me very well, it is structurally very similar to [pike-perch with mashed potatoes](../grilled-pikeperch-with-potato-cream) after all.
+Yummy. I find that this fish-mushroom-potato combination suits me very well, it is structurally very similar to **[pike-perch with mashed potatoes](../grilled-pikeperch-with-potato-cream)** after all.
 
 ### Elderflower curd with lavender raspberries and almond brittle.
 

@@ -20,7 +20,7 @@ Right now you can wonderfully spend the weekend afternoons with kitchen tinkerin
 
 We're answering that call today by processing last week's forgotten figs.  Thanks to egg carton they have survived transport and storage well.
 
-With the recipe, we follow the book ["Preserving - homemade simply tastes better"](http://www.amazon.de/Einmachen-Selbst-gemacht-schmeckt%C2%B4s-einfach/dp/3774269408), which is one of the better of the rummage table cookbooks.
+With the recipe, we follow the book **["Preserving - homemade simply tastes better"](http://www.amazon.de/Einmachen-Selbst-gemacht-schmeckt%C2%B4s-einfach/dp/3774269408)**, which is one of the better of the rummage table cookbooks.
 
 so we take our
 

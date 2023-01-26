@@ -35,4 +35,4 @@ Fertig! Nun kann man die Blätter abnagen und dann nach Abnahme des sog. Herzen 
 
 Leider hab ich mich getäuscht - nach je einer Artischocke waren wir soo satt, dass wir die zweite dann morgen abend essen werden. Man kann es also bei einer für ein vollwertiges Abendessen belassen!
 
-> small artichoke with a small bowl of remoulade, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image --ar 3:2
+> small artichoke with a small bowl of remoulade, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image

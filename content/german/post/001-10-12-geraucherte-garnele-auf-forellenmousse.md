@@ -40,4 +40,4 @@ mit dem großen Portionierring so bearbeiten, dass runde Brotscheiben entstehen.
 
 Scheiben toasten, dann die Creme darauf, dann die ausgelösten Garnelen. Ein wenig Dill und Limette als Deko und die Lebensgefährtin strahlt.
 
-> one round thin flat ciabatta slice::1, mousse spread on it::1, on top on smoked prawn::1, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic,, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image
+> one round thin flat ciabatta slice, mousse spread on it, on top on smoked prawn, parsley leaf, long lens, depth of field, shot from material height, hyperrealistic, very photorealistic, food magazine style, award-winning photo, unreal engine rendering, light background, bright image

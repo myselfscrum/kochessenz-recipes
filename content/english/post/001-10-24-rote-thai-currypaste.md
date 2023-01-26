@@ -45,7 +45,7 @@ Since the mortar is rather small, I have to work in portions and mix together af
 
 The result looks neat and smells very aromatic. The shrimp paste is toned down by the other spices. However, the whole operation took me almost two and a half hours, and I didn't feel like I was being particularly clumsy.... I'll keep an eye out for a larger mortar when I get a chance, maybe that was the bottleneck.
 
-8 tablespoons full it turned out, enough for 4 dishes. I'll freeze the curry in portions and save 2 spoonfuls for tonight's dinner. Fortunately, I remember before I start cooking that you only need 1 tablespoon for 2 people. The fish curry would have been a bit spicy otherwise!
+8 tablespoons full it turned out, enough for 4 dishes. I'll freeze the curry in portions and save 2 spoonfuls for tonight's dinner. Fortunately, I remember before I start cooking that you only need 1 tablespoon for 2 people. The **[fish curry](../gaeng-pet-pla-red-fish-curry)** would have been a bit spicy otherwise!
 
 The remaining lime leaves are frozen and the shrimp paste goes in two tupperware containers placed inside each other in the fridge. I will try more curry variations if successful.
 
