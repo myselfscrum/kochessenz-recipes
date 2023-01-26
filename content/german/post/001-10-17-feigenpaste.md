@@ -16,7 +16,7 @@ tags:
   - vanille
 ---
 
-Jetzt gerade kann man wunderbar die Wochenendnachmittag mit Küchenbasteleien verbringen. Irgendwie scheint der endende Sommer ein paar Ur-Instinkte freizusetzen, die rufen "Nahrung sammeln, es wird Winter"!
+Jetzt gerade kann man wunderbar die Wochenendnachmittage mit Küchenbasteleien verbringen. Irgendwie scheint der endende Sommer ein paar Ur-Instinkte freizusetzen, die rufen "Nahrung sammeln, es wird Winter"!
 
 Wir folgen diesem Ruf heute, indem wir die letzte Woche vergessenen Feigen verarbeiten.  Dank Eierkarton haben sie Transport und Lagerung gut überstanden.
 
