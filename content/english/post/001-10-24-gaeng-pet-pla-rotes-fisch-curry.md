@@ -11,17 +11,17 @@ tags:
   - turmeric
   - paprika
   - rice
-  - silver salmon
+  - coho salmon
   - red thai curry
   - tomato
 ---
 
 The **[homemade red curry paste](../001-10-24-red-thai-curry-paste/)** is ready, now it wants to be used.
 
-I bought silver salmon at the market today, so it will be a fish curry.
+I bought coho salmon at the market today, so it will be a fish curry.
 
 For two: 
-* 300g silver salmon 
+* 300g coho salmon 
 * 1/2 red bell bell pepper 
 * 1/2 yellow bell bell pepper 
 * 2 tomatoes 
@@ -43,4 +43,4 @@ Now first the bell pepper, cut into thin slices, goes into the curry, then the f
 
 Shortly before the end I clean the coriander and fry the shrimps. Now everything is ready at the same time and can be served in China bowls. 
 
-Extremely tasty and like "Real from the Thai". So the effort with the curry was worth it!
+Extremely tasty and like "real from the Thai". So the effort with the curry was worth it!
