@@ -3,8 +3,8 @@ title: Artischocke mit Remoulade
 date: 2009-10-18
 image: images/post/artichoke.webp
 categories: 
-  - alltagskuche
-  - die-besten
+  - alltagsküche
+  - die besten
   - vegetarisch
 type: regular
 tags: 

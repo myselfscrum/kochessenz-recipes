@@ -3,7 +3,7 @@ title: Feigen-Schinken-Salat
 date: 2009-07-12
 image: images/post/rucola-salad.webp
 categories: 
-  - die-besten
+  - die besten
   - nachgekochtes
 type: regular
 tags: 

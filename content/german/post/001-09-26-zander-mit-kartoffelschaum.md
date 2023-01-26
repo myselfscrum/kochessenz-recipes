@@ -3,7 +3,7 @@ title: "Zander mit Kartoffelschaum"
 image: images/post/pikeperch-potato.webp
 date: "2009-09-26"
 categories: 
-  - die-besten
+  - die besten
   - nachgekochtes
 type: regular
 tags: 
