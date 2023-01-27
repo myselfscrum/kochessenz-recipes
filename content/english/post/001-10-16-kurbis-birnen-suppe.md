@@ -1,5 +1,5 @@
 ---
-title: Kürbis-Birnen-Suppe
+title: Pumpkin Soup with Pears
 slag: butternut-pear-soup
 date: 2009-10-16
 image: images/post/pumpkin-soup.webp
