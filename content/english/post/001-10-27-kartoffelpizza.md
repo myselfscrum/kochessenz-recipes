@@ -16,7 +16,7 @@ tags:
   - rosemary
 ---
 
-in yesterday's cooking event with colleagues we had potato pizza according to a recipe we learned about at the recent "potato meets wine" event.
+At yesterday's cooking event with colleagues we had potato pizza according to a recipe we learned about at the recent "potato meets wine" event.
 
 Yeast dough from 400g flour, 250 ml water, 1 tsp salt, 1/2 package fresh yeast (original: 1 pckg)
 

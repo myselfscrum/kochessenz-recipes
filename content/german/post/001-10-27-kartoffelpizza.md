@@ -15,7 +15,7 @@ tags:
   - rosmarin
 ---
 
-im gestrigen Kollegen-Koch-Treff gab's Kartoffelpizza nach einem Rezept, das wir beim kürzlich durchgeführten "Kartoffel trifft Wein"-Event kennen gelernt haben.
+Beim gestrigen Kollegen-Koch-Treff gab's Kartoffelpizza nach einem Rezept, das wir beim kürzlich durchgeführten "Kartoffel trifft Wein"-Event kennen gelernt haben.
 
 Hefeteig aus 400g Mehl, 250 ml Wasser, 1 TL Salz, 1/2 Packung frische Hefe (Original: 1 Pckg)
 
