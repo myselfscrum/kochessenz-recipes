@@ -40,13 +40,13 @@ scripttype= "text/plain"
 cookieconsent = "functionality"
 [[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
-scripttype= "text/plain"
+scripttype= "text/javascript"
 cookieconsent = "functionality"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-scripttype= "text/plain"
+scripttype= "text/javascript"
 cookieconsent = "functionality"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-scripttype= "text/plain"
+scripttype= "text/javascript"
 cookieconsent = "functionality"
