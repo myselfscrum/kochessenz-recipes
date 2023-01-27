@@ -29,3 +29,5 @@ Today something simple:
 * 150 g wide ribbon noodles, cooked.
 
 Ready is the heartwarming soup that helps in all situations of life. So fast that you can still finish eating in time before the Münster TV crime thriller ;)
+
+> chicken soup with broad fettuccine , very photorealistic, food magazine style, long lens, depth of field, shot from material height, hyperrealistic, photo of the year, award-winning photo 

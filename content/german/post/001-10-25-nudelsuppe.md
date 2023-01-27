@@ -28,3 +28,5 @@ Heute mal was Einfaches:
 * 150 g breite Bandnudeln, gekocht
 
 Fertig ist die Herzerwärmsuppe, die bei allen Lebenslagen hilft. So schnell, dass man noch rechtzeitig vor dem Münster-Tatort mit dem Essen fertig wird ;)
+
+> chicken soup with broad fettuccine , very photorealistic, food magazine style, long lens, depth of field, shot from material height, hyperrealistic, photo of the year, award-winning photo 
