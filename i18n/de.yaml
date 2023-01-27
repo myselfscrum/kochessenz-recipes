@@ -109,4 +109,5 @@
 - id: long_month_12
   translation: Dezember
 
-  
+- id: update_cookies
+  translation: Cookies verwalten

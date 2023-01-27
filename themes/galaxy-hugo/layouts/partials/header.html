@@ -40,7 +40,7 @@
       {{ range .Site.Params.social }}
       <li class="list-inline-item"><a href="{{.link | safeURL}}"><i class="{{ .icon }}"></i></a></li>
       {{ end }}
-      <li class="cookiepref"><a href="#" id="open_preferences_center">Update cookies preferences</a></li>
+      <li class="cookiepref"><a href="#" id="open_preferences_center">{{i18n "update_cookies"}}</a></li>
     </ul>
 
   </div>
