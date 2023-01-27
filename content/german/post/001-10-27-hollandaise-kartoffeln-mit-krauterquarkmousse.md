@@ -1,5 +1,5 @@
 ---
-title: Hollandaise-Kartoffeln mit Kräuterquarkmousse
+title: Pellkartoffeln Hollandaise und Kräuterquarkmousse
 date: "2009-10-27"
 image: images/post/potato-hollandaise.webp
 categories: 
