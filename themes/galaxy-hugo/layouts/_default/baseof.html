@@ -31,12 +31,13 @@
 		document.body.style.visibility = 'visible';
 		document.body.style.opacity = 1;
 	  }
-	  
+
 	  window.addEventListener('DOMContentLoaded', function () {
 		showTheme();
 		showContent();
-	  });
+		});
 	</script>	
+
 	<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
 	<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
 	<script type="text/javascript" charset="UTF-8">
@@ -44,6 +45,14 @@
 	cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"{{.Page.Lang}}","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_privacy_policy_url":"https://www.kochessenz.de/privacy-policy/"});
 	});
 	</script>
+	<script type="text/plain" data-cookie-consent="functionality">
+		window.addEventListener('DOMContentLoaded', function () {
+			const commentsPlaceholder = document.querySelector('#comments-placeholder');
+			const commentsPanelPlaceholder = document.querySelector('.comments');
+			commentsPlaceholder.style.visibility = 'visible';
+			commentsPanelPlaceholder.style.visibility = 'visible';
+			});
+	</script>	
 
 </body>
 

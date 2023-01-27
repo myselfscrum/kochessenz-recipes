@@ -7,8 +7,11 @@ VERSION:	Versoin Number
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
-/*  typography */
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Montserrat:wght@400;500&display=swap");
+body {
+  background: #000; }
+
+/*  typography */
 body {
   line-height: 1.6;
   font-family: "Montserrat", sans-serif;
@@ -611,7 +614,11 @@ textarea.form-control {
 
 .comments {
   display: inline-block;
-  align-self: flex-end; }
+  align-self: flex-end;
+  visibility: hidden; }
+
+#comments-placeholder {
+  visibility: hidden; }
 
 /* Customize the label (the container) */
 .ccontainer {
@@ -737,10 +744,17 @@ textarea.form-control {
   color: #E4112F; }
 
 /* cookie consent overrides */
+.cc-nb-main-container {
+  border-bottom-color: #E4112F !important;
+  border-bottom-width: 1px !important;
+  border-bottom-style: solid !important; }
+
 .cc-nb-reject, .cc-nb-okagree {
   color: #fff !important;
-  background-color: #E4112F !important; }
+  background-color: #E4112F !important;
+  /*font-family: "Barlow Condensed", sans-serif!important;font-weight:100!important;*/ }
 
+/*.cc-nb-changep{font-family: "Barlow Condensed", sans-serif!important;font-weight:100!important;}*/
 .cc-pc-head-lang select:focus {
   box-shadow: 0 0 0 2px #E4112F !important; }
 

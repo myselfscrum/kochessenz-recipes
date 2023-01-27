@@ -523,8 +523,14 @@
 
 .comments {
   display: inline-block;
-  align-self: flex-end;  
+  align-self: flex-end;
+  visibility: hidden;
 }
+
+#comments-placeholder {
+  visibility: hidden;
+}
+
 
  /* Customize the label (the container) */
  .ccontainer {
