@@ -17,7 +17,7 @@ tags:
 
 Today something simple:
 
-* 1 liter of chicken broth, homemade, stocked with 
+1 liter of chicken broth, homemade, stocked with 
 * 1 carrot, in pieces
 * 1 slice of celery, in pieces 
 * 1 fennel bulb, in pieces
