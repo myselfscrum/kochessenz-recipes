@@ -3,13 +3,6 @@
 {{ partial "head.html" . }}
 
 <body>
-	<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
-	<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
-	<script type="text/javascript" charset="UTF-8">
-	document.addEventListener('DOMContentLoaded', function () {
-	cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"{{.Page.Lang}}","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_privacy_policy_url":"https://www.kochessenz.de/privacy-policy/"});
-	});
-	</script>
 	<noscript>
 		<style>
 		  body {
@@ -17,7 +10,14 @@
 			opacity: 1;
 		  }
 		</style>
-	  </noscript>	
+    </noscript>	
+	<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+	<script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
+	<script type="text/javascript" charset="UTF-8">
+	document.addEventListener('DOMContentLoaded', function () {
+	cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"{{.Page.Lang}}","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_privacy_policy_url":"https://www.kochessenz.de/privacy-policy/"});
+	});
+	</script>
 	{{ partial "preloader.html" . }}
 	<div class="main-wrapper">
 		{{ partial "header.html" . }}
@@ -28,7 +28,7 @@
 		</div>
 	</div>
 	{{ partial "footer.html" . }}
-	
+
 	<script type="text/plain" data-cookie-consent="strictly-necessary">
 	function showTheme() {
 		// Check Local Storage then apply dark theme if it's active
