@@ -26,3 +26,5 @@ Die Kartoffeln haben wir sehr dünn gehobelt (mit dem Trüffelhobel) und kurz bl
 Dann ab in den Ofen bei 200° für 30 Minuten. Der Mozzarella wird braun und die Pizza auf diese Weise sehr knusprig. Wenn man es weicher mag, sollte man vielleicht doch 1 Packung Hefe nehmen. Wir fanden es so gerade richtig.
 
 Zusammen mit einem Shiitake-Ragout und gebratenenen Schweinelendchen war es nach einem Salat als Vorspeise und Mousse au chocolat als Dessert ein Wohlfühl-Essen und ein netter Abend.
+
+> square Pizza densely topped with sliced potatoes, garlic, mozzarella, rosemary, cheese, with sauce hollandaise, very photorealistic, food magazine style, long lens, depth of field, shot from material height, hyperrealistic, photo of the year, award-winning photo

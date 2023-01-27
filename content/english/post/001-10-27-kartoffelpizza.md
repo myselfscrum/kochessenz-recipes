@@ -27,3 +27,5 @@ We shaved the potatoes very thin (with a truffle slicer) and blanched them brief
 Then off to the oven at 200° for 30 minutes. The mozzarella will brown and the pizza will be very crispy this way. If you like it softer, you should perhaps take 1 package of yeast. We found it to be just right this way.
 
 Together with a shiitake ragout and roasted pork tenderloin, after a salad as an appetizer and mousse au chocolat for dessert, it was a real soul food meal and a nice evening.
+
+> square Pizza densely topped with sliced potatoes, garlic, mozzarella, rosemary, cheese, with sauce hollandaise, very photorealistic, food magazine style, long lens, depth of field, shot from material height, hyperrealistic, photo of the year, award-winning photo
