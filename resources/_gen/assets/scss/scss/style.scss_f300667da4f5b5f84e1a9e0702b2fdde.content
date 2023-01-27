@@ -744,6 +744,11 @@ textarea.form-control {
   color: #E4112F; }
 
 /* cookie consent overrides */
+.cc-pc-container {
+  border-color: #E4112F !important;
+  border-width: 1px !important;
+  border-style: solid !important; }
+
 .cc-nb-main-container {
   border-bottom-color: #E4112F !important;
   border-bottom-width: 1px !important;
