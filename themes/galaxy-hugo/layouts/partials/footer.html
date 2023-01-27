@@ -2,17 +2,17 @@
 
 {{ "<!-- Search index -->" | safeHTML }}
 {{ if .Site.Params.search }}
-<script>
+<script type="text/plain" data-cookie-consent="functionality">
   var indexURL = {{"index.json" | absURL}}
 </script>
 {{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
+<script src="{{ .link | absURL }}" type="text/plain" data-cookie-consent="functionality"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.Permalink }}" type="text/plain" data-cookie-consent="strictly-necessary"></script>
 
