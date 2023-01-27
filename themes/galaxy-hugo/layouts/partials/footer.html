@@ -14,5 +14,5 @@
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}" type="text/plain" data-cookie-consent="strictly-necessary"></script>
+<script src="{{ $script.Permalink }}"></script>
 
