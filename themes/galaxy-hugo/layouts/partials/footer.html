@@ -9,7 +9,7 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}" type="text/plain" data-cookie-consent="{{.cookieconsent}}"></script>
+<script src="{{ .link | absURL }}" type="{{.scripttype}}" data-cookie-consent="{{.cookieconsent}}"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}

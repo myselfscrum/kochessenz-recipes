@@ -1,7 +1,7 @@
 {{ "<!-- navigation -->" | safeHTML }}
 <aside>
   <div class="sidenav">
-    <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}{{.LanguagePrefix}}"><img class="img-fluid" width="150px"
+    <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}{{.Site.LanguagePrefix}}"><img class="img-fluid" width="150px"
         src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
     <ul class="navbar-nav">
       {{ $current := . }}
