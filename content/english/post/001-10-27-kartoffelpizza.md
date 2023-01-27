@@ -1,7 +1,7 @@
 ---
 title: Potato Pizza
 slag: potato-piza
-date: 2009-10-27
+date: 2009-10-27T20:00:00
 image: images/post/potato-pizza.webp
 categories: 
   - dinner for x
