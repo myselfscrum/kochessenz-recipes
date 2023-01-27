@@ -1,10 +1,12 @@
 ---
-title: Potato pizza
+title: Potato Pizza
+slag: potato-piza
 date: 2009-10-27
 image: images/post/potato-pizza.webp
 categories: 
   - dinner for x
   - vegetarian
+type: regular
 tags: 
   - yeast dough
   - potato

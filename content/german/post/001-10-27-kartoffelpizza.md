@@ -5,6 +5,7 @@ image: images/post/potato-pizza.webp
 categories: 
   - dinner for x
   - vegetarisch
+type: regular  
 tags: 
   - hefeteig
   - kartoffel
