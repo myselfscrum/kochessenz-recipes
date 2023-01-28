@@ -25,4 +25,6 @@ I have included a text prompt at the end of each recipe that will generate the f
 
 #### Thanks
 
-Thanks to [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) for the Hugo code for the ingredients list.
+Thanks to 
+* [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) for the Hugo code for the ingredients list.
+* [Aditya Telange](https://adityatelange.in/blog/hugo-image-zoom-in/) for the Hugo code for image zooming

@@ -19,10 +19,12 @@ Diese inzwischen vierte Auflage ist nicht nur dem dritten Plattformwechsel gesch
 
 Und damit ich nicht noch einmal die Produktion von 5 Jahren wiederholen muss, habe ich mich für AI generierte Bilder entschieden. Die ersten Versuche sind vielversprechend! Nach und nach werde ich die besten Artikel meines bisherigen Blogs hier einstellen und mit den neuen Bildern versehen.
 
-Ich habe am Ende jedes Rezepts einen Textprompt angegeben, der das dargestellte Bild erzeugt. Ich nutze für die Erstellung von Bildern Midjourney und Stable Diffusion.
+Ich habe am Ende jedes Rezepts einen Textprompt angegeben, der das dargestellte Bild erzeugt. Für die Erstellung von Bildern nutze ich Midjourney und Stable Diffusion.
 
 ---
 
 #### Thanks
 
-Dank an [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) für den Hugo Code für die Zutatenliste.
+Dank an 
+* [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) für den Hugo Code für die Zutatenliste.
+* [Aditya Telange](https://adityatelange.in/blog/hugo-image-zoom-in/) für den Hugo Code für das Bilderzoomen
