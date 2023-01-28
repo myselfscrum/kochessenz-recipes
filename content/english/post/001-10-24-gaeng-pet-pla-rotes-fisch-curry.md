@@ -16,7 +16,7 @@ tags:
   - tomato
 ---
 
-The **[homemade red curry paste](../001-10-24-red-thai-curry-paste/)** is ready, now it wants to be used.
+The **[homemade red curry paste](../red-curry-paste/)** is ready, now it wants to be used.
 
 I bought coho salmon at the market today, so it will be a fish curry.
 

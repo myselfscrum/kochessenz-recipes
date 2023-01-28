@@ -12,11 +12,11 @@ tags:
   - scallop
 ---
 
-On Sunday afternoons I like to use the free time to make a snack after the obligatory walk. Today it was the turn of scallops, as I was able to get them fresh in good quality yesterday at the Münster market at the fish stand of [Fischhaus Kittner](http://www.fischhaus-kittner.de).
+On Sunday afternoons I like to use the free time to make a snack after the obligatory walk. Today it was the turn of scallops, as I was able to get them fresh in good quality yesterday at the Münster market at the fish stand of **[Fischhaus Kittner](http://www.fischhaus-kittner.de)**.
 
 Since I have to do in the cookbook study straight with Douce Steiner, I tried shorthand your recipe of the same name from **[Cuisine Douce](https://www.feinschmeckerblog.de/2008/09/29/das_kochbuch_des_jahres_kommt_von_douce_steiner_deutschlands_einziger_zwei-sterne-kchin/)**. Well, not so offhand, after all, the recipe's orange vinaigrette calls for ingredients not usually found in the house.
 
-Well, orange oil it shall be.... After a long search, I was able to buy a small bottle in the local Karstadt. Vinegar it was there with the vinegar. Only at the ultimate Münster delicatessen [Butterhandlung Holstein](http://www.butterhandlung-holstein.de/butterhandlung/) it was possible after a long queue to buy a bottle of orange balsamic. Still in the store I remembered the recipe picture with a golden yellow vinaigrette. Golden yellow with balsamic? No matter, now must be bought, before the delicatessen saleswoman classifies me because of my indecision finally in the circle of the unworthy.
+Well, orange oil it shall be.... After a long search, I was able to buy a small bottle in the local Karstadt. Vinegar it was there with the vinegar. Only at the ultimate Münster delicatessen **[Butterhandlung Holstein](http://www.butterhandlung-holstein.de/butterhandlung/)** it was possible after a long queue to buy a bottle of orange balsamic. Still in the store I remembered the recipe picture with a golden yellow vinaigrette. Golden yellow with balsamic? No matter, now must be bought, before the delicatessen saleswoman classifies me because of my indecision finally in the circle of the unworthy.
 
 Now all the ingredients are procured - fennel is always in the vegetable box in the refrigerator and oranges at this time of year. Vinegar and oil want to be tried at home of course immediately, the oil is aromatic-orangy, according to the label also consisting only of olive oil and oranges. The vinegar looks more suspicious - It seems as if orange juice was simply poured into the balsamic. The vinegar itself also has artificial coloring, so I could have done better with that. Taste-wise, the vinegar is rather inconsequential.
 
