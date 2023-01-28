@@ -16,7 +16,9 @@ tags:
   - ricotta
 ---
 
-Der Rotkohl muss weg! Reste von Rotkohl liegen immer noch im Kühlschrank. Da gestern abend klassisches Gänseessen mit Klößen und Rotkohl im sehr angenehmen **[Restaurant Ackermann](https://restaurant-ackermann.de/)** angesagt war, verbietet sich eine Wiederholung heute. Diesmal soll es eine Pizza werden. Als Teig erstelle ich einen Hefeteig wie **[hier](../001-11-08-pecorino-oliven-brotstangen)** beschrieben.
+Der Rotkohl muss weg! Reste von Rotkohl liegen immer noch im Kühlschrank. Da gestern abend klassisches Gänseessen mit Klößen und Rotkohl im sehr angenehmen **[Restaurant Ackermann](https://restaurant-ackermann.de/)** angesagt war, verbietet sich eine Wiederholung heute. Diesmal soll es eine Pizza werden. 
+
+Als Teig erstelle ich einen Hefeteig wie **[hier](../001-11-08-pecorino-oliven-brotstangen)** beschrieben.
 
 Ich schneide nun
 

@@ -1,5 +1,5 @@
 ---
-title: Red Cabbage-and Leek Pizza
+title: Red Cabbage and Leek Pizza
 slug: red-cabbage-and-leek-pizza
 image: images/post/red-cabbage-pizza.webp
 date: 2009-11-15
@@ -17,9 +17,9 @@ tags:
   - ricotta
 ---
 
-The red cabbage must go! Leftover red cabbage is still in the fridge. Since last night was classic goose dinner with dumplings and red cabbage at the very pleasant **[Restaurant Ackermann](https://restaurant-ackermann.de/)**, a repeat today is out of the question. This time it should be a pizza. As dough I create a yeast dough as **[here](../001-11-08-pecorino-olive-breadsticks)** described.
+The red cabbage must go! Leftover red cabbage is still in the fridge. Since last night was classic goose dinner with dumplings and red cabbage at the very pleasant **[Restaurant Ackermann](https://restaurant-ackermann.de/)**, a repetition today is out of the question. This time it should be a pizza. 
 
-I now cut
+As dough I create a yeast dough as **[here](../001-11-08-pecorino-olive-breadsticks)** described. Then I cut
 
 * 400g red cabbage leaves
 
@@ -27,7 +27,7 @@ into pieces of about 3\*3 cm and blanch them for 5 minutes in salted water. Para
 
 * 1 medium leek
 
-and steam the slices in a little olive oil and butter. As a seasoning I add nutmeg and salt. I also prepare a little sauce so that the pizza is not too dry.
+and steam the slices in a little olive oil and butter. As a seasoning I add nutmeg and salt. I also prepare a little sauce so that the pizza is not too dry:
 
 * 1 clove of garlic, finely chopped 
 * 10 tablespoons elderberry juice 
