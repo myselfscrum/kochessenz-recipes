@@ -14,5 +14,5 @@ Aus der zweiten Hälfte der Teigmenge vom **[Brotstangen-Rezept](../001-11-08-pe
 
 Das eine Baguette nehme ich nach 5 Minuten heraus und friere es ein. Das andere wird 15 Minuten lang fertig gebacken.
 
-> 
+> selfmade baguette, ripped open, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, bright daylight, illuminated from camera , big lighting
 

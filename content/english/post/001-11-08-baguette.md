@@ -14,5 +14,5 @@ From the second half of the dough from **[breadsticks recipe](../pecorino-olive-
 
 I take one baguette out after 5 minutes and freeze it. The other one I finish baking for 15 minutes.
 
-> 
+> selfmade baguette, ripped open, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, bright daylight, illuminated from camera , big lighting
 
