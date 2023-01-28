@@ -1,6 +1,6 @@
 ---
 title: Gemelli-gorgonzola-pear-broccoli-tomato-tomato garnish
-slag: gemelli-gorgonzola
+slug: gemelli-gorgonzola
 date: 2009-11-06
 image: images/post/gemelli.webp
 categories: 
@@ -51,3 +51,4 @@ soaked and cut into strips a few roasted walnuts as already described at the **[
 
 ...and the extra ground white pepper is left forgotten.
 
+> dish of gemelli pasta with pears, broccoli, dried tomatoes, gorgonzola sauce, onions very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery

@@ -1,6 +1,6 @@
 ---
 title: "Maccaroni Gratin"
-slag: maccaroni-gratin
+slug: maccaroni-gratin
 date: "2009-10-07"
 image: images/post/maccaroni-gratin.webp
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: Potato Pizza
-slag: potato-piza
+slug: potato-piza
 date: 2009-10-27T20:00:00
 image: images/post/potato-pizza.webp
 categories: 

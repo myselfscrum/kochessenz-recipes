@@ -1,6 +1,6 @@
 ---
 title: Gaeng Pet Pla - Red Fish Curry
-slag: gaeng-pet-pla-red-fish-curry
+slug: gaeng-pet-pla-red-fish-curry
 image: images/post/fishcurry.webp
 date: 2009-10-24T20:00:00
 categories: 

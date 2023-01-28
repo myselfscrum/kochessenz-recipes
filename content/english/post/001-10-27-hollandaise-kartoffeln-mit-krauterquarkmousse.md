@@ -1,6 +1,6 @@
 ---
 title: Jacket Potatoes with Sauce Hollandaise and Curd Mousse
-slag: potatoes-with-sauce-hollandaise-and-curd-mousse
+slug: potatoes-with-sauce-hollandaise-and-curd-mousse
 date: "2009-10-27"
 image: images/post/potato-hollandaise.webp
 categories: 

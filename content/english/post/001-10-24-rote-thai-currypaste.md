@@ -1,6 +1,6 @@
 ---
 title: Rote Thai-Currypaste
-slag: red-curry-paste
+slug: red-curry-paste
 date: 2009-10-24
 image: images/post/rote-currypaste.webp
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: Artichocke with Remoulade
-slag: artichoke-with-remoulade
+slug: artichoke-with-remoulade
 date: 2009-10-18
 image: images/post/artichoke.webp
 categories: 

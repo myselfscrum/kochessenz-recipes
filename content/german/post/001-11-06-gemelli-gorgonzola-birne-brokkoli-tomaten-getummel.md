@@ -50,3 +50,4 @@ eingeweicht und in Streifen geschnitten ein paar geröstete Walnüsse wie schon 
 
 ...und der extra gemörserte weiße Pfeffer bleibt vergessen zurück.
 
+> dish of gemelli pasta with pears, broccoli, dried tomatoes, gorgonzola sauce, onions very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery

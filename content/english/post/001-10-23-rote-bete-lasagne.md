@@ -1,6 +1,6 @@
 ---
 title: Beetroot Lasagna
-slag: beetroot-lasagna
+slug: beetroot-lasagna
 date: 2009-10-23
 image: images/post/beetroot-lasagna.webp
 categories: 
