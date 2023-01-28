@@ -1,5 +1,5 @@
 ---
-title: Gemelli-gorgonzola-pear-broccoli-tomato-tomato garnish
+title: Gemelli-gorgonzola-pear-broccoli-tomato-tomato turmoil
 slug: gemelli-gorgonzola
 date: 2009-11-06
 image: images/post/gemelli.webp
