@@ -1,5 +1,6 @@
 ---
 title: Baguette
+slug: baguette
 date: 2009-11-08T21:00:00
 image: images/post/baguette.webp
 categories: 
