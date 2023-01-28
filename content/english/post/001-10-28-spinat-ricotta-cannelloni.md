@@ -43,3 +43,5 @@ put it on top of the pasta, and then add
 * 50g Parmesan cheese
 
 on top. For 40 minutes in the oven, at 200 ° C. Ready is the "emergency food" that is promptly consumed by us completely.
+
+> Close-up food photography of three cannelloni, filled with spinach and ricotta, densely topped with sliced tomatos, cheese, very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery

@@ -42,3 +42,5 @@ Rauf auf die Nudeln, die Sauce, und dann kommen noch
 * 50g Parmesan
 
 obenauf. Für 40 Minuten in den Backofen, bei 200°C. und fertig ist das "Notessen", dass auch prompt von uns komplett verputzt wird.
+
+> Close-up food photography of three cannelloni, filled with spinach and ricotta, densely topped with sliced tomatos, cheese, very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery
