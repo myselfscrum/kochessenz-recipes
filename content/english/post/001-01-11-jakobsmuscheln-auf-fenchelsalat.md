@@ -1,5 +1,5 @@
 ---
-title: "Scallops on fennel salad"
+title: "Scallops on Fennel Salad"
 slug : scallops-on-fennel-salad
 image: "images/post/fennel.webp"
 date: "2009-01-11"

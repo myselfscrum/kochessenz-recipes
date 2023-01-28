@@ -1,5 +1,5 @@
 ---
-title: Spinach-Ricotta Cannelloni
+title: Spinach and Ricotta Cannelloni
 date: 2009-10-28
 image: images/post/cannelloni.webp
 categories: 

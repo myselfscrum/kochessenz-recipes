@@ -1,5 +1,5 @@
 ---
-title: "Capellini with salmon"
+title: "Capellini with Salmon"
 slug: capellini-with-salmon
 date: "2009-09-20"
 image: images/post/capellini-lachs.webp

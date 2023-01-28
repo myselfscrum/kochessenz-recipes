@@ -1,5 +1,5 @@
 ---
-title: "Chanterelle stock"
+title: "Chanterelle Stock"
 slug: chanterelle-stock
 image: images/post/pilzfond.webp
 date: 2009-08-03

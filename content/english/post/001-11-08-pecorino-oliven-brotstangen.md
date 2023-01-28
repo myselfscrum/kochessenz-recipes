@@ -1,5 +1,5 @@
 ---
-title: Pecorino olive breadsticks
+title: Pecorino Olive Breadsticks
 slug: pecorino-olive-breadsticks
 date: 2009-11-08T15:00:00
 image: images/post/olive-breadstick.webp

@@ -1,5 +1,5 @@
 ---
-title: "Roast beef in port wine-chocolate sauce"
+title: "Beef Roast in Port Wine Chocolate Sauce"
 slug: roast-beef-in-port-sauce
 image: images/post/roast-port.webp
 date: 2009-09-20

@@ -1,5 +1,5 @@
 ---
-title: Mediterranean fish soup
+title: Mediterranean Fish Soup
 slug: mediterranean-fish-soup
 image: images/post/fishsoup.webp
 date: 2009-11-08T19:00:00

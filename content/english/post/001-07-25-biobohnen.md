@@ -1,5 +1,5 @@
 ---
-title: Broad beans
+title: Broad Beans
 slug: broad-beans
 image: images/post/beans.webp
 date: 2009-07-25

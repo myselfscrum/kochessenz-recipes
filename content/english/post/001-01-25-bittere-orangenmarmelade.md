@@ -1,5 +1,6 @@
 ---
-title: "Bitter orange marmalade"
+title: "Bitter Orange Marmalade"
+slug: bitter-orange-marmalade
 date: "2009-01-25"
 image: "images/post/orange.webp"
 categories: 

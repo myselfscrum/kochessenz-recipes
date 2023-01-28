@@ -1,5 +1,5 @@
 ---
-title: Rote Thai-Currypaste
+title: Red Thai Curry Paste
 slug: red-curry-paste
 date: 2009-10-24
 image: images/post/rote-currypaste.webp

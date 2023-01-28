@@ -1,5 +1,5 @@
 ---
-title: Fig and ham salad
+title: Fig and Ham Salad
 slug: fig-and-ham-salad
 date: 2009-07-12
 image: images/post/rucola-salad.webp

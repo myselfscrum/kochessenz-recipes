@@ -1,5 +1,5 @@
 ---
-title: Chicken in hay
+title: Chicken in Hay
 slug: chicken-in-hay
 date: 2009-03-22
 image: images/post/hay-chicken.webp

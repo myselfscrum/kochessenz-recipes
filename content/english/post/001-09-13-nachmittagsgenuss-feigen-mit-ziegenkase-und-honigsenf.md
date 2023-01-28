@@ -1,5 +1,5 @@
 ---
-title: "Figs with goat cheese and honey mustard"
+title: "Figs with Goat Cheese and Honey Mustard"
 slug: figs-with-goat-cheese
 image: images/post/ciabatta-figs.webp
 date: 2009-09-13

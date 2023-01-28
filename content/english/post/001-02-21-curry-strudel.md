@@ -1,5 +1,5 @@
 ---
-title: Curry strudel
+title: Curry Strudel
 date: 2009-02-21
 image: images/post/strudel.webp
 categories: 

@@ -1,5 +1,5 @@
 ---
-title: "Leg of hare with tarragon dumplings"
+title: "Leg of Hare with Tarragon Dumplings"
 slug: leg-of-hare
 image: images/post/hare-leg.webp
 date: 2009-08-30

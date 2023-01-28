@@ -1,5 +1,5 @@
 ---
-title: Salted almonds
+title: Salted Almonds
 slug: salted almonds
 date: 2009-11-01
 image: images/post/salty-almonds.webp

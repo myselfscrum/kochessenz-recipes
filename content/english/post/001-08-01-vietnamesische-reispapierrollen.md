@@ -1,5 +1,5 @@
 ---
-title: "Vietnamese rice paper rolls"
+title: "Vietnamese Rice Paper Rolls"
 slug: vietnamese-rice-paper-rolls
 image: images/post/summer-rolls.webp
 date: 2009-08-01
