@@ -44,3 +44,6 @@ Now first the bell pepper, cut into thin slices, goes into the curry, then the f
 Shortly before the end I clean the coriander and fry the shrimps. Now everything is ready at the same time and can be served in China bowls. 
 
 Extremely tasty and like "real from the Thai". So the effort with the curry was worth it!
+
+> thai fish curry, rice, bell peppers very photorealistic, food magazine style, award-winning photo
+

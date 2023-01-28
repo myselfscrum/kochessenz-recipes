@@ -43,3 +43,5 @@ Nun kommt erst der in dünne Spalten geschnittene Paprika in das Curry, dann der
 Kurz vor Schluss putze ich den Koriander und brate die Garnelen. Nun ist alles zeitgleich fertig und kann in China-Schüsseln serviert werden. 
 
 Ausgesprochen lecker und wie "Echt vom Thailänder". Die Mühe mit dem Curry hat sich also gelohnt!
+
+> thai fish curry, rice, bell peppers very photorealistic, food magazine style, award-winning photo
