@@ -11,10 +11,13 @@
       /* .post-content is a class which will be present only on single pages 
           and not lists and section pages in Hugo */
       .post-content input[type="checkbox"]:checked ~ label > img {
-          transform: scale(1.6);
+          transform: scale(2) translateY(80px);
           cursor: zoom-out;
           position: relative;
           z-index: 999;
+          border-color: #E4112F;
+          border-width: 1px;
+          border-style: solid;
       }
   
       .post-content img.zoomCheck {

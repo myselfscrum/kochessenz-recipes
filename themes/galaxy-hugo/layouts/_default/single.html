@@ -1,11 +1,16 @@
 {{ define "main" }}
 
 <section>
-  <div class="container">
+  <div class="container post-content">
     <div class="row justify-content-between">
       <div class="col-lg-7">
-        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
-        <h1 class="mb-4">{{ .Title | markdownify }}</h1>
+        <!-- use the zoom possibility-->
+        {{- $random := (substr (md5 .Title) 0 5) }}
+        <input type="checkbox" id="zoomCheck-{{$random}}" hidden>
+        <label for="zoomCheck-{{$random}}">
+        <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4 zoomCheck" loading="lazy" decoding="async">
+        </label>
+      <h1 class="mb-4">{{ .Title | markdownify }}</h1>
         <ul class="post-meta list-inline mb-3">
           <li class="list-inline-item"><i class="ti-time mr-2"></i>{{.PublishDate.Day }}. {{ i18n (printf "long_month_%d" .PublishDate.Month) }}</li>
           <li class="list-inline-item"><i class="ti-folder"></i>
