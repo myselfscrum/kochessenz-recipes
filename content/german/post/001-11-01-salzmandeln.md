@@ -23,3 +23,4 @@ Die Mandeln kommen nun in den Ofen. Das Originalrezept sagt 40 Minuten bei 180°
 
 Nach 35 Minuten sind mir die Mandeln dunkel genug. Ich mache den Ofen aus und lasse die Mandeln auf dem Blech auskühlen. Sie halten sich in einer Tupperdose ewig - vorausgesetzt, kein Fan ist in der Nähe!
 
+> Close-up food photography of roasted salty almonds, very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery

@@ -25,3 +25,4 @@ The almonds now go into the oven. The original recipe says 40 minutes at 180°, 
 
 After 35 minutes, the almonds are dark enough for me. I turn off the oven and let the almonds cool on the tray. They'll keep forever in a tupperware - assuming there's not a fan around!
 
+> Close-up food photography of roasted salty almonds, very photorealistic, food magazine style, long lens, depth of field, blurred background, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery
