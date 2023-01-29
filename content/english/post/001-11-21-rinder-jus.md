@@ -51,3 +51,5 @@ only in portions and continue only when it has almost completely evaporated. The
 Now simmer for 2-3 hours. Then strain. Either you can reduce further or you can use the very intense jus to make a sauce. I do 50:50. Since I always strain the jus through several layers of kitchen paper, there is very little fat left and it almost glistens in baroque colors in the pot.
 
 The kitchen is a bit of a mess after this day, but that soon subsided.
+
+> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkinm, no beef

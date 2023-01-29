@@ -50,3 +50,5 @@ ablöschen. Dabei den Rotwein immer nur portionsweise hinzugeben, wenn er fast w
 Nun 2-3 Stunden köcheln lassen. Dann absieben. Entweder kann man nun weiter reduzieren, oder man verwendet den sehr intensiven Jus zur Herstellung einer Sauce. Ich mache 50:50. Da ich den Jus immer durch mehrere Lagen Küchenpapier absiebe, ist nur noch wenig Fett vorhanden und es glitzert nahezu in barocken Farben im Topf.
 
 Die Küche ist ein bisschen durcheinander nach diesem Tag, aber das hat sich bald wieder gelegt.
+
+> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkinm, no beef
