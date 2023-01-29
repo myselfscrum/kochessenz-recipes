@@ -52,4 +52,4 @@ Now simmer for 2-3 hours. Then strain. Either you can reduce further or you can 
 
 The kitchen is a bit of a mess after this day, but that soon subsided.
 
-> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkinm, no beef
+> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkin, no beef

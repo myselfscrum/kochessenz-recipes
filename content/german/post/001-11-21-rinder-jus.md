@@ -51,4 +51,4 @@ Nun 2-3 Stunden köcheln lassen. Dann absieben. Entweder kann man nun weiter red
 
 Die Küche ist ein bisschen durcheinander nach diesem Tag, aber das hat sich bald wieder gelegt.
 
-> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkinm, no beef
+> making of beef jus, shown ingredients are bone slices, carrot, leek, garlic, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine, no pumpkin, no beef
