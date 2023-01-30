@@ -111,3 +111,6 @@
 
 - id: update_cookies
   translation: Update cookies preferences
+
+- id: adobestock
+  translation: Meine Bilder auf Adobe Stock    
