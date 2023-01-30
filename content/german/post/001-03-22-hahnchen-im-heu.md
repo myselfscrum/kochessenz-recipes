@@ -8,7 +8,7 @@ type: regular
 tags: 
   - hähnchen
   - heu
-  - piment-d'espelette
+  - piment d'espelette
 ---
 
 Gerade als ich im Superbiomarkt auf die Idee kam, mal wieder Hähnchen zu kaufen, fragte auch schon der Fleischer, ob ich denn eins haben wolle. Das nahm ich als Zeichen und erstand ein 1,4kg-Exemplar.
