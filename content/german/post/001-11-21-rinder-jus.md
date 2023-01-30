@@ -1,6 +1,6 @@
 ---
 title: Rinder-Jus
-date: 2009-11-21
+date: 2009-11-21T17:00:00
 image: images/post/jus.webp
 categories: 
   - zutaten
