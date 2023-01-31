@@ -25,7 +25,7 @@ Also koche ich
 
 separat gar. Dann nehme ich eine rechteckige feuerfeste Keramikform und belege sie mit
 
-* 2 Kugeln [Champignon-Panna-Cotta](../001-11-22/champignon-panna-cotta/) 
+* 2 Kugeln **[Champignon-Panna-Cotta](../001-11-22-champignon-panna-cotta/)** 
 * Kartoffeln, in Schinkenspeck gewickelt 
 * Romanesco 
 * Thymiansauce 

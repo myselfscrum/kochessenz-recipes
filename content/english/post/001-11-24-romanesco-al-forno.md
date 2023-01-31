@@ -21,11 +21,11 @@ Leftover food from the weekend - I made too much of the mushroom cream stuff and
 So I boil:
 
 * 1 Romanesco, cut into pieces 
-* 500g Bamberg croissants
+* 500g Bamberger Hörnchen (small longish potatoes)
 
 separately. Then I take a casserole dish and supply it with
 
-* 2 scoops of [mushroom panna-cotta](../champignon-panna-cotta/) 
+* 2 scoops of **[mushroom panna-cotta](../champignon-panna-cotta/)** 
 * potatoes wrapped in bacon 
 * Romanesco 
 * thyme sauce 
