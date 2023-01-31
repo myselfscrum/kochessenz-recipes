@@ -1,5 +1,5 @@
 ---
-title: Champignon Panna-Cotta
+title: Champignon Panna Cotta
 slug: champignon-panna-cotta
 date: 2009-11-22T18:00:00
 image: images/post/champignon-panna-cotta.webp
