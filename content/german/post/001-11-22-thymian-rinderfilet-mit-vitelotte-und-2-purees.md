@@ -43,13 +43,13 @@ Ich habe auf dem Markt Vitelotte gekauft, die festkochend und violett sind. Sie 
 
 ### Die Thymiansauce
 
-Aus einem Drittel des Rinderjus von gestern mache ich die Sauce. Dazu reduziere ich noch ein wenig und lasse die Sauce mit 3 Thymianzweigen 30 Minuten ziehen. Kurz vor dem Servieren montiere ich eiskalte Butterstückchen. Nicht genug, die Sauce bleibt etwas flüssig. Der Geschmack entschädigt aber allemal.
+Aus einem Drittel des **[Rinderjus](../001-11-21-rinder-jus)** von gestern mache ich die Sauce. Dazu reduziere ich noch ein wenig und lasse die Sauce mit 3 Thymianzweigen 30 Minuten ziehen. Kurz vor dem Servieren montiere ich eiskalte Butterstückchen. Nicht genug, die Sauce bleibt etwas flüssig. Der Geschmack entschädigt aber allemal.
 
 ### Das Filet
 
-450g Rinderfilet am Stück vom **[roten Höhenvieh](http://naturlandhof-buening.de/?p=83)**
+* 450g Rinderfilet am Stück vom **[roten Höhenvieh](http://naturlandhof-buening.de/?p=83)**
 
-habe ich bei Maria Büning auf dem Münsteraner Markt erstanden. Ich schneide es in zwei fast gleichgroße Stücke (180g und 260g) und bereite es als Niedrigtemperatursteak zu. Da ich zunächst nicht auf Umluft gare, dauert es ein wenig länger, das Fleisch ist insgesamt 35 Minuten bei 80°C im Ofen. Es bleibt innen rosa, zart, und hat einen ganz hervorragenden, fast schinkenartigen Eigengeschmack.
+habe ich bei Maria Büning auf dem Münsteraner Markt erstanden. Ich schneide es in zwei fast gleich große Stücke (180g und 260g 😅) und bereite es als Niedrigtemperatursteak zu. Da ich zunächst nicht auf Umluft gare, dauert es ein wenig länger, das Fleisch ist insgesamt 35 Minuten bei 80°C im Ofen. Es bleibt innen rosa, zart, und hat einen ganz hervorragenden, fast schinkenartigen Eigengeschmack.
 
 ### Das Ergebnis
 
