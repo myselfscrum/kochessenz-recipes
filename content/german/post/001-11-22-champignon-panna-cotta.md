@@ -56,3 +56,5 @@ weicht in kaltem Wasser für ein paar Minuten. Dann löse ich sie in der Sahne a
 Nun schnell in den Kühlschrank damit, denn die Vorspeise soll heute noch vertilgt werden und 2 Stunden Wartezeit sind schon mindestens notwendig.
 
 Ich richte die Panna Cotta mit einem Sträußchen Postelein und Rauke mit ein wenig Balsamico-Wildräuteröl-Vinaigrette an.
+
+> dish of small panna cotta, with thin mushroom slices at the side, with some wild herb salad aside, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine

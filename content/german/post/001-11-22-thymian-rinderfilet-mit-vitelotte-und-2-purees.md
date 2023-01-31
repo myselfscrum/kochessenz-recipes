@@ -54,3 +54,5 @@ habe ich bei Maria Büning auf dem Münsteraner Markt erstanden. Ich schneide es
 ### Das Ergebnis
 
 ist ein äußerst zufriedenstellendes Hauptgericht 😊 So könnte man es jeden Tag haben... 
+
+> dish of grilled fillet steak, with a steamed purple potato, with white bean mesh, with brussels sprouts mesh, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in cozy log cabin, scenery, wooden table, fireplace, well-lit, unreal engine

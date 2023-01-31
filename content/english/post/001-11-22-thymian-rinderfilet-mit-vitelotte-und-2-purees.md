@@ -56,3 +56,4 @@ I bought at Maria Büning at the Münster market. I cut it into two almost equal
 
 is an extremely satisfying main course 😊 You could have it like this every day.... 
 
+> dish of grilled fillet steak, with a steamed purple potato, with white bean mesh, with brussels sprouts mesh, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in cozy log cabin, scenery, wooden table, fireplace, well-lit, unreal engine

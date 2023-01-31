@@ -57,3 +57,5 @@ softens in cold water for a few minutes. Then I dissolve it in the cream and pou
 Now quickly in the refrigerator with it, because the appetizer should still be consumed today and 2 hours waiting time is already at least necessary.
 
 I arrange the panna cotta with a bouquet Postelein and rocket with a little balsamic wild herb oil vinaigrette.
+
+> dish of small panna cotta, with thin mushroom slices at the side, with some wild herb salad aside, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine
