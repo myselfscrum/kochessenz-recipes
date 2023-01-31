@@ -55,4 +55,4 @@ in wenig Butter/Öl ca 7 Minuten. Die Garnele muss eigentlich nicht sein, gibt a
 
 Abschließend stelle ich das Gericht auf vorgewärmten Tellern zusammen und verschlinge es in Windeseile.
 
-> 
+> one-plate-dish of chestnut tagliatelle, with cream sauce, with plucked brussels sprouts leaves, with slightly grilled sea robin fillet, with slightly grilled monkfish cheek, with one slightly grilled shrimp, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine

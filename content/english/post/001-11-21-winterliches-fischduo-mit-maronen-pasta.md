@@ -55,5 +55,5 @@ in a little butter/oil for about 7 minutes. The shrimp doesn't really need to be
 
 Finally, I arrange the dish on preheated plates and devour it in no time.
 
-> 
+> one-plate-dish of chestnut tagliatelle, with cream sauce, with plucked brussels sprouts leaves, with slightly grilled sea robin fillet, with slightly grilled monkfish cheek, with one slightly grilled shrimp, very photorealistic, food magazine style, award-winning photo, long lens, depth of field, soft light, shot from material height, photo of the year, award-winning photo, embedded in restaurant scenery, well-lit, unreal engine
 
