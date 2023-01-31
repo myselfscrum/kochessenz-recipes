@@ -1,5 +1,5 @@
 ---
-title: Pickled beetroot
+title: Pickled Beetroot
 slug: pickled-beetroot
 image: images/post/preserved-beetroot.webp
 date: 2009-11-28T15:00:00
