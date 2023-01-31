@@ -1,5 +1,6 @@
 ---
 title: Double Fish Feature with Chestnut Pasta
+slug: double-fish-feature
 image: images/post/tagliatelle-fish.webp
 date: 2009-11-21T19:00:00
 categories: 
