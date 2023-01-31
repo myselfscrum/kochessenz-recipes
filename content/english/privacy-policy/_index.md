@@ -23,7 +23,7 @@ Operator of the website:
 
 ### Website notes
 
-[Site Design: Martin Jahr](https://martin-jahr.de) using the themefisher theme "galaxy". Images, unless otherwise noted: Martin Jahr. Images generated with midjourney.
+[Site Design: Martin Jahr](https://martin-jahr.de) using the themefisher theme "galaxy". Images, unless otherwise noted: Martin Jahr. Images generated with midjourney. All rights reserved. No reproduction of any kind without prior written consent.
 
 ## DATA PROTECTION
 <br/>

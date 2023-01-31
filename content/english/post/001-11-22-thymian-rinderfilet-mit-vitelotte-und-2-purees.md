@@ -48,7 +48,7 @@ I make the sauce from a third of the **[beef jus](../beef-jus)** from yesterday.
 
 ### The fillet
 
-* 450g fillet of beef in one piece from **[red highland cattle (german)](http://naturlandhof-buening.de/?p=83)**
+* 450g fillet of beef in one piece from **[red highland cattle (german feature)](http://naturlandhof-buening.de/?p=83)**
 
 I bought at Maria Büning at the Münster market. I cut it into two almost equal pieces (180g and 260g 😅) and prepare it as a low temperature steak. Since I don't cook on convection at first, it takes a little longer, the meat is in the oven at 80°C for a total of 35 minutes. It stays pink inside, tender, and has quite an excellent, almost smoked ham-like flavor of its own.
 

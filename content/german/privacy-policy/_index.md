@@ -23,7 +23,7 @@ Betreiber der Website:
 
 ### Hinweise zur Website
 
-[Site Design: Martin Jahr](https://martin-jahr.de) unter Nutzung des themefisher Themes "galaxy". Abbildungen, wo nicht anders angegeben: Martin Jahr. Images generiert mit midjourney.
+[Site Design: Martin Jahr](https://martin-jahr.de) unter Nutzung des themefisher Themes "galaxy". Abbildungen, wo nicht anders angegeben: Martin Jahr. Images generiert mit midjourney.  Alle Rechte vorbehalten. Keine Vervielfältigung jeglicher Art ohne vorherige schriftliche Genehmigung.
 
 ## DATENSCHUTZ
 <br/>
