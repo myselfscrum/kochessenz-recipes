@@ -1,59 +1,59 @@
 ---
 title: Champignon Panna-Cotta
+slug: champignon-panna-cotta
 date: 2009-11-22T18:00:00
 image: images/post/champignon-panna-cotta.webp
 categories: 
-  - zutaten
+  - ingredients
   - dinner for x
-type: 
-  - regular
+type: regular
 tags: 
-  - champignon
-  - estragon
-  - hühnerbrühe
-  - knoblauch
-  - sahne
+  - mushroom
+  - tarragon
+  - chicken broth
+  - garlic
+  - cream
   - piment d'espelette
 ---
 
-Die Vorspeise zum heutigen Dinner ist ein wenig außergewöhnlich. Inspiriert vom Champignonwiese-Artikel in der aktuellen Ausgabe der Effilee, habe ich aus einem Teil der gestern gekochten Hühnerbrühe eine Champignonessenz erstellt. 
+The appetizer for tonight's dinner is a bit unusual. Inspired by the mushroom meadow article in the current issue of Effilee, I created a mushroom essence from some of the chicken broth I cooked yesterday. 
 
-1. Aufguss:
+1st infusion:
 
-* 500 ml kräftige Hühnerbrühe 
-* 6 mittelgroße braune Champignons, grob geschnitten 
-* etwas weißer Pfeffer 
-* 1/4 TL getrockneter Estragon (nicht mehr!) 
-* 2 Knoblauchzehen, geviertelt
+* 500 ml of strong chicken broth. 
+* 6 medium brown mushrooms, coarsely chopped 
+* some white pepper 
+* 1/4 tsp dried tarragon (no more!) 
+* 2 cloves of garlic, quartered
 
-kurz aufkochen, dann eine Stunde ziehen lassen und passieren. 
+Bring to a boil briefly, then let steep for an hour and strain. 
 
-2. Aufguss:
+2nd infusion:
 
-* Brühe vom 1. Aufguss 
-* 8 mittelgroße braune Champignons, grob geschnitten
+* broth from 1st infusion. 
+* 8 medium brown mushrooms, coarsely chopped
 
-kurz aufkochen, dann eine Stunde ziehen lassen und passieren. Den 3. Aufguss spare ich mir. Ich reduziere die Brühe, bis es Demi Glace ist.
+Bring to a boil briefly, then steep for an hour and strain. I save the 3rd infusion. I reduce the broth until it is demi glace.
 
-Nur was damit tun? Ein Teil davon wandert in eine Panna Cotta, der Rest verbleibt im Kühlschrank für künftige Freuden.
+Only what to do with it? Some of it goes into a panna cotta, the rest stays in the fridge for future delights.
 
-Panna Cotta ist einfach. Folgendes muss 15 Minuten köcheln:
+Panna Cotta is simple. The following needs to simmer for 15 minutes:
 
-* 200 ml Schlagsahne 
-* 2 Messerspitzen Piment d'Espelette 
-* 2 Prisen Salz 
-* 1 Prise Muskatnuss
+* 200 ml of whipped cream 
+* 2 pinches of piment d'Espelette 
+* 2 pinches of salt 
+* 1 pinch of nutmeg
 
-Derweil bereite ich die Portionsschüsseln vor. Ich nehme dazu 4 Eierbecher, die ich kalt ausspüle. Als Dekoration brate ich
+Meanwhile, I prepare the serving bowls. For this I take 4 egg cups, which I rinse in cold water. As decoration I fry
 
-* 4 dünne Champignonscheiben
+* 4 thin mushroom slices
 
-kurz in Butter an und lege sie seitlich in die Eierbecher.
+briefly in butter and place them sideways in the egg cups.
 
-* 1 Scheibe Gelatine
+* 1 slice of gelatin
 
-weicht in kaltem Wasser für ein paar Minuten. Dann löse ich sie in der Sahne auf und fülle die erste Hälfte der Sahne in die Eierbecher. Nun gebe ich ca. die Hälfte der Chmpignonessenz in die restliche Sahne und verrühre alles. Vorsichtig schütte ich die Masse nun auf die erste Schicht in den Eierbechern. Eigentlich sollte die zuerst fest werden, aber so viel Zeit habe ich heute nicht.
+softens in cold water for a few minutes. Then I dissolve it in the cream and pour the first half of the cream into the egg cups. Now I add about half of the chmpignon essence to the remaining cream and mix everything. Carefully I pour the mixture now on the first layer in the egg cups. Actually, it should set first, but I don't have that much time today.
 
-Nun schnell in den Kühlschrank damit, denn die Vorspeise soll heute noch vertilgt werden und 2 Stunden Wartezeit sind schon mindestens notwendig.
+Now quickly in the refrigerator with it, because the appetizer should still be consumed today and 2 hours waiting time is already at least necessary.
 
-Ich richte die Panna Cotta mit einem Sträußchen Postelein und Rauke mit ein wenig Balsamico-Wildräuteröl-Vinaigrette an.
+I arrange the panna cotta with a bouquet Postelein and rocket with a little balsamic wild herb oil vinaigrette.

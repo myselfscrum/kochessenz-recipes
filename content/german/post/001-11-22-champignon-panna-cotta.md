@@ -5,8 +5,7 @@ image: images/post/champignon-panna-cotta.webp
 categories: 
   - zutaten
   - dinner for x
-type: 
-  - regular
+type: regular
 tags: 
   - champignon
   - estragon
