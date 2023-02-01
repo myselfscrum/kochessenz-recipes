@@ -2,7 +2,7 @@
 title: Carrot soup
 slug: carrot-soup
 image: images/post/carrot-soup.webp
-date: 2009-11-28
+date: 2009-11-28T18:00:00
 categories: 
   - dinner for x
 type: regular
