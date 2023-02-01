@@ -13,7 +13,7 @@ tags:
   - tomatenmark
   - knoblauch
   - pfeffer, weiß
-  - nelken
+  - nelke
   - piment
   - lorbeer
   - thymian

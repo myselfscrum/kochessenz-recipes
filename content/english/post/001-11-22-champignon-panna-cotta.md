@@ -8,12 +8,12 @@ categories:
   - dinner for x
 type: regular
 tags: 
-  - mushroom
+  - champignon
   - tarragon
   - chicken broth
   - garlic
   - cream
-  - piment d'espelette
+  - pimento d'espelette
 ---
 
 The appetizer for tonight's dinner is a bit unusual. Inspired by the mushroom meadow article in the current issue of Effilee, I created a mushroom essence from some of the chicken broth I cooked yesterday. 

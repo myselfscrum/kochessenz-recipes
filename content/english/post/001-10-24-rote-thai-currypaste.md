@@ -13,7 +13,7 @@ tags:
   - kaffir lime leaf
   - garlic
   - coriander herb
-  - coriander seeds
+  - coriander seed
   - pepper
   - shallot
   - lemongrass

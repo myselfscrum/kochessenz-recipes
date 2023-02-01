@@ -9,12 +9,12 @@ type: regular
 tags: 
   - beef bones
   - red wine
-  - soup vegetables
-  - mushroom
+  - soup vegetable
+  - champignon
   - tomato paste
   - garlic
   - pepper, white
-  - cloves
+  - clove
   - allspice
   - bay leaf
   - thyme

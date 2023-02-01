@@ -9,8 +9,8 @@ type: regular
 tags: 
   - avocado
   - mozzarella
-  - sand shrimps
-  - limette
+  - sand shrimp
+  - lime
   - olive oil
 ---
 

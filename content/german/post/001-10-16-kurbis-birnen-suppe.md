@@ -9,7 +9,7 @@ type: regular
 tags: 
   - birne
   - butternut
-  - huhnerbrühe
+  - hühnerbrühe
   - möhre
   - petersilienwurzel
   - sahne

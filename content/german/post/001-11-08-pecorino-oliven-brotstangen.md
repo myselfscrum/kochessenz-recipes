@@ -7,10 +7,10 @@ categories:
 type: regular
 tags: 
   - hefeteig
-  - Rosmarin
-  - Thymian
-  - Majoran
-  - Lorbeer
+  - rosmarin
+  - thymian
+  - majoran
+  - lorbeer
   - olive
   - pecorino
 ---

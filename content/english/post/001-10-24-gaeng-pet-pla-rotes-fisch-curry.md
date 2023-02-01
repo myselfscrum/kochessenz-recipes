@@ -9,7 +9,7 @@ categories:
 type: regular
 tags: 
   - turmeric
-  - paprika
+  - bell pepper
   - rice
   - coho salmon
   - red thai curry

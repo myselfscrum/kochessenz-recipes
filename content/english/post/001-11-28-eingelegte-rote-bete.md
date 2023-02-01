@@ -9,7 +9,7 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - bay
+  - bay leaf
   - clove
   - beetroot
   - apple cider vinegar

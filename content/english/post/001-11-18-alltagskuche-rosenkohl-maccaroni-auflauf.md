@@ -8,9 +8,9 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - mushroom
+  - champignon
   - tarragon
-  - macaroni
+  - maccaroni
   - Brussels sprouts
   - creme fraiche
 ---
