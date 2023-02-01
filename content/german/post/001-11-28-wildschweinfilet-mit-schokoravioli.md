@@ -16,11 +16,15 @@ tags:
 
 Noch mehr Power muss in diesen grauen November! Nach der **[Möhrensuppe](../moehrensuppe/)** als Vorspeise kommt der Hauptgang etwas weihnachtlicher daher. Es gibt Wildschwein mit Orangen-Schwarzwurzeln.
 
-Zuerst ist die
+Zuerst befreie ich das 
+
+* Wildschweinfilet (280g)
+
+von Sehnen und Fett und pinsele es mit Butter ein. Dann kommt es auf einem Teller in den auf 90° vorgeheizten Backofen, wo es 35 Minuten vorgart. Jetzt ist die
 
 * Schwarzwurzel
 
-dran. Ich habe ein Prachtexemplar erstanden, so dass eine Wurzel für 2 Personen reicht. Die Aufregung um's Schälen habe ich nie so richtig verstanden. Ich schrubbe die Wurzel erst einmal mit der Gemüsebürste ab und schäle sie dann mit dem Sparschäler in der Spüle unter Wasser. Ein Rest Zitrone sorgt für ein wenig Säure, so dass das Gemüse nicht anläuft.
+dran. Ich habe ein Prachtexemplar erstanden, so dass eine Wurzel für 2 Personen reicht. Die Aufregung um's Schälen habe ich nie so richtig verstanden. Ich schrubbe die Wurzel erst einmal mit der Gemüsebürste ab und schäle sie dann mit dem Sparschäler in der Spüle unter Wasser. Ein Rest Zitrone sorgt für ein wenig Säure, so dass das Gemüse nicht anläuft. 
 
 Ich schneide die Wurzel dann diagonal in schmale Scheiben und koche sie in
 
