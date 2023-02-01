@@ -14,7 +14,7 @@ tags:
   - chicken broth
 ---
 
-More power is needed in this gray November! After the [carrot soup](../carrot-soup/) as a starter, the main course is a bit more christmas-like. There is wild boar with orange-black salsify.
+More power is needed in this gray November! After the **[carrot soup](../carrot-soup/)** as a starter, the main course is a bit more christmas-like. There is wild boar with orange-black salsify.
 
 First the black salsify! I have purchased a magnificent specimen, so that one root is enough for 2 people. 
 

@@ -14,7 +14,7 @@ tags:
   - hühnerbrühe
 ---
 
-Noch mehr Power muss in diesen grauen November! Nach der [Möhrensuppe](../moehrensuppe/) als Vorspeise kommt der Hauptgang etwas weihnachtlicher daher. Es gibt Wildschwein mit Orangen-Schwarzwurzeln.
+Noch mehr Power muss in diesen grauen November! Nach der **[Möhrensuppe](../moehrensuppe/)** als Vorspeise kommt der Hauptgang etwas weihnachtlicher daher. Es gibt Wildschwein mit Orangen-Schwarzwurzeln.
 
 Zuerst ist die
 
