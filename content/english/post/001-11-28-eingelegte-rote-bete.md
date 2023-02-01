@@ -29,3 +29,4 @@ come into a boiled decoction of
 
 I put them in a canning jar that I don't sterilize. They don't get that old... Overnight they go in the fridge along with some hard boiled eggs, there we have something for tomorrow afternoon.
 
+> small preserved beetroot lumps in a preserving jar with light shining through, with bay leaves and spices, in front of a window, rainy day, raindrops, grey sky very photorealistic, food magazine style, award-winning photo, long lens, soft light, shot from material height, photo of the year, award-winning photo, unreal engine

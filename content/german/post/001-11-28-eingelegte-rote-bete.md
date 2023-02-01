@@ -29,3 +29,4 @@ kommen in einen aufgekochten Sud aus
 
 Ich fülle sie in ein Einmachglas, das ich nicht sterilisiere. So alt werden die nicht... Über Nacht kommen sie zusammen mit ein paar hartgekochten Eiern in den Kühlschrank, da haben wir was für morgen Nachmittag.
 
+> small preserved beetroot lumps in a preserving jar with light shining through, with bay leaves and spices, in front of a window, rainy day, raindrops, grey sky very photorealistic, food magazine style, award-winning photo, long lens, soft light, shot from material height, photo of the year, award-winning photo, unreal engine
