@@ -1,6 +1,6 @@
 ---
-title: Gebratene Sellerieschnitzel
-slug: gebratene-sellerieschnitzel
+title: Panierte Sellerieschnitzel
+slug: panierte-sellerieschnitzel
 date: 2009-11-29T16:00:00
 image: images/post/sellerieschnitzel.webp
 categories: 

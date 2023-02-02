@@ -35,7 +35,7 @@ und in die andere Hälfte
 
 * 2 TL Lavendelblüten, etwas gemörsert.
 
-Ab in die Klarsichtfolie und für 30 Minuten in den Kühlschrank. Mittlerweile brate ich einen **[Sellerie](../gebratene-sellerieschnitzel/)**, aber das ist eine andere Geschichte.
+Ab in die Klarsichtfolie und für 30 Minuten in den Kühlschrank. Mittlerweile brate ich einen **[Sellerie](../panierte-sellerieschnitzel/)**, aber das ist eine andere Geschichte.
 
 Nun kommt zum Einsatz
 
