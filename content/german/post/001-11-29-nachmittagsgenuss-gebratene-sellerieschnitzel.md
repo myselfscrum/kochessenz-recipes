@@ -1,7 +1,7 @@
 ---
 title: Gebratene Sellerieschnitzel
 slug: gebratene-sellerieschnitzel
-date: 2009-11-29
+date: 2009-11-29T16:00:00
 image: images/post/sellerieschnitzel.webp
 categories: 
   - nachmittagsgenuss

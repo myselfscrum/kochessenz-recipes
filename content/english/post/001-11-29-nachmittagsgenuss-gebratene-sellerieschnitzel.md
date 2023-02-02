@@ -1,7 +1,7 @@
 ---
 title: Fried Celery Cutlets
 slug: fried-celery-cutlets
-date: 2009-11-29
+date: 2009-11-29T16:00:00
 image: images/post/sellerieschnitzel.webp
 categories: 
   - afternoon delight
