@@ -1,5 +1,5 @@
 ---
-title: "Thyme beef fillet with vitelotte and 2 purees"
+title: "Thyme Beef Fillet with Vitelotte and 2 Purees"
 slug: beef-fillet-vitelotte
 date: 2009-11-22T20:00:00
 image: images/post/steak-vitelotte.webp

@@ -1,5 +1,5 @@
 ---
-title: Romanesco al forno
+title: Romanesco al Forno
 slug: romanesco-al-forno
 date: 2009-11-24
 image: images/post/romanesco-al-forno.webp

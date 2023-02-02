@@ -35,7 +35,7 @@ and into the other half
 
 * 2 teaspoons of lavender flowers, a little mortared.
 
-Off in the cling film and for 30 minutes in the refrigerator. Meanwhile, I roast a **[celery](../roasted-celery/)**, but that's another story.
+Off in the cling film and for 30 minutes in the refrigerator. Meanwhile, I roast a **[celery](../fried-celery-cutlets/)**, but that's another story.
 
 Now comes to use
 

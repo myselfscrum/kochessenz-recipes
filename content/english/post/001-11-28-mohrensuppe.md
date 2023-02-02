@@ -1,5 +1,5 @@
 ---
-title: Carrot soup
+title: Carrot Soup
 slug: carrot-soup
 image: images/post/carrot-soup.webp
 date: 2009-11-28T18:00:00
