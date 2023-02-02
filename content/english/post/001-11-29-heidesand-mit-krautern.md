@@ -49,3 +49,5 @@ Then I cut the rolls into 1cm wide pieces (this is best done with a long, narrow
 Result - great cookies for the first Advent. With the lavender I could have been more courageous, he does not come through as clearly as the rosemary. We don't eat all 60 cookies, of course, but put them in a tin box where I'm sure they'll get even better, as they always do when you store shortbread cookies.
 
 A good start to the cookie baking season, which will culminate next weekend in Berlin!
+
+> small and tick shortcrust cookies, lavender, rosemary

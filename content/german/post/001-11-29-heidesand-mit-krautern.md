@@ -49,3 +49,5 @@ Dann schneide ich die Rollen in 1cm breite Stücke (am besten geht das mit einem
 Ergebnis - klasse Kekse für den ersten Advent. Beim Lavendel hätte ich ruhig mutiger sein können, er kommt nicht so deutlich durch wie der Rosmarin. Wir essen natürlich nicht alle 60 Kekse auf, sondern packen sie in eine Blechkiste, wo sie bestimmt noch besser werden, wie immer, wenn man Mürbeteiggebäck lagert.
 
 Ein guter Auftakt der Keksbacksaison, die nächstes Wochenende in Berlin einen Höhepunkt erfahren wird!
+
+> small and tick shortcrust cookies, lavender, rosemary

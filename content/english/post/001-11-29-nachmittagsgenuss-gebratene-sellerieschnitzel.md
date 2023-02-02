@@ -27,3 +27,5 @@ make the breading for
 * 2 slices of celery, 2 cm thick, cut in half, cooked for 8 minutes,
 
 which I then fry floating in butter/oil. This is accompanied by some of the pickled **[beet](../pickled-beetroot/)** with some **[bean puree from last weekend](../beef-fillet-vitelotte)**, which has kept beautifully in the fridge. And one of the pickled eggs from the beet brine, jazzed up a bit with mustard and olive oil.
+
+> celeriac slices, deep fried, with beetroot

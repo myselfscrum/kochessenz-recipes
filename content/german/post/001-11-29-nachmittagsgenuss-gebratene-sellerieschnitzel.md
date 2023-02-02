@@ -27,3 +27,5 @@ ergeben die Panade für
 * 2 Scheiben Sellerie, 2 cm dick, halbiert, 8 Minuten gekocht,
 
 die ich dann in Butter/Öl schwimmend ausbacke. Dazu gibt es von der eingelegten **[roten Bete](../eingelegte-rote-bete/)** mit etwas **[Bohnenmus vom letzten Wochenende](../001-11-22-thymian-rinderfilet-mit-vitelotte-und-2-purees)**, das sich im Kühlschrank hervorragend gehalten hat. Und eins der in der Betelake eingelegten Eier, mit Senf und Olivenöl ein wenig aufgepeppt.
+
+> celeriac slices, deep fried, with beetroot
