@@ -1,5 +1,6 @@
 ---
 title: Spaghetti Casserole with Chicken Breast
+slug: spaghetti-chicken-casserole
 date: 2009-12-09
 image: images/post/spaghetti-chicken.webp
 categories: 

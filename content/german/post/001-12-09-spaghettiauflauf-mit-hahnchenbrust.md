@@ -1,5 +1,6 @@
 ---
 title: Spaghettiauflauf mit Hähnchenbrust
+slug: spaghetti-haehnchenbrust-auflauf
 date: 2009-12-09
 image: images/post/spaghetti-chicken.webp
 categories: 
