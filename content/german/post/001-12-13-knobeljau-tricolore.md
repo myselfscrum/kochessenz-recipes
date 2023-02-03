@@ -1,7 +1,7 @@
 ---
 title: Knobeljau Tricolore
 slug: knobeljau-tricolore
-date: 2009-12-13
+date: 2009-12-13T20:00:00
 image: images/post/kabeljau-tricolore.webp
 categories: 
   - die besten
@@ -33,7 +33,7 @@ Geschafft! Nun kann ich mich um die beiden anderen Farben kümmern. Das geplante
 
 * Spinat (400g Rohgewicht),
 
-den ich eigentlich für die [Spinatherzensuppe](http://www.kochessenz.de/2009/12/13/spinatherzensuppe/) gekauft habe. Der ist praktischerweise schon geputzt, so dass ich direkt die Gummihandschuhe überziehen und die Rote Bete in kleinste Würfel schneiden kann.
+den ich eigentlich für die **[Spinatherzensuppe](../spinatherzensuppe/)** gekauft habe. Der ist praktischerweise schon geputzt, so dass ich direkt die Gummihandschuhe überziehen und die Rote Bete in kleinste Würfel schneiden kann.
 
 Hier also die zutaten für's Risotto
 

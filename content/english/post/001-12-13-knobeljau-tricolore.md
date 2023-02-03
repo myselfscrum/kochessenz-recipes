@@ -1,7 +1,7 @@
 ---
 title: Three Color Dish with Codfish
 slug: codfish-three-colors
-date: 2009-12-13
+date: 2009-12-13T20:00:00
 image: images/post/kabeljau-tricolore.webp
 categories: 
   - the best
@@ -33,7 +33,7 @@ Done! Now I can take care of the other two colors. The planned risotto gets beet
 
 * Spinach (400g raw weight),
 
-which I actually bought for the [spinach heart soup](http://www.kochessenz.de/2009/12/13/spinatherzensuppe/). This is conveniently already cleaned, so I can directly put on the rubber gloves and cut the beet into smallest cubes.
+which I actually bought for the **[spinach soup](../spinach-soup/)**. This is conveniently already cleaned, so I can directly put on the rubber gloves and cut the beet into smallest cubes.
 
 Here are the ingredients for the risotto
 
