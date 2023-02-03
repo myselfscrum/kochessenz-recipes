@@ -5,6 +5,7 @@ date: 2009-12-13T19:00:00
 image: images/post/spinatsuppe.webp
 categories: 
   - dinner for x
+type: regular
 tags: 
   - egg
   - chicken broth
