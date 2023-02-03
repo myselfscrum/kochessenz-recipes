@@ -2,7 +2,7 @@
 title: Three Color Dish with Codfish
 slug: codfish-three-colors
 date: 2009-12-13
-image: images/post/codfish-tricolore.webp
+image: images/post/kabeljau-tricolore.webp
 categories: 
   - the best
   - dinner for x
