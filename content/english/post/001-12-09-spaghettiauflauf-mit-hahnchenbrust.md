@@ -54,3 +54,5 @@ Since it is to become a casserole, comes on the pasta also still some cheese, I 
 * grated Emmental.
 
 After 15 minutes in the oven, the meal is ready and is completely consumed by the two of us.
+
+> spaghetti gratin with grilled chicken fillet

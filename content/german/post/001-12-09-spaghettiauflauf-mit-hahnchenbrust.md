@@ -54,3 +54,5 @@ Da es ja ein Auflauf werden soll, kommt auf die Nudeln auch noch etwas Käse, ic
 * geriebenen Emmentaler.
 
 Nach 15 Minuten im Ofen ist das Essen fertig und wird von uns zu zweit komplett verputzt.
+
+> spaghetti gratin with grilled chicken fillet
