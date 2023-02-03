@@ -16,7 +16,7 @@ tags:
   - tomato
 ---
 
-Steph from the "kleinen Kuriositätenladen" blog got me thinking about an old favorite dish with today's **[recipe](http://kuriositaetenladen.blogspot.com/2009/12/hahnchenschnitzel-in-parmesan-panko.html)** that I cook promptly in the evening because it's quick and can be made well during the week.
+Steph from the "Kleiner Kuriositätenladen" blog got me thinking about an old favorite dish with today's **[recipe](http://kuriositaetenladen.blogspot.com/2009/12/hahnchenschnitzel-in-parmesan-panko.html)** that I cook promptly in the evening because it's quick and can be made well during the week.
 
 I cook
 
