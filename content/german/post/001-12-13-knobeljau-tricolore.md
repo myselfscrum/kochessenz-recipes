@@ -1,5 +1,6 @@
 ---
 title: Knobeljau Tricolore
+slug: knobeljau-tricolore
 date: 2009-12-13
 image: images/post/kabeljau-tricolore.webp
 categories: 
