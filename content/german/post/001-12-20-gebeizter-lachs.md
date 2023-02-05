@@ -37,4 +37,4 @@ Nach 3 Tagen gieße ich die Flüssigkeit ab und entferne Marinadereste und die H
 
 Und die Reste vom Verschnitt kommen kurz mit Butter in die Pfanne und landen auf einem Stück Vollkornbrot mit ein paar restlichen Zucker/Salzkrümeln. Lecker!
 
->
+> marinated salmon, dill, pepper, allspice seeds, mustard seeds

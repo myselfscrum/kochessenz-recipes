@@ -37,4 +37,4 @@ After 3 days I pour off the liquid and remove marinade residues and the skin. Th
 
 And the leftovers from the trimmings go in a pan with butter for a bit and end up on a piece of whole wheat bread with a few remaining sugar/salt crumbs. Delicious!
 
->
+> marinated salmon, dill, pepper, allspice seeds, mustard seeds
