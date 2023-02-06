@@ -5,6 +5,7 @@ date: 2009-12-21
 image: images/post/truffles.webp
 categories: 
   - ingredients
+type: regular
 tags: 
   - truffles
 ---
