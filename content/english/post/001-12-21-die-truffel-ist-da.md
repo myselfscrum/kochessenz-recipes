@@ -17,3 +17,5 @@ The shipment takes place without any problems in a Styrofoam box with wood wool 
 The truffle itself is still covered with a thin layer of clay, I pack it first in a jam jar in the refrigerator.
 
 Well, it is supposed to stay there until Friday? Isn't it much too big for a dish? Don't you have to test it before you "really" cook with it? I think you will read again tomorrow what on the subject ...
+
+> perigord truffle fungus, cut half, food photography, award-winning photo, long lens, depth of field, octane rendering, photorealistic, white background

@@ -17,3 +17,5 @@ Der Versand erfolgt problemlos in einer Styroporbox mit Holzwolle und Kühlakku 
 Die Trüffel selbst ist noch mit einer dünnen Lehmschicht bedeckt, ich packe sie erstmal in einem Marmeladenglas in den Kühlschrank.
 
 Tja, da soll sie nun bis Freitag stehen bleiben? Ist die nicht viel zu groß für ein Gericht? Muss man die nicht mal testen, bevor man "richtig" damit kocht? Ich glaube, Ihr werdet morgen erneut was zum Thema lesen...
+
+> perigord truffle fungus, cut half, food photography, award-winning photo, long lens, depth of field, octane rendering, photorealistic, white background
