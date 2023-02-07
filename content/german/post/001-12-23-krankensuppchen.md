@@ -5,6 +5,7 @@ date: 2009-12-23
 image: images/post/sicksoup.webp
 categories: 
   - alltagsküche
+type: regular
 tags: 
   - bandnudel
   - champignon
