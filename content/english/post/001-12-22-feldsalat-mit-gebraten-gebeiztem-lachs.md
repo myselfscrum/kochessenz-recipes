@@ -1,5 +1,5 @@
 ---
-title: Lamb's lettuce with fried-pickled salmon
+title: Lamb's Lettuce with Fried-Pickled Salmon
 slug: lettuce-salmon
 date: 2009-12-22T19:00:00
 image: images/post/salmon-salad.webp
