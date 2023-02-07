@@ -1,7 +1,7 @@
 ---
 title: Truffle nutmeg tagliatelle
 slug: truffle tagliatelle
-date: 2009-12-22
+date: 2009-12-22T20:00:00
 image: images/post/truffles-pasta.webp
 categories: 
   - dinner for x
