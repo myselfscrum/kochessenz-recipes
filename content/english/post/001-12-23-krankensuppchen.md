@@ -5,6 +5,7 @@ date: 2009-12-23
 image: images/post/sicksoup.webp
 categories: 
   - everyday cooking
+type: regular
 tags: 
   - tagliatelle
   - mushroom
@@ -35,3 +36,5 @@ gradually move into the same pot and are finally supplemented by some quick home
 * 1,5 tsp olive oil
 
 The soup will surely bring me back to life again!
+
+> bowl of german soup with chicken meat, pappardelle, mushroom, chicken broth, carrot, parsley root, spinach, savoy cabbage, food photography, award-winning photo, long lens, table laid out, depth of field, unreal rendering, photorealistic

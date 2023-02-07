@@ -35,3 +35,5 @@ wandern nach und nach in denselben Topf und werden abschließend ergänzt durch 
 * 1,5 TL Olivenöl
 
 Die Suppe macht wieder ein bisschen lebendig!
+
+> bowl of german soup with chicken meat, pappardelle, mushroom, chicken broth, carrot, parsley root, spinach, savoy cabbage, food photography, award-winning photo, long lens, table laid out, depth of field, unreal rendering, photorealistic
