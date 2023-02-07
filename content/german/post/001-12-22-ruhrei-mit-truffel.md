@@ -1,7 +1,7 @@
 ---
 title: Rührei mit Trüffel
 slug: trueffel-ruehrei
-date: 2009-12-22
+date: 2009-12-22T16:00:00
 image: images/post/truffles-and-egg.webp
 categories: 
   - vegetarisch
@@ -15,7 +15,7 @@ tags:
 
 Tja ich muss sie nun schon mal testen, die **[just erworbene Trüffel](../trueffel/)**... Inzwischen ist sie vom Lehm befreit, dank Oral-B kein Problem. Nun ist sie stumpf-schwarzbraun, an einigen Stellen rötlich wie dunkles Kirschholz.
 
-Das Einsteigerrezept ist ja oft ein Trüffelrührei, und das hab ich gerade produziert. Ist ganz einfach ;)
+Das Einsteigerrezept ist ja oft ein Trüffelrührei, und das hab ich gerade produziert. Ist ganz einfach!
 
 * 3 Eier 
 * Fleur de Sel 

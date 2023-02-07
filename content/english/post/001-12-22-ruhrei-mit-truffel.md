@@ -15,7 +15,7 @@ tags:
 
 Well I have to test it now, the **[just acquired truffle](../truffles/)**... In the meantime it is freed from the clay, thanks to a toothbrush no problem. Now it is dull blackish brown, in some places reddish like dark cherry wood.
 
-The starter recipe is often a truffle scrambled egg, and I have just produced. Is quite simple ;)
+The starter recipe is often a truffle scrambled egg, and I have just produced. It is quite simple!
 
 * 3 eggs 
 * Fleur de Sel 
