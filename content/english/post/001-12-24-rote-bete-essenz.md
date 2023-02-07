@@ -1,7 +1,7 @@
 ---
 title: Beetroot essence
 slug: beetroot-essence
-date: 2009-12-24
+date: 2009-12-24T18:00:00
 image: images/post/beetroot-essence.webp
 categories: 
   - best
