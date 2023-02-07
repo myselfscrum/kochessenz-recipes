@@ -30,3 +30,5 @@ wash them and arrange them. For this I make a vinaigrette of.
 * pepper, salt
 
 Now the double-processed salmon approaches. First pickled, I sear a thumb-thick slice now standing upright on both sides hot and briefly together with the rest of the garlic clove and add it to the salad. The pimento seasoning from the pickling comes through clearly, and the fried exterior and pickled core harmonize well with the tart lamb's lettuce. A nice appetizer.
+
+> small portion of field lamb's lettuce and and small piece of sauteed salmon, starter, one plate only, food photography, award-winning photo, long lens, depth of field, octane rendering, photorealistic 

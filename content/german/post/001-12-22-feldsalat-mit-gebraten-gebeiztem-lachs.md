@@ -30,3 +30,5 @@ wasche sie und richte sie an. Dazu mache ich eine Vinaigrette aus
 * Pfeffer, Salz
 
 Nun naht der doppelt verarbeitete Lachs. Erst gebeizt, brate ich eine daumendicke Scheibe nun senkrecht stehend von beiden Seiten scharf und kurz gemeinsam mit dem Rest der Knoblauchzehe an und gebe ihn auf den Salat. Die Pimentwürze vom Beizen kommt deutlich durch, das gebratene Äußere und der gebeizte Kern harmonieren gut mit dem herben Feldsalat. Eine nette Vorspeise.
+
+> small portion of field lamb's lettuce and and small piece of sauteed salmon, starter, one plate only, food photography, award-winning photo, long lens, depth of field, octane rendering, photorealistic 
