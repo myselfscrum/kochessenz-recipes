@@ -73,4 +73,4 @@ Der restliche Wirsing, die Ente und der Kartoffelbrei stehen bei kleiner Hitze w
 
 Die Arbeit hat sich gelohnt!
 
-> 
+> grilled duck fillet,  truffeled potato puree, small savoy cabbage rolls, food photography, award-winning photo, long lens, table laid out, depth of field, unreal engine rendering, photorealistic, white background, HQ, 4k

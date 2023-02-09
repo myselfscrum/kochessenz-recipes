@@ -73,4 +73,4 @@ The remaining savoy cabbage, duck and mashed potatoes continue to sit on the sto
 
 The work was worth it!
 
-> 
+> grilled duck fillet,  truffeled potato puree, small savoy cabbage rolls, food photography, award-winning photo, long lens, table laid out, depth of field, unreal engine rendering, photorealistic, white background, HQ, 4k
