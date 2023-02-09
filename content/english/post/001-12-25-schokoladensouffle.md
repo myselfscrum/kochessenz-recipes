@@ -2,7 +2,7 @@
 title: Chocolate soufflé
 slug: Chocolate souffle
 date: 2009-12-25T21:00:00
-image: images/post/chocolate-souffle.webp
+image: images/post/schokoladensouffle.webp
 categories: 
   - dinner for x
   - recooked
