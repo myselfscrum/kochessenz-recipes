@@ -1,7 +1,7 @@
 ---
 title: Schlemmerfilet mit Kartoffelsalat
 slug: schlemmerfilet
-date: 2009-12-24
+date: 2009-12-24T20:00:00
 image: images/post/schlemmerfilet.webp
 categories: 
   - dinner for x
