@@ -1,7 +1,7 @@
 ---
 title: Schokoladensoufflé
 slug: Schokoladensouffle
-date: 2009-12-25
+date: 2009-12-25T21:00:00
 image: images/post/schokoladensouffle.webp
 categories: 
   - dinner for x
