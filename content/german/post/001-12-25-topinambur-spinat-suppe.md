@@ -1,6 +1,7 @@
 ---
 title: Topinambur-Spinat-Suppe
 date: 2009-12-25T19:00:00
+image: images/post/sunchoke-spinach-soup.webp
 categories: 
   - dinner for x
   - nachgekochtes
