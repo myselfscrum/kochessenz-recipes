@@ -12,7 +12,7 @@ tags:
   - majoran
   - minze
   - möhre
-  - schlagsahne
+  - sahne
   - thymian
   - zwiebel
   - orange

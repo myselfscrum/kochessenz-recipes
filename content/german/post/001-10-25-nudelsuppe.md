@@ -7,7 +7,7 @@ categories:
 type: regular
 tags: 
   - fenchel
-  - huhn
+  - hühnerfleisch
   - hühnerbrühe
   - lauch
   - möhre
