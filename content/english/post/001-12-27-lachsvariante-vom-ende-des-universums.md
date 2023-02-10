@@ -34,7 +34,7 @@ Now I season the vegetables with
 
 * 1 lemon grass 
 * black pepper 
-* 1/2 handful of coriander 
+* 1/2 handful of cilantro 
 * salt
 
 and add a quarter can of coconut milk at the last moment. I guess I used a little too much curry paste and it turned out way too spicy!
