@@ -1,5 +1,5 @@
 ---
-title: Salmon variant from the end of the universe
+title: Salmon Variant From the End of the Universe
 slug: asia-salmon
 date: 2009-12-27T20:00:00
 image: images/post/asialachs.webp
