@@ -1,7 +1,7 @@
 ---
 title: avocado-tomato bruschetta
 slug: avocado-tomato-bruschetta
-date: 2009-12-26
+date: 2009-12-26T19:00:00
 image: images/post/avocado-bruschetta.webp
 categories: 
   - dinner for x
