@@ -2,7 +2,7 @@
 title: Apfel-Calvados-Consommé
 slug: apfel-consomme
 date: 2009-12-27T19:00:00
-iamge: images/post/apfelconsomme.webp
+image: images/post/apfelconsomme.webp
 categories: 
   - dinner for x
 type: regular
