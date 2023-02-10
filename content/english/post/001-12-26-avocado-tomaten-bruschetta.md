@@ -1,5 +1,5 @@
 ---
-title: avocado-tomato bruschetta
+title: Avocado-Tomato Bruschetta
 slug: avocado-tomato-bruschetta
 date: 2009-12-26T19:00:00
 image: images/post/avocado-bruschetta.webp
