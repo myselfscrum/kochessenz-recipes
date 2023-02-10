@@ -5,6 +5,7 @@ date: 2009-12-27T19:00:00
 iamge: images/post/apfelconsomme.webp
 categories: 
   - dinner for x
+type: regular
 tags: 
   - apfel
   - calvados
@@ -44,3 +45,5 @@ Am Abend des Menüs erhitze ich die Rinderbrühe, und steche aus einem roten Apf
 * 2-3 EL Calvados 
 
 dünste und auf vorgeheizte Teller gebe. Dazu kommt die Consommé und ein wenig Schnittlauchröllchen. Sehr fein!
+
+> clear beef broth, with small round cutout red apple pieces 

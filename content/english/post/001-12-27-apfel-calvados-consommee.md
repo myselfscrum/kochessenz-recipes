@@ -5,6 +5,7 @@ date: 2009-12-27T19:00:00
 iamge: images/post/apfel-consomme.webp
 categories: 
   - dinner for x
+type: regular
 tags: 
   - apple
   - calvados
@@ -44,3 +45,5 @@ On the evening of the meal, I heat the beef broth, and use a ball cutter to cut 
 * 2-3 tablespoons of Calvados 
 
 and put them on preheated plates. To this comes the consommé and a little chive roll. Very fine!
+
+> clear beef broth, with small round cutout red apple pieces 
