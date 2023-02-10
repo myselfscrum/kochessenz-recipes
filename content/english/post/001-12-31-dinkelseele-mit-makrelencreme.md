@@ -1,5 +1,5 @@
 ---
-title: Spelt Roll with mackerel cream
+title: Spelt Roll with Mackerel Cream
 slug: spelt-roll-with-mackerel-cream
 date: 2009-12-31
 image: images/post/dinkelseele.webp
