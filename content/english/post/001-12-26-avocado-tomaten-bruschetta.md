@@ -31,3 +31,5 @@ and spread this mixture on the toasted slice of gray bread. On top I put
 * 1/2 avocado in slices some lime juice
 
 Now roughly pepper, salt, brush with a little olive oil - ready.
+
+> cream cheese, avocado, tomato bruschetta

@@ -12,8 +12,8 @@ tags:
   - shrimp paste
   - kaffir lime leaf
   - garlic
-  - coriander herb
-  - coriander seed
+  - cilantro herb
+  - cilantro seed
   - pepper
   - shallot
   - lemongrass
@@ -29,13 +29,13 @@ I take
 * 2 walnut-sized pieces of galangal root 
 * 4 stalks of lemongrass 
 * 6 kaffir lime leaves 
-* stems of a bunch of coriander 
+* stems of a bunch of cilantro 
 * 1 tsp white peppercorns 
-* 2 tsp coriander seeds 
+* 2 tsp cilantro seeds 
 * 1 tsp. cumin seeds 
 * 1 tbsp. shrimp paste (you can get it at the Chinese store. Smells awful!)
 
-I stick largely to the original, only the coriander root I replace with the stalks, because today of all days the Chinese store has no coriander with root.
+I stick largely to the original, only the cilantro root I replace with the stalks, because today of all days the Chinese store has no cilantro with root.
 
 The recipe is very simple: cut everything very small and then pound in a mortar. There is one special feature: dried chilies are freed from the seeds and then soaked in water. This is how the paper-thin husks of the dry chilies become reprocessable in the first place. The author is in good spirits that he can get it all done in half an hour.
 

@@ -31,3 +31,5 @@ und streiche diese Mischung auf die getoastete Scheibe Graubrot. Darauf lege ich
 * 1/2 Avocado in Scheiben etwas Limettensaft
 
 Nun noch grob pfeffern, salzen, mit etwas Olivenöl bepinseln - fertig.
+
+> cream cheese, avocado, tomato bruschetta

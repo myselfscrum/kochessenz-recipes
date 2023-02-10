@@ -50,3 +50,5 @@ until the spinach looks like the kid version we used to hate.
 To serve, I put a small mountain of spinach on the preheated plate and pour the Jerusalem artichoke soup around it. For garnish, I cut artichoke hearts into quarters and place them on top of the mountain of spinach. Nice association, since Jerusalem artichoke is also called Jerusalem artichoke, although the two plants have nothing to do with each other.
 
 A nice start to our menu today, very earthy and wintry.
+
+> jerusalem artichoke and spinach soup, with creme fraiche

@@ -8,7 +8,7 @@ categories:
 type: regular
 tags: 
   - shrimp
-  - coriander herb
+  - cilantro herb
   - mint
   - rice paper
   - thai basil
@@ -27,7 +27,7 @@ As filling there is
 - 1 carrot, very finely sliced on a truffle slicer
 - 1/2 small pointed cabbage, quartered and cut into very thin strips
 - 1 handful of bean sprouts, blanched for 1 minute
-- A few sprigs of mint, coriander and Thai basil
+- A few sprigs of mint, cilantro and Thai basil
 
 Of course, you can also put shredded chicken breast, short roasted beef tenderloin, thinly sliced mushrooms, bamboo in sticks, etc. in here. Whatever pleases.
 

@@ -50,3 +50,5 @@ solange, bis der Spinat wie die Kinderversion aussieht, die wir früher so schre
 Zum Servieren gebe ich einen kleinen Berg Spinat auf den vorgewärmten Teller und gieße die Topinambursuppe darum herum. Zur Garnitur schneide ich Artischockenherzen in Viertel und lege sie auf den Spinatberg. Nette Assoziation, da Topinambur auch Jerusalem-Artischocke genannt wird, obwohl die beiden Pflanzen nichts miteinander zu tun haben.
 
 Ein schöner Einstieg in unser heutiges Menü, sehr erdig und winterig.
+
+> jerusalem artichoke and spinach soup, with creme fraiche
