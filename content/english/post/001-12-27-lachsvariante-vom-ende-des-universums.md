@@ -2,7 +2,7 @@
 title: Salmon variant from the end of the universe
 slug: asia-salmon
 date: 2009-12-27T20:00:00
-image: images/posts/asialachs.webp
+image: images/post/asialachs.webp
 categories: 
   - dinner for x
   - recooked

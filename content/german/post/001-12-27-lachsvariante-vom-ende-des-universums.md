@@ -2,7 +2,7 @@
 title: Lachsvariante vom Ende des Universums
 slug: asia-lachs
 date: 2009-12-27T20:00:00
-image: images/posts/asialachs.webp
+image: images/post/asialachs.webp
 categories: 
   - dinner for x
   - nachgekochtes
