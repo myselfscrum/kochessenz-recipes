@@ -1,7 +1,7 @@
 ---
 title: Linsenschaumsüppchen mit Champignon-Minze-Wan Tan
 slug: linsenschaumsueppchen
-date: 2010-01-01
+date: 2010-01-01T19:00:00
 image: images/post/linsenschaumsuppe.webp
 categories: 
   - die besten
@@ -58,3 +58,5 @@ und gebe das Gemisch in die Suppe, damit sie etwas bindet. Außerdem füge ich n
 * Kokosmilch (150 ml)
 
 hinzu, was der Suppe nur gut tut, und schäume die Suppe mit dem Zauberstab nochmal auf. Nun kommen die auf Küchenkrepp entfetteten Wan Tans hinzu, etwas Minze als Deko und fertig ist die Neujahrssuppe!
+
+> lentilcream soup with deep-fried wantan on top

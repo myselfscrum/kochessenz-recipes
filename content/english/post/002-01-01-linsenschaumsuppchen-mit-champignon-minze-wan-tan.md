@@ -1,7 +1,7 @@
 ---
 title: Lentil Cream Soup with Mushroom-Mint Wan-Tan
 slug: lentil cream soup
-date: 2010-01-01
+date: 2010-01-01T19:00:00
 image: images/post/linsenschaumsuppe.webp
 categories: 
   - the best
@@ -59,3 +59,4 @@ and add the mixture to the soup to thicken it up a bit. I also add some leftover
 
 which is only good for the soup, and whisk the soup again. Now add the wan tans degreased on kitchen paper, a little mint as decoration and the New Year soup is ready!
 
+> lentilcream soup with deep-fried wantan on top
