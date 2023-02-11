@@ -10,7 +10,20 @@
         <label for="zoomCheck-{{$random}}">
         <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4 zoomCheck" loading="lazy" decoding="async">
         </label>
-      <h1 class="mb-4">{{ .Title | markdownify }}</h1>
+        <div class="post-header">
+            <div class="next-post header-item">
+              {{ if .NextPage }}
+              <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">«</a>
+              {{ end }}
+            </div>
+            <h1 class="mb-4 header-item" >{{ .Title | markdownify }}</h1>
+            <div class="previous-post header-item">
+              {{ if .PrevPage }}
+              <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">»</a>
+              {{ end }}
+            </div>
+        </div>
+
         <ul class="post-meta list-inline mb-3">
           <li class="list-inline-item"><i class="ti-time mr-2"></i>{{.PublishDate.Day }}. {{ i18n (printf "long_month_%d" .PublishDate.Month) }}</li>
           <li class="list-inline-item"><i class="ti-folder"></i>
@@ -18,6 +31,7 @@
               href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="ml-1">{{ . | humanize }} </a>
             {{end}}</li>
         </ul>
+        
         <div class="content">{{ .Content }}</div>
 
         <!-- comments -->

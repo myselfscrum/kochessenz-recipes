@@ -782,3 +782,17 @@ textarea.form-control {
 
 .cc-custom-checkbox:checked + label:before {
   background: #E4112F !important; }
+
+.post-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: baseline;
+  gap: 5px; }
+
+.link-reverse {
+  font-size: 48px;
+  color: #E4112F;
+  font-weight: bold;
+  text-align: center;
+  cursor: url; }
