@@ -15,7 +15,7 @@ tags:
 
 Today something simple - 4 large artichokes I bought at the market. Although I read somewhere that one per person is enough, but I can not believe it. Most of it is waste!
 
-The preparation is actually easy too, once you get the hang of it (literally - the stem is broken off, so the fibrous ends that serve static are pulled out of the bottoms and remain on the stem. Good to see in the next picture. But start by trimming the bottom leaves so that only the inner tip is visible.
+The preparation is actually easy too, once you get the hang of it (literally - the stem is broken off, so the fibrous ends that serve static are pulled out of the bottoms and remain on the stem. But start by trimming the bottom leaves so that only the inner tip is visible.
 
 After the stem is off, immediately put them in lemon water, 1 lemon is enough for the 3-4 liters of water you need to boil them. Then add a good amount of salt and boil for 45 minutes. I always use the very large chicken pot, the lid from the second largest pot still fits in there and weighs the artichokes down so they stay submerged.
 

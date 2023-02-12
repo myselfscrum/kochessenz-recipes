@@ -1,5 +1,5 @@
 ---
-title: Steak with shallots and red wine ravioli
+title: Steak with Shallots and Red Wine Ravioli
 slug: ravioli-steak
 date: 2010-01-01T20:00:00
 image: images/post/steak-ravioli.webp

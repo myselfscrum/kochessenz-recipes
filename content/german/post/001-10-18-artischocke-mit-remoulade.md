@@ -14,7 +14,7 @@ tags:
 
 Heute was Einfaches - 4 große Artischocken hab ich auf dem Markt erstanden. Hab zwar irgendwo gelesen, dass eine pro Person ausreicht, aber das kann ich nicht glauben. Das meiste ist ja Abfall!
 
-Die Zubereitung ist eigentlich auch einfach, wenn man den Dreh raus hat (wörtlich zu nehmen - der Stiel wird abgebrochen, so dass die faserigen Enden, die der Statik dienen, aus den Böden gezogen werden und am Stiel bleiben. Gut zu sehen auf dem nächsten Bild. Aber anfangen sollte man damit, die unteren Blätter so weit zu beschneiden, dass nur noch die innere Spitze sichtbar ist.
+Die Zubereitung ist eigentlich auch einfach, wenn man den Dreh raus hat (wörtlich zu nehmen - der Stiel wird abgebrochen, so dass die faserigen Enden, die der Statik dienen, aus den Böden gezogen werden und am Stiel bleiben. Aber anfangen sollte man damit, die unteren Blätter so weit zu beschneiden, dass nur noch die innere Spitze sichtbar ist.
 
 Nachdem der Stiel ab ist, sofort in Zitronenwasser, 1 Zitrone reicht für die 3-4 Liter Wasser, die man zum Kochen braucht. Dann noch ordentlich Salz rein und 45 Minuten kochen. Ich nehme immer den ganz großen Hühnertopf, da passt der Deckel vom zweitgrößten Topf noch rein und beschwert die Artischocken, so dass sie unter Wasser bleiben.
 
