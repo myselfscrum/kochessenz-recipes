@@ -1,5 +1,5 @@
 ---
-title: Macerated oranges with vanilla ice cream
+title: Macerated Oranges with Vanilla Ice Cream
 slug: oranges-with-vanilla-ice-cream
 date: 2010-01-01T21:00:00
 image: images/post/orange-vanilleeis.webp
