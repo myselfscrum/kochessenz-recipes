@@ -2,7 +2,7 @@
 title: Mangold-Auflauf
 slug: mangold-auflauf
 date: 2010-01-04
-image: images/post/chard-gratin
+image: images/post/chard-gratin.webp
 categories: 
   - alltagsküche
   - vegetarisch
