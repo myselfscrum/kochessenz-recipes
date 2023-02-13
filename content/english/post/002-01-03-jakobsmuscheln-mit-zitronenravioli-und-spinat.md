@@ -1,5 +1,5 @@
 ---
-title: Ricotta lemon ravioli with scallops and spinach
+title: Ricotta-Lemon Ravioli with Scallops and Spinach
 slug: ravioli-scallops
 date: 2010-01-03
 image: images/post/ravioli-scallops.webp
