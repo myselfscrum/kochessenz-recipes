@@ -2,6 +2,7 @@
 title: "Casino Zollverein in Essen"
 image: "images/post/casino.webp"
 recipe: no
+draft: true
 date: "2008-12-11"
 categories: 
   - "gastronomie"
