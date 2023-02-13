@@ -2,7 +2,7 @@
 title: Ricotta lemon ravioli with scallops and spinach
 slug: ravioli-scallops
 date: 2010-01-03
-image: images/post/ravioli-scallops
+image: images/post/ravioli-scallops.webp
 categories: 
   - dinner for x
 type: regular
