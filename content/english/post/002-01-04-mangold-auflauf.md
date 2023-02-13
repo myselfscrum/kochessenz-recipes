@@ -29,3 +29,5 @@ Today quick and easy, inspired by Nigel Slater.
 Boil white pieces of chard for 4 minutes, then add the leaves until soft. Meanwhile, I make a rich sauce of mascarpone, cream, mustard, pepper, salt. Off with everything in the baking dish and Parmesan shaved over it. 20 minutes at 180° in the oven.
 
 mmm - fat is simply taste transporter number 1!
+
+> chard gratin with potatoes and parmesan 
