@@ -6,6 +6,7 @@ image: images/post/chard-gratin
 categories: 
   - everyday cooking
   - vegetarian
+type: regular
 tags: 
   - potato
   - chard
