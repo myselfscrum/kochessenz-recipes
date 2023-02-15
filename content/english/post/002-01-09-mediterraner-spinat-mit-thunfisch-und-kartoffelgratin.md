@@ -54,5 +54,5 @@ add a little salt, done. The tuna has been washed and dried for an hour at room 
 
 Interesting combination. Each part on its own is very dominant, yet everything goes well together. The success with the gratin gives Robert's recipe right...
 
->
+> ornate, photorealistic, potatoes au gratin, medium-rare grilled tuna steak - cut open, sauteed spinach 
 
