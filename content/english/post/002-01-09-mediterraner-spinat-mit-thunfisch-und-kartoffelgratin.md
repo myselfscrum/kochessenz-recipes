@@ -50,7 +50,7 @@ I clean and steam them in these steamed ingredients cooked
 * 1 clove garlic, finely chopped 
 * 50g streaky bacon, thinly sliced
 
-add a little salt, done. The tuna has been washed and dried for an hour at room temperature, now I fry it for 1 minute on each side at high heat and then put it in aluminum foil for 5 minutes in the still warm oven. S's fish roasts 5 minutes longer, too done for me.
+add a little salt, done. The tuna has been washed and dried for an hour at room temperature, now I grill it for 1 minute on each side at high heat and then put it in aluminum foil for 5 minutes in the still warm oven. 
 
 Interesting combination. Each part on its own is very dominant, yet everything goes well together. The success with the gratin gives Robert's recipe right...
 

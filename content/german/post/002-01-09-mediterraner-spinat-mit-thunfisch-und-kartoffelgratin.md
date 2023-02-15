@@ -49,7 +49,7 @@ putze ich und dämpfe sie in diesen gedünsteten Zutaten gar
 * 1 Zehe Knoblauch, klein geschnitten 
 * 50g durchwachsenen Speck, in dünnen Scheiben
 
-etwas Salz dazu, fertig. Der Thunfisch liegt schon seit einer Stunde gewaschen und getrocknet bei Raumtemperatur, nun brate ich ihn 1 Minute von jeder Seite bei großer Hitze und lege ihn dann noch für 5 Minuten in Alufolie in den noch warmen Backofen. Der Fisch von S. brät 5 Minuten länger, zu durch für mich.
+etwas Salz dazu, fertig. Der Thunfisch liegt schon seit einer Stunde gewaschen und getrocknet bei Raumtemperatur, nun brate ich ihn 1 Minute von jeder Seite bei großer Hitze und lege ihn dann noch für 5 Minuten in Alufolie in den noch warmen Backofen. 
 
 Interessante Kombination. Jedes Teil für sich ist sehr dominant, trotzdem passt alles gut zusammen. Der Erfolg beim Gratin gibt Roberts Rezept Recht...
 
