@@ -1,6 +1,6 @@
 ---
 title: Green Chicken Curry with Palmitos
-slug: green-chicken-curry-with-palm-hearts
+slug: green-chicken-curry-with-palmitos
 date: 2010-01-11
 image: images/post/palmito-curry.webp
 categories: 
@@ -49,3 +49,5 @@ The whole mixture now cooks for 10 minutes, at last I add
 * a little piment d'Espelette
 
 into the food and serve myself a nice everyday meal.
+
+> green chicken curry with palmitos and basmati rice 

@@ -51,3 +51,5 @@ hinzu. Das ganze kocht nun in 10 Minuten gar, zuletzt gebe ich
 * ein wenig Piment d'Espelette
 
 ins Essen und serviere mir ein nettes Alltagsmahl.
+
+> green chicken curry with palmitos and basmati rice 
