@@ -2,7 +2,7 @@
 title: Cauliflower and Pointed Cabbage Casserole
 slug: cauliflower-and-pointed-cabbage-casserole
 date: 2010-01-12
-image: cauliflower-casserole.webp
+image: images/post/cauliflower-casserole.webp
 categories: 
   - everyday cooking
   - vegetarian
