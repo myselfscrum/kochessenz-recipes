@@ -2,7 +2,7 @@
 title: Blumenkohl-Spitzkohl-Auflauf
 slug: blumenkohl-spitzkohl-auflauf
 date: 2010-01-12
-image: cauliflower-casserole.webp
+image: images/post/cauliflower-casserole.webp
 categories: 
   - alltagsküche
   - vegetarisch
