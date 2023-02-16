@@ -1,10 +1,10 @@
 ---
-title: Grünes Hühnercurry mit ein paar Palmherzenstücken
+title: Grünes Hühnercurry mit Palmherzen
 slug: gruenes-curry-mit-palmherzen
 date: 2010-01-11
 image: images/post/palmito-curry.webp
 categories: 
-  - alltagskuche
+  - alltagsküche
 type: regular
 tags: 
   - grünes curry
