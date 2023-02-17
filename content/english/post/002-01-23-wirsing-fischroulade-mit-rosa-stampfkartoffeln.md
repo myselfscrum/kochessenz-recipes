@@ -2,7 +2,7 @@
 title: Savoy Cabbage Fish Roulade with Pink Mashed Potatoes
 slug: savoy-cabbage-fish-roulade
 date: 2010-01-23
-image: images/post/ wirsing-fisch.webp
+image: images/post/wirsing-fisch.webp
 categories: 
   - everyday cooking
 type: regular
