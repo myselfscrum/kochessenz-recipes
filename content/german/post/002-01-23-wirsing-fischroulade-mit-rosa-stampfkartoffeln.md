@@ -56,3 +56,5 @@ dazu und lasse die Rouladen mit Deckel 15 Minuten garen. In die gekochten und ge
 * Salz
 
 und dann brauche ich das Gericht nur noch anzurichten. Mit dem rosa Kartoffelbrei und dem knalligen Wirsinggrün ist es schön farbig geraten. Der Steinbeißer ging unter dem Senf etwas unter, da hätte ich einen kräftigeren Fisch nehmen können. Der Lachs ist wunderbar geraten.
+
+> Savoy cabbage fish roll, food photography, award-winning photo, long lens, table laid out, depth of field, octane rendering, photorealistic, with pink potato mesh as side dish

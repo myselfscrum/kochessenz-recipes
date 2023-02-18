@@ -57,3 +57,4 @@ and let the roulades cook with lid for 15 minutes. Into the cooked and peeled po
 
 and then I only have to dress the dish. With the pink mashed potatoes and the bright savoy greens, it turned out nice and colorful. The spined loach went down a bit under the mustard, I could have used a more robust fish. The salmon turned out wonderfully.
 
+> Savoy cabbage fish roll, food photography, award-winning photo, long lens, table laid out, depth of field, octane rendering, photorealistic, with pink potato mesh as side dish

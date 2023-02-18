@@ -27,3 +27,5 @@ The result was a quite excellent, pink roasted and butter tender leg of lamb! Du
 After cutting, I gave the pieces pushed together again then another 5 minutes with in the 200 ° hot oven, because they do not get so hot during NT cooking and then quickly get cold on the plate. This did not harm the tenderness.
 
 With 6 people, you do have a bit more to do than in the usual sedate kitchen of two! But the effort was worth it.
+
+> roasted leg of lamb, on a baking tray, food photography, award-winning photo, long lens, table laid out, depth of field, octane rendering, photorealistic 
