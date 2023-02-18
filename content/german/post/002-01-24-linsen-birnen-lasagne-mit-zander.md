@@ -4,7 +4,7 @@ slug: linsen-birnen-lasagne
 date: 2010-01-24
 image: images/post/linsenlasagne.webp
 categories: 
-  - dinner-for-x
+  - dinner for x
 type: regular
 tags: 
   - belugalinse
