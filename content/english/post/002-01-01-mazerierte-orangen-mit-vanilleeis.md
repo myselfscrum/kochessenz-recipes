@@ -25,4 +25,4 @@ and let the filleted pieces steep overnight in the orange juice.
 
 I added some vanilla ice cream and mint. Interesting how aromatic the orange juice becomes, just by soaking. I used less sugar than indicated, so the fruit is a bit tart, which I like. Maybe I'll make orange marmalade with the leftovers....
 
-> macerated orange fillets with vanilla iceream
+> macerated orange fillets with vanilla icecream
