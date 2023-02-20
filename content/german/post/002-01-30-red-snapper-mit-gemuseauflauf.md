@@ -1,7 +1,7 @@
 ---
 title: Red Snapper mit Gemüseauflauf
 slug: read-snapper-mit-gemueseauflauf
-date: 2010-01-30
+date: 2010-01-30T19:00:00
 image: images/post/snapper-auflauf.webp
 categories: 
   - alltagsküche

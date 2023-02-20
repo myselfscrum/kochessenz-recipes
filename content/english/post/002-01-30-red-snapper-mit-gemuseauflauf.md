@@ -1,7 +1,7 @@
 ---
 title: Red snapper with vegetable casserole
 slug: read-snapper-with-vegetable-casserole
-date: 2010-01-30
+date: 2010-01-30T19:00:00
 image: images/post/snapper-auflauf.webp
 categories: 
   - everyday cooking

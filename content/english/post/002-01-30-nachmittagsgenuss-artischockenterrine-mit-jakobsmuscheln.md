@@ -1,7 +1,7 @@
 ---
 title: Artichoke Terrine with Scallops
 slug: artichoke-terrine-with-scallops
-date: 2010-01-30
+date: 2010-01-30T16:00:00
 image: images/post/scallops-terrine.webp
 categories: 
   - afternoon delight
