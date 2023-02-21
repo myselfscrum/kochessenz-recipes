@@ -14,7 +14,7 @@ tags:
   - bay leaf
   - nutmeg
   - spinach
-  - Jerusalem artichoke
+  - jerusalem artichoke
 ---
 
 
