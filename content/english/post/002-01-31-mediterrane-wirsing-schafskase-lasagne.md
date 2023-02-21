@@ -1,7 +1,7 @@
 ---
 title: Mediterranean Savoy Cabbage and Feta Cheese Lasagna
 slug: savoy cabbage lasagna
-date: 2010-01-31
+date: 2010-01-31T19:00:00
 image: images/post/wirsing-lasagne.webp
 categories: 
   - dinner for x
