@@ -18,9 +18,7 @@ tags:
   - knoblauch
 ---
 
-Die Beute vom gestrigen Marktbesuch beinhaltete auch ein großes Stück eingelegten Schafskäse sowie ein paar eingelegte Mozzarellakügelchen. Von den Wirsingrouladen der vergangenen Woche ist noch ein kleiner Kopf übrig, und vom eingefrorenen Nudelteig ist auch noch etwas da. Und da die kürzlichen [Lasagneexperimente](http://www.kochessenz.de/2010/01/24/linsen-birnen-lasagne-mit-zander/) gut angekommen sind, habe ich mich heute wieder den Schichtnudeln gewidmet.
-
-[![Mediterrane Wirsing-Schafskäse-Lasagne](images/20100131-dsc_8219-3.jpg "Mediterrane Wirsing-Schafskäse-Lasagne")](http://www.kochessenz.de/wp-content/uploads/sites/3/2010/01/20100131-dsc_8219-3.jpg)
+Die Beute vom gestrigen Marktbesuch beinhaltete auch ein großes Stück eingelegten Schafskäse sowie ein paar eingelegte Mozzarellakügelchen. Von den Wirsingrouladen der vergangenen Woche ist noch ein kleiner Kopf übrig, und vom eingefrorenen Nudelteig ist auch noch etwas da. Und da die kürzlichen **[Lasagneexperimente](../linsen-birnen-lasagne)** gut angekommen sind, habe ich mich heute wieder den Schichtnudeln gewidmet.
 
 Zunächst bereite ich das Gemüse
 
@@ -73,3 +71,5 @@ abschließend halbiere ich
 * sechs kleine Mozarellakugeln (eingelegt)
 
 und lege sie gleichmäßig auf die abschließende Pilzsauce. Nun noch 30 Minuten bei 210° in den Ofen und fertig ist eine neue Lasagnevariante. Sie ist diesmal nicht so flüssig und schmeckt sehr "mediterran", was vor allem dem Schafskäse zu verdanken ist. Sehr feine Kombination!
+
+> plate with lasagna, cooked savoy cabbage, feta, mushrooms, olives, professional photography, long shot, depth of field, studio lighting, unreal engine, bokeh, white background
