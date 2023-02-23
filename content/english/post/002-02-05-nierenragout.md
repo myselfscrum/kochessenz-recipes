@@ -1,5 +1,5 @@
 ---
-title: kidney stew
+title: Kidney Stew
 slug: kidney stew
 date: 2010-02-05
 image: images/post/kidney-ragout.webp
