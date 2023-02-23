@@ -5,6 +5,7 @@ date: 2010-02-05
 image: images/post/kidney-ragout.webp
 categories: 
   - alltagsküche
+type: regular  
 tags: 
   - calvados
   - champignon
