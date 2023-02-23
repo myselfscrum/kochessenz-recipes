@@ -45,4 +45,4 @@ und lasse alles 5 Minuten braten. Nun muss ich mich beeilen, denn die Nieren wol
 
 Herrlich - wie früher!
 
-> 
+> kidney ragout with champignons
