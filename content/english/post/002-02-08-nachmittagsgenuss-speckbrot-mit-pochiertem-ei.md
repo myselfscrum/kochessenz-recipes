@@ -2,7 +2,7 @@
 title: Bacon bread with poached egg
 slug: bacon-bread-with-egg
 date: 2010-02-08
-image: images/post/spreckbrot-mit-ei.webp
+image: images/post/speckbrot-mit-ei.webp
 categories: 
   - everyday cooking
   - afternoon delight

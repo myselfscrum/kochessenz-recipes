@@ -5,7 +5,7 @@ date: 2010-02-07
 image: images/post/macncheese.webp
 categories: 
   - everyday cooking
-  - re-cooked
+  - recooked
   - vegetarian
 type: regular
 tags: 
