@@ -1,5 +1,5 @@
 ---
-title: Bacon bread with poached egg
+title: Rye Bread with Poached Egg and Bacon
 slug: bacon-bread-with-egg
 date: 2010-02-08
 image: images/post/speckbrot-mit-ei.webp
