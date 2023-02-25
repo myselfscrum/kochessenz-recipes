@@ -131,3 +131,4 @@ The original recipes always called for some grainy broth as an ingredient - this
 
 This has been a whole lot of food today :) I don't feel much different than usual yet (ok, after the late Wiener Schnitzel the other day I already felt different), let's see how it continues....
 
+> ingredients of a lent meal - one carrot, 3 small potatos, 1 grated small beetroot, yoghurt

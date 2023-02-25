@@ -20,3 +20,5 @@ Hallo liebe Genussfreunde, ich tauche nach einer Fastenwoche wieder auf! Mit ist
 * 1 Knäckebrot mit Kräuterquark (Hallelujah!)
 
 Alles in allem war es eine interessante Erfahrung, aber ich habe festgestellt, dass mich das nicht in die euphorischen Höhen bringt, wie manche berichten. Eigentlich waren die Tage normal, am Anfang hab ich es ruhig angehen lassen. Und ich hab auch nicht ständig an der Kühlschranktür gescharrt, der "körperliche" Verzicht fiel mir leicht. Aber mir hat die Leidenschaft und Befriedigung gefehlt, die man beim guten Kochen und guten Essen empfindet, als Asket bin ich also nur bedingt geeignet. Von daher wird es hier auch in Folge neue Posts geben, vielleicht am Anfang erstmal etwas "reduziert", ich habe gute Vorsätze. Wir sehen uns!
+
+> crispbread, curd, cress , epic picture, food photography, salvation, cinematic

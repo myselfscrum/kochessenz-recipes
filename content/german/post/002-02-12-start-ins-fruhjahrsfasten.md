@@ -130,3 +130,5 @@ koche ich in 500 ml Wasser in 20 Minuten weich und passiere die Suppe durch ein 
 Die Originalrezepte sahen immer etwas körnige Brühe als Zutat vor - hier kommen die 70er als Urspungsjahr wieder zum Vorschein. Ich habe diese Brühe durch das Selleriesalz ersetzt und werde nach der Zubereitung immer ein wenig mehr Hefeflocken daraufstreuen als im Rezept angegeben (1/2 TL).
 
 Das ist eine ganze Menge Essen gewesen heute ;) Ich fühle mich noch nicht viel anders als gewohnt (ok, nach dem späten Wiener Schnitzel neulich fühlte ich mich schon anders), mal sehen, wie es weiter geht...
+
+> ingredients of a lent meal - one carrot, 3 small potatos, 1 grated small beetroot, yoghurt

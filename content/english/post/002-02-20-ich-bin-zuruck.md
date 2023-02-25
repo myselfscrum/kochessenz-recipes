@@ -20,3 +20,5 @@ Hello dear friends of pleasure, I reappear after a week of fasting! With it went
 * 1 crispbread with herb curd (Hallelujah!)
 
 All in all, it was an interesting experience, but I found that it didn't take me to the euphoric heights that some report. Actually, the days were normal, I took it easy at first. And I didn't constantly scratch at the refrigerator door, the "physical" renunciation was easy for me. But I lacked the passion and satisfaction that one feels when cooking and eating well, so I am only conditionally suitable as an ascetic. Therefore, there will be new posts here in succession, perhaps at the beginning first something "reduced", I have good intentions. See you around!
+
+> crispbread, curd, cress , epic picture, food photography, salvation, cinematic
