@@ -786,13 +786,15 @@ textarea.form-control {
 .post-header {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: baseline;
   gap: 5px; }
+
+.header-item {
+  text-align: center; }
 
 .link-reverse {
   font-size: 48px;
   color: #E4112F;
   font-weight: bold;
-  text-align: center;
   cursor: url; }
