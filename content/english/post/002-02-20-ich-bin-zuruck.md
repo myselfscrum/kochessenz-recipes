@@ -2,7 +2,7 @@
 title: I am back!
 slug: i-am-back
 date: 2010-02-20T10:00:00
-image: crisp-cress-curd.webp
+image: images/post/crisp-cress-curd.webp
 categories: 
   - everyday cooking
   - meta
