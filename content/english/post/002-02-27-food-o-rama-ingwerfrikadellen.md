@@ -1,5 +1,5 @@
 ---
-title: food-a-roma: ginger meatballs
+title: Ginger Meatballs
 slug: ginger-meatballs
 date: 2010-02-27
 image: images/post/frikadellen.webp

@@ -1,5 +1,5 @@
 ---
-title: food-a-roma: Ingwerfrikadellen
+title: Ingwerfrikadellen
 slug: ingwerfrikadellen
 date: 2010-02-27
 image: images/post/frikadellen.webp
