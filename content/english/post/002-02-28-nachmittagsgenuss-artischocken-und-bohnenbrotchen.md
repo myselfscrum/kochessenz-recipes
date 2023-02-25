@@ -6,6 +6,7 @@ date: 2010-02-28T15:00:00
 categories: 
   - afternoon delight
   - vegetarian
+type: regular
 tags: 
   - artichoke
   - field salad

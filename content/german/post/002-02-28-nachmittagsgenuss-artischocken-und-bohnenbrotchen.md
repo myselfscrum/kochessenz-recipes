@@ -6,6 +6,7 @@ date: 2010-02-28T15:00:00
 categories: 
   - nachmittagsgenuss
   - vegetarisch
+type: regular  
 tags: 
   - artischocke
   - feldsalat
@@ -21,4 +22,4 @@ Ich rühre die Bohnen mit der Gabel zu Mus und gebe etwas Quark dazu. Die Artisc
 
 Das Brötchen schneide ich in Dreiecke und toaste sie in der Grillpfanne kurz an. Dann bestreiche ich sie mit den beiden Musen (sagt man das so? :)) und belege sie mit Olivenhälften, Tomatenstreifen und etwas Feldsalat. Ein paar Sprossen drüber, fertig.
 
-> ustic submarine sandwich, spread with beige-colored cream, khaki-colored cream, some few dried-tomato pieces, field salad, in the style of Jamie Oliver, award-winning photo, food photography, very detailed, cinematic, shot in a kitchen, octane rendering
+> rustic submarine sandwich, spread with beige-colored cream, khaki-colored cream, some few dried-tomato pieces, field salad, in the style of Jamie Oliver, award-winning photo, food photography, very detailed, cinematic, shot in a kitchen, octane rendering
