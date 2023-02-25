@@ -28,3 +28,4 @@ I have included a text prompt at the end of each recipe that will generate the f
 Thanks to 
 * [dongheenam](https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/) for the Hugo code for the ingredients list.
 * [Aditya Telange](https://adityatelange.in/blog/hugo-image-zoom-in/) for the Hugo code for image zooming
+* The Laurel Wreath Image by **[pch.vector on Freepik](https://www.freepik.com/free-vector/various-round-floral-laurel-frames-set_9177029.htm#query=laurel%20wreath&position=5&from_view=search&track=ais)**
