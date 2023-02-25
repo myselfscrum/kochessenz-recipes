@@ -1,7 +1,7 @@
 ---
 title: Thai Haddock with Rice Noodles
 slug: thai-haddock-with-rice-noodles
-date: 2010-02-28
+date: 2010-02-28T19:00:00
 image: images/post/thaifisch.webp
 categories: 
   - everyday cooking

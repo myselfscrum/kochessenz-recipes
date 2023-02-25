@@ -1,7 +1,7 @@
 ---
 title: Thai-Schellfisch mit Reisnudeln
 slug: thai-schellfisch-mit-reisnudeln
-date: 2010-02-28
+date: 2010-02-28T19:00:00
 image: images/post/thaifisch.webp
 categories: 
   - alltagsküche
