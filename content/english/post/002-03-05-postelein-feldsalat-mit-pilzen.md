@@ -2,7 +2,7 @@
 title: Indian Lettuce Salat with mushrooms
 slug: indian-lettuce-salad-with-mushrooms
 date: 2010-03-05
-image: images/post/indian lettucesalat.webp
+image: images/post/posteleinsalat.webp
 categories: 
   - everyday cooking
   - recooked
