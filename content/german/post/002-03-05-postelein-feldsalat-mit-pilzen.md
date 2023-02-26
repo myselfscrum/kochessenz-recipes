@@ -7,6 +7,7 @@ categories:
   - alltagsküche
   - nachgekochtes
   - vegetarisch
+type: regular
 tags: 
   - austernpilz
   - cashewkern

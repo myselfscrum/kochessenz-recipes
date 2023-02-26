@@ -7,6 +7,7 @@ categories:
   - everyday cooking
   - recooked
   - vegetarian
+type: regular
 tags: 
   - oyster mushroom
   - cashew nut
