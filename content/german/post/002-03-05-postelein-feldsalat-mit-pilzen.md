@@ -1,7 +1,7 @@
 ---
 title: Postelein-Feldsalat mit Pilzen
 slug: postelein-feldsalat-mit-pilzen
-date: 2010-03-05
+date: 2010-03-05T19:00:00
 image: images/post/posteleinsalat.webp
 categories: 
   - alltagsküche
