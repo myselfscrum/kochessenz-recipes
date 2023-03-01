@@ -1,7 +1,7 @@
 ---
 title: Mit Bulgur und Paprika gefüllte Zucchini
 slug: gefuellte-zucchini
-date: 2010-03-07
+date: 2010-03-08
 image: images/post/gefuellte-zucchini.webp
 categories: 
   - alltagsküche
