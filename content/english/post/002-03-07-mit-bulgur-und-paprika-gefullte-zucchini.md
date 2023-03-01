@@ -1,7 +1,7 @@
 ---
 title: Zucchini stuffed with bulgur and peppers
 slug: stuffed-zucchini
-date: 2010-03-07
+date: 2010-03-08
 image: images/post/gefuellte-zucchini.webp
 categories: 
   - everyday cooking
