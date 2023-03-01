@@ -13,13 +13,13 @@
         <div class="post-header">
             <div class="next-post header-item">
               {{ if .NextPage }}
-              <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">«</a>
+              <a class="link-reverse" href="{{ .NextPage.Permalink }}">«</a>
               {{ end }}
             </div>
             <h1 class="mb-4 header-item" >{{ .Title | markdownify }}</h1>
             <div class="previous-post header-item">
               {{ if .PrevPage }}
-              <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">»</a>
+              <a class="link-reverse" href="{{ .PrevPage.Permalink }}">»</a>
               {{ end }}
             </div>
         </div>
