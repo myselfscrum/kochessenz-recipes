@@ -43,5 +43,4 @@ Oh - our apartment has no oven! We use the favor of the hour and take the one of
 The finished toast quickly makes us forget about it - a nice combination for the sunset!
 
 > toast with ham, avocado slices, tomato, melted cheese on top, grilled, food photography, professional photo, award-winning, very detailed
-*** Translated with www.DeepL.com/Translator (free version) ***
 
