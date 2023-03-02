@@ -1,5 +1,5 @@
 ---
-title: Robert's avocado toast Tinerfeño style
+title: Robert's Avocado Toast, Tinerfeño Style
 slug: avocado-toast
 date: 2010-03-10
 image: images/post/avocado-toast.webp
