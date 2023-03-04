@@ -7,6 +7,7 @@ categories:
   - everyday cooking
   - the best
   - vegetarian
+type: regular  
 tags: 
   - egg
   - garlic

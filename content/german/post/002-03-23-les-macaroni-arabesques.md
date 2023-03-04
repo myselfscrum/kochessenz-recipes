@@ -7,6 +7,7 @@ categories:
   - alltagsküche
   - die besten
   - vegetarisch
+type: regular
 tags: 
   - ei
   - knoblauch
