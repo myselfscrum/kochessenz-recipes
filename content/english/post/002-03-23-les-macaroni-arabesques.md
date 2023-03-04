@@ -22,7 +22,7 @@ tags:
 
 Quick dinner after a late return from Hamburg.
 
-* good 200g macaroni 
+* About 200g macaroni 
 * 1 rest leek 
 * 4 small garlic cloves 
 * 4 small tomatoes 
