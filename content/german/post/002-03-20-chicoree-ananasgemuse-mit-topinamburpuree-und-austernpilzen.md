@@ -2,7 +2,7 @@
 title: Chicoree-Ananasgemüse mit Topinamburpüree und Austernpilzen
 slug: topinamburpüree-mit-ananas
 date: 2010-03-20
-image: images/post/sunchoke-ananas.webp
+image: images/post/sunchoke-pineapple.webp
 categories: 
   - alltagsküche
   - vegan
