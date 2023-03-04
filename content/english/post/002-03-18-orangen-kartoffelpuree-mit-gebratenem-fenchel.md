@@ -39,5 +39,5 @@ Meanwhile, the fennel slices are ready fried in olive oil, it must be a little b
 
 Very nice, sauce is not really missing as the oranges are juicy enough and the olive oil around the fennel replaces the butter that is missing in this case (which I would have otherwise liked to add to the puree, say about 100 grams).
 
->
+> photorealistic image of a dinner with fried fennel slices, with potato puree, peeled orange wedges, long lens, depth of field, food magazine style
 

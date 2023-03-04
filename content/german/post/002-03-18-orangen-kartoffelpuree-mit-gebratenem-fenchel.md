@@ -39,4 +39,4 @@ Inzwischen sind die Fenchelscheiben in Olivenöl fertig gebraten, er muss ein bi
 
 Sehr nett, Sauce fehlt nicht wirklich, da die Orangen saftig genug sind und das Olivenöl um den Fenchel ersetzt die in diesem Fall fehlende Butter (die ich sonst sicher noch gerne in das Püree gegeben hätte, sagen wir so etwa 100 Gramm).
 
->
+> photorealistic image of a dinner with fried fennel slices, with potato puree, peeled orange wedges, long lens, depth of field, food magazine style
