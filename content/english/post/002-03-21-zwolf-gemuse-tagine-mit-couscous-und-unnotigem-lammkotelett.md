@@ -1,5 +1,5 @@
 ---
-title: Twelve-vegetables tagine with couscous and unnecessary lamb chop
+title: Twelve-Vegetables Tagine with Couscous and Unnecessary Lamb Chop
 slug: twelve-vegetables-tagine
 date: 2010-03-21
 image: images/post/tagine.webp
