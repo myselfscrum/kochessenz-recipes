@@ -55,3 +55,5 @@ Now chicory comes halved in the pan and fry in olive oil together with the mushr
 As a decoration, in addition to the radicchio, I also briefly fry a few cloves of very young garlic. They soften quickly and can be eaten well.
 
 Bon appetite!
+
+> sunchoke puree, chicory cob and pineapple ragout, grilled oyster mushroom, radicchio leaves on a plate

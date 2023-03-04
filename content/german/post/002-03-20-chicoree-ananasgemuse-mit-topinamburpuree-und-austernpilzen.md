@@ -55,3 +55,5 @@ Nun kommt Chicoree halbiert in die Pfanne und brät in Olivenöl zusammen mit de
 Als Deko habe ich neben dem Radicchio auch noch einige Zehen von sehr jungem Knoblauch kurz mitgebraten. Sie werden schnell weich und können gut mitgegessen werden.
 
 Guten Appetit!
+
+> sunchoke puree, chicory cob and pineapple ragout, grilled oyster mushroom, radicchio leaves on a plate
