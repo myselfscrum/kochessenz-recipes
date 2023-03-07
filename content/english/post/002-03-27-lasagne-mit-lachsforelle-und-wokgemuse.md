@@ -1,5 +1,5 @@
 ---
-title: Lasagna with salmon trout and wok vegetables
+title: Lasagna with Salmon Trout and Wok Vegetables
 slug: lasagna-with-salmon-trout-and-wok-vegetables
 date: 2010-03-27T20:00:00
 image: images/post/lachslasagne.webp
