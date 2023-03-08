@@ -72,3 +72,5 @@ Zu guter Letzt brate ich noch
 * ca 15 Blätter Salbei
 
 und drapiere alles auf vorgewärmte Teller. Schnell noch ein Foto und fertig ist das Fremdkochgericht. Lecker!
+
+> chicken fillet covered with thick crunchy almond glaze topping, risotto, tomato-apricot sauce, food photography, professional color grading, soft shadows, no contrast, clean sharp focus, film photography, evenly lit bright room

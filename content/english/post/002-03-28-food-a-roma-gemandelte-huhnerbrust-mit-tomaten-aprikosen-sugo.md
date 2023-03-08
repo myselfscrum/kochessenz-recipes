@@ -1,5 +1,5 @@
 ---
-title: Almondized chicken breast with tomato apricot sauce
+title: Almondized Chicken Breast with Tomato Apricot Sauce
 slug: almondized-chicken-breast-with-tomato-apricot-sugo
 date: 2010-03-28
 image: images/post/mandelhuhn.webp
@@ -72,3 +72,5 @@ Last but not least I fry
 * about 15 leaves of sage
 
 and drape everything on preheated plates. Quickly take a photo and the foreign food is ready. Yummy!
+
+> chicken fillet covered with thick crunchy almond glaze topping, risotto, tomato-apricot sauce, food photography, professional color grading, soft shadows, no contrast, clean sharp focus, film photography, evenly lit bright room
