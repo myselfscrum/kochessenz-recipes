@@ -43,4 +43,4 @@ And something else found in the cupboard:
 
 They still come together quickly in the pot, buckwheat first (5 minutes), rice noodles 3 minutes. Everything into the Chinese bowl evergreens and ready! "Finally", says the wife.
 
-> hai soup with coconut, red curry, bamoo sprouts, brown spaghetti, white spaghetti, chicken meat, broccoli, professional color grading, clean sharp focus, film photography, evenly lit bright room
+> thai soup with coconut, red curry, bamoo sprouts, brown spaghetti, white spaghetti, chicken meat, broccoli, professional color grading, clean sharp focus, film photography, evenly lit bright room
