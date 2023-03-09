@@ -22,12 +22,12 @@ How nice to have a few essentials in the house, then any leftover collection bec
 
 For this I dig out of the fridge
 
-* 2 tablespoons [red Thai curry](../red-curry-paste), TK, times self-made 
+* 2 tablespoons **[red Thai curry](../red-curry-paste)**
 * two smaller broccoli stems 
 * 1 carrot 
 * 1 small leek 
 * 3/4 liter chicken broth 
-* a handful of boiled chicken, cooked at the weekend from the leftovers of the half chicken that sacrificed its breast [here](../almondized-chicken-breast-with-tomato-apricot-sugo)
+* a handful of boiled chicken, cooked at the weekend from the leftovers of the half chicken that sacrificed its breast **[here](../almondized-chicken-breast-with-tomato-apricot-sugo)**
 
 And from the anyway overstocked pantry
 

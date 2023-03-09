@@ -22,12 +22,12 @@ Wie schön, wenn man ein paar Essentials im Hause hat, dann wird aus jeder Rests
 
 Dazu krame ich aus dem Kühlschrank
 
-* 2 EL [roten Thai-Curry](../001-10-24-rote-thai-currypaste), TK, mal selber gemacht 
+* 2 EL **[roten Thai-Curry](../001-10-24-rote-thai-currypaste)**, TK, mal selber gemacht 
 * zwei kleinere Brokkolistämme 
 * 1 Möhre 
 * 1 kleiner Lauch 
 * 3/4 Liter Hühnerbrühe 
-* eine handvoll gekochtes Huhn, am Wochenende gekocht aus den Resten des halben Huhns, das seine Brust [hier](../gemandelte-huehnerbrust-mit-tomaten-aprikosen-sugo) geopfert hat
+* eine handvoll gekochtes Huhn, am Wochenende gekocht aus den Resten des halben Huhns, das seine Brust **[hier](../gemandelte-huehnerbrust-mit-tomaten-aprikosen-sugo)** geopfert hat
 
 und aus dem sowieso überfüllten Vorratsschrank
 
