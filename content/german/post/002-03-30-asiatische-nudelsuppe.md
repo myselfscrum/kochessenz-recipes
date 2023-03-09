@@ -42,3 +42,5 @@ Und nochwas gefunden im Schrank:
 * 80 g Reisspaghetti
 
 Die kommen noch schnell zusammen in den Topf, Buchweizen zuerst (5 Minuten), Reisnudeln 3 Minuten. Alles in die Chinaschüssel-Evergreens und fertig! "Na endlich", sagt die Gattin.
+
+> thai soup with coconut, red curry, bamoo sprouts, brown spaghetti, white spaghetti, chicken meat, broccoli, professional color grading, clean sharp focus, film photography, evenly lit bright room
