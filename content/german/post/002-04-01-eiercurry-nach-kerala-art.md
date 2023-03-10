@@ -1,6 +1,6 @@
 ---
 title: Eiercurry nach Kerala-Art
-slug:eiercurry-nach-kerala-art
+slug: eiercurry-nach-kerala-art
 date: 2010-04-01
 image: images/post/eiercurry.webp
 categories: 
