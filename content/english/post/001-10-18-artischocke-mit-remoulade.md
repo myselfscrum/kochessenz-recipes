@@ -1,5 +1,5 @@
 ---
-title: Artichocke with Remoulade
+title: Artichoke with Remoulade
 slug: artichoke-with-remoulade
 date: 2009-10-18
 image: images/post/artichoke.webp
@@ -9,7 +9,7 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - artichocke
+  - artichoke
   - remoulade
 ---
 
