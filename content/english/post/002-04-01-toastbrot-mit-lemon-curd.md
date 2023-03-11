@@ -1,5 +1,5 @@
 ---
-title: Toast with lemon curd
+title: Toast with Lemon Curd
 slug: toast-with-lemon-curd
 date: 2010-04-01
 image: images/post/toast-mit-lemon-curd.webp
