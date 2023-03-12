@@ -1,7 +1,7 @@
 ---
 title: Toastbrot mit Lemon Curd
 slug: toastbrot-mit-lemon-curd
-date: 2010-04-01
+date: 2010-04-01T22:00:00
 image: images/post/toast-with-lemon-curd.webp
 categories: 
   - backen

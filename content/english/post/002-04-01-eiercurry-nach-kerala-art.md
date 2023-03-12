@@ -1,7 +1,7 @@
 ---
 title: Egg Curry Kerala style
 slug: egg-curry-kerala-style
-date: 2010-04-01
+date: 2010-04-01T19:00:00
 image: images/post/eiercurry.webp
 categories: 
   - everyday cooking
