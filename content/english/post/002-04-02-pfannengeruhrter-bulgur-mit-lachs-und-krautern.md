@@ -1,7 +1,7 @@
 ---
 title: Stir-fried Bulgur with Salmon and Herbs
 slug: bulgur-with-salmon
-date: 2010-04-02
+date: 2010-04-02T19:00:00
 image: images/post/bulgur-mit-lachs.webp
 categories: 
   - dinner for x

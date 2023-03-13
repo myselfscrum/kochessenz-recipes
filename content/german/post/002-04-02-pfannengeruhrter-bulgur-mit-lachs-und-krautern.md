@@ -1,7 +1,7 @@
 ---
 title: Pfannengerührter Bulgur mit Lachs und Kräutern
 slug: bulgur-mit-lachs
-date: 2010-04-02
+date: 2010-04-02T19:00:00
 image: images/post/bulgur-mit-lachs.webp
 categories: 
   - dinner for x
