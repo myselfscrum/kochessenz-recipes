@@ -8,6 +8,7 @@ categories:
   - nachgekochtes
   - nachmittagsgenuss
   - vegetarisch
+type: regular
 tags: 
   - avocado
   - frühlingszwiebel

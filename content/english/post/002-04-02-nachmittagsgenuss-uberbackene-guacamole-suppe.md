@@ -8,7 +8,8 @@ categories:
   - recooked
   - afternoon delight
   - vegetarian
-TAGS: 
+type: regular  
+tags: 
   - avocado
   - spring onion
   - vegetable broth
