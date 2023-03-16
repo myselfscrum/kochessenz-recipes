@@ -32,4 +32,4 @@ Den Apfel schneide ich in kleine Stücke und gebe ihn sofort in den Zitronensaft
 
 Den Salat richte ich auf je 2 Blättern Bärlauch pro Portion an, die die Wagemutigeren mit dem Salat mitessen.
 
->
+> salad with grated apples, grated celeriac, wild garlic in strips, mayonnaise

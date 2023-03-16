@@ -32,4 +32,4 @@ I cut the apple into small pieces and immediately add it to the lemon juice. Lik
 
 I arrange the salad on 2 leaves of wild garlic per serving, which the more daring eat with the salad.
 
->
+> salad with grated apples, grated celeriac, wild garlic in strips, mayonnaise
