@@ -2,7 +2,7 @@
 title: Zwiebel-Orangen-Couscous mit Kohlrabigemüse
 slug: zwiebel-orangen-couscous
 date: 2010-04-06
-image: images/post/zwiebel-orangen-couscous.webp
+image: images/post/zwiebel-orange-couscous.webp
 categories: 
   - alltagsküche
   - vegetarisch
