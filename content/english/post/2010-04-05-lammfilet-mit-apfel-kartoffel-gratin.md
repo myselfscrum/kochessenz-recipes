@@ -2,7 +2,7 @@
 title: Fillet of Lamb with Apple-Potato Gratin
 slug: filet-of-lamb-with-apple-potato-gratin
 date: 2010-04-05T19:00:00
-image: images/post/lamm-mit-kartoffeln.webp
+image: images/post/lamm-und-kartoffeln.webp
 categories: 
   - dinner for x
   - recooked

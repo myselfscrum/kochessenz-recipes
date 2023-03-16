@@ -2,7 +2,7 @@
 title: Lammfilet mit Apfel-Kartoffel-Gratin
 slug: lammfilet-mit-apfel-kartoffel-gratin
 date: 2010-04-05T19:00:00
-image: images/post/lamm-mit-kartoffeln.webp
+image: images/post/lamm-und-kartoffeln.webp
 categories: 
   - dinner for x
   - nachgekochtes
