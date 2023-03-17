@@ -12,7 +12,7 @@ tags:
   - egg
   - garlic
   - leek
-  - macaroni
+  - maccaroni
   - nutmeg
   - pecorino
   - piment d'espelette

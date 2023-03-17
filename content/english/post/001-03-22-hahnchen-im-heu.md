@@ -9,7 +9,7 @@ type: regular
 tags: 
   - chicken
   - hay
-  - pimento d'espelette
+  - piment d'espelette
 ---
 
 Just when I had the idea to buy chicken in the Superbiomarkt, the butcher asked me if I wanted to have one. I took that as a sign and bought a 1.4kg specimen.

@@ -13,7 +13,7 @@ tags:
   - mozzarella
   - pasta dough
   - olive
-  - feta cheese
+  - feta
   - savoy cabbage
   - garlic
 ---

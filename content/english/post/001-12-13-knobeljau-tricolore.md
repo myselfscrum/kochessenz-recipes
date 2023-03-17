@@ -14,7 +14,7 @@ tags:
   - garlic
   - risotto
   - beetroot
-  - procini, dried
+  - porcini, dried
   - white wine
 ---
 

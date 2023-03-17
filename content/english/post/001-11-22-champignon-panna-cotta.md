@@ -13,7 +13,7 @@ tags:
   - chicken broth
   - garlic
   - cream
-  - pimento d'espelette
+  - piment d'espelette
 ---
 
 The appetizer for tonight's dinner is a bit unusual. Inspired by the mushroom meadow article in the current issue of Effilee, I created a mushroom essence from some of the chicken broth I cooked yesterday. 

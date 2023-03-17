@@ -7,7 +7,7 @@ categories:
   - ingredients
 type: regular
 tags: 
-  - beef bones
+  - beef bone
   - red wine
   - soup vegetable
   - champignon

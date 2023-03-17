@@ -25,7 +25,7 @@ tags:
   - red wine
   - celery
   - sunchoke
-  - dry apricot
+  - dried apricot
   - dried fig
   - cinnamon stick
   - zucchini

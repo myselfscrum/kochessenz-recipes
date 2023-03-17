@@ -10,8 +10,8 @@ tags:
   - gurnard
   - chestnut
   - tagliatelle
-  - pimento d'espelette
-  - Brussels sprouts
+  - piment d'espelette
+  - brussels sprouts
   - cream
   - monkfish
   - vanilla

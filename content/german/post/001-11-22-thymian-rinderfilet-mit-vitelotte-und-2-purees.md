@@ -13,7 +13,7 @@ tags:
   - rosenkohl
   - thymian
   - vitelotte
-  - weisse bohne
+  - weiße bohne
 ---
 
 Das heutige Dinner besteht nur aus 2 Gängen, da wir vermutlich nach dem Hauptgang keinen Nachtisch mehr schaffen werden. Zunächst beginnen wir mit der **[Champignon-Panna-Cotta](../001-11-22-champignon-panna-cotta/)**. Nun ist der Magen vorbereitet auf kommende Genüsse.

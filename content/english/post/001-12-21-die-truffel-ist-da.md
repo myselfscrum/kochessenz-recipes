@@ -7,7 +7,7 @@ categories:
   - ingredients
 type: regular
 tags: 
-  - truffles
+  - truffle
 ---
 
 For the first time I buy a real whole truffle to contribute something different for Christmas dinner. The choice on the Internet is not easy, would you buy truffles on ebay? I rather not and choose trueffelkontor.de for the delivery of a _tuber melanosporum_, a black Perigord truffle. The store site says that this is the right beginner truffle and with the prices for an Alba truffle at just under 7 euros per gram, I am not at all keen on the expert variety.

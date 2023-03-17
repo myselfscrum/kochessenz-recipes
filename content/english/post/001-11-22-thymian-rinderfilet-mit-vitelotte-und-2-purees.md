@@ -11,7 +11,7 @@ tags:
   - lavender
   - beef jus
   - fillet of beef
-  - Brussels sprouts
+  - brussels sprouts
   - thyme
   - vitelotte
   - white bean
