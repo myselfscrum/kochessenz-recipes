@@ -1,5 +1,5 @@
 ---
-title: Couscous zucchini pancakes with salad
+title: Couscous & Zucchini Pancakes with Salad
 slug: couscous-zucchini-pancakes-with-salad
 date: 2010-04-07
 image: images/post/couscous-puffer.webp
