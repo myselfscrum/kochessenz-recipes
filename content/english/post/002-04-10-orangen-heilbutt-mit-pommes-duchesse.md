@@ -1,5 +1,5 @@
 ---
-title: Orange halibut with pommes duchesse
+title: Orange Halibut with Pommes Duchesse
 slug: orange halibut with fries duchesse
 date: 2010-04-10
 image: images/post/heilbutt-duchesse.webp
