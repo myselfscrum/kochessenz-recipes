@@ -2,7 +2,7 @@
 title: Orangen-Rosmarin-Polenta mit Stielmus und Pangasius
 slug: orangen-rosmarin-polenta
 date: 2010-04-08
-image: images/post/pangasius-polenta
+image: images/post/pangasius-polenta.webp
 categories: 
   - alltagsküche
 type: regular

@@ -2,7 +2,7 @@
 title: Orange-rosemary Polenta with Turnip Greens and Pangasius
 slug: orange-rosemary-polenta
 date: 2010-04-08
-image: images/post/pangasius-polenta
+image: images/post/pangasius-polenta.webp
 categories: 
   - everyday cooking
 type: regular
