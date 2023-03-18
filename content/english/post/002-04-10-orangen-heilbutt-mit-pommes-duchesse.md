@@ -6,6 +6,7 @@ image: images/post/heilbutt-duchesse.webp
 categories: 
   - the best
   - dinner for x
+type: regular
 tags: 
   - butter
   - egg yolk

@@ -6,6 +6,7 @@ image: images/post/heilbutt-duchesse.webp
 categories: 
   - die besten
   - dinner for x
+type: regular  
 tags: 
   - butter
   - eigelb
