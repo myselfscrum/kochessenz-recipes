@@ -79,6 +79,6 @@ on high heat for 2 minutes on each side. Then the fillets go on the plates, a li
 
 Excellent, I am only a little guilty about the halibut. This is definitely a candidate for our fish dinner in May, then I'll just get the Pacific variety, you're allowed to eat those.
 
-Addendum - Greenpeace was faster than me. On 27.3. there was the new list, in which at least the action recommendation is now clearer. I still had the one from November. Nevertheless, I have now made myself a simple list, so that I next time as a mature and enlightened consumer ...
+Addendum - Greenpeace was faster than me. On 27.3. there was the new list, in which at least the action recommendation is now clearer. I still had the one from November. Nevertheless, I have now made myself a simple list, so that I next time, as a mature and enlightened consumer ...
 
 > sauteed halibut, duchess potato rosettes, orange fillets and spinach
