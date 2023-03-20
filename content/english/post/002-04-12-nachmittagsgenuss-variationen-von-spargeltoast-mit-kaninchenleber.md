@@ -1,5 +1,5 @@
 ---
-title: Variations of Asparagus toast with Rabbit Liver
+title: Variations of Asparagus Toast with Rabbit Liver
 slug: asparagus toast with rabbit liver
 date: 2010-04-12
 image: images/post/spargeltoast.webp
