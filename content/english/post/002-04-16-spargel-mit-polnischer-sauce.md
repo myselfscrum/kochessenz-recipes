@@ -2,7 +2,7 @@
 title: Asparagus with Polish Sauce
 slug: asparagus-with-polish-sauce
 date: 2010-04-16
-image: images/post/asparagus-polish.webp
+image: images/post/spargel-polnisch.webp
 categories: 
   - everyday cooking
   - vegetarian
