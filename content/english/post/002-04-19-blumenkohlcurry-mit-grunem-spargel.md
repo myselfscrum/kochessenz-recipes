@@ -2,7 +2,7 @@
 title: Cauliflower Curry with Green Asparagus
 slug: cauliflower curry with green asparagus
 date: 2010-04-19
-image: images/post/flower-cauliflower-asparagus.webp
+image: images/post/blumenkohl-spargel.webp
 categories: 
   - everyday cooking
   - vegan
