@@ -1,5 +1,5 @@
 ---
-title: Sesame nuggets with Thai asparagus and coriander puree
+title: Sesame Nuggets with Thai Asparagus and Coriander Puree
 slug: sesame-nuggets-with-thai-asparagus-and-coriander-puree
 date: 2010-05-02
 image: images/post/thai-chicken-nuggets.webp
