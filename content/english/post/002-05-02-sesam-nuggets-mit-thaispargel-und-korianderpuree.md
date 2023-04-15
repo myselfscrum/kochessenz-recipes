@@ -1,6 +1,6 @@
 ---
-title: Sesame Nuggets with Thai Asparagus and Coriander Puree
-slug: sesame-nuggets-with-thai-asparagus-and-coriander-puree
+title: Sesame Nuggets with Thai Asparagus and Cilantro Puree
+slug: sesame-nuggets-with-thai-asparagus-and-cilantro-puree
 date: 2010-05-02
 image: images/post/thai-chicken-nuggets.webp
 categories: 
@@ -18,6 +18,8 @@ tags:
   - soy sauce
   - asparagus
   - thai curry
+  - cilantro seed
+  - cilantro herb
 ---
 
 Today cooking must be quick, there is still a lot to do.
@@ -52,8 +54,8 @@ I roast briefly in a pan without oil.
 
 I mash and heat the mash carefully in a small pan.
 
-* 1/2 bunch of coriander greens 
-* 1 teaspoon coriander seeds
+* 1/2 bunch of cilantro greens 
+* 1 teaspoon cilantro seeds
 
 I crush and add the green mash to half of the mashed potatoes. I roll the chicken in the sesame seeds, the asparagus ragout is well cooked down and the mashed potatoes are now two colors. Quickly into the serving rings with it and served.
 

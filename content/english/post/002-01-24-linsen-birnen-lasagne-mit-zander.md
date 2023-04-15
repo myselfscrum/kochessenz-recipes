@@ -13,7 +13,7 @@ tags:
   - ginger
   - garlic
   - cilantro herb
-  - cilantro seeds
+  - cilantro seed
   - pasta dough
   - paprika
 ---
