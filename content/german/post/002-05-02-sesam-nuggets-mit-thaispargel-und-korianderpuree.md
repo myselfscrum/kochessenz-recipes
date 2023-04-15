@@ -2,7 +2,7 @@
 title: Sesam-Nuggets mit Thaispargel und Korianderpüree
 slug: sesam-nuggets-mit-thaispargel-und-korianderpueree
 date: 2010-05-02
-image: images/post/thai-chicken-nugget.webp
+image: images/post/thai-chicken-nuggets.webp
 categories: 
   - alltagsküche
 type: regular
