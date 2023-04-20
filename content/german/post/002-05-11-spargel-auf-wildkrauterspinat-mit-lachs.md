@@ -47,4 +47,4 @@ Die Haut habe ich vorher entfernt und das Filetstück in 4 schmale Stücke gesch
 
 Das Wildkräutergemüse hätte noch etwas länger dünsten können. Der Geschmack gefällt mir gut, es ist nur noch etwas zu hart. Vielleicht kann man es auch mit Spinat mischen, so dass es etwas weicher wird. Ansonsten eine feine Kombination, nur leider zuviel...
 
-> 
+> white asparagus on sauteed spinach, with salmon fillet 
