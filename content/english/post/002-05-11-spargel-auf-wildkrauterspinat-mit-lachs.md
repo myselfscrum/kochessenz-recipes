@@ -1,7 +1,7 @@
 ---
 title: Salmon and Asparagus on Wild Herbs and Spinach 
 slug: salmon-and-asparagus-on-wild-herbs-and-spinach
-date: 2010-05-11
+date: 2010-05-11T19:00:00
 image: images/post/salmon-asparagus.webp
 categories: 
   - dinner for x

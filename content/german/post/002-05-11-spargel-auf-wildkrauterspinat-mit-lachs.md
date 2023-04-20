@@ -1,7 +1,7 @@
 ---
 title: Spargel auf Wildkräuterspinat mit Lachs
 slug: spargel-auf-wildkraeuterspinat-mit-lachs
-date: 2010-05-11
+date: 2010-05-11T19:00:00
 image: images/post/salmon-asparagus.webp
 categories: 
   - dinner for x
