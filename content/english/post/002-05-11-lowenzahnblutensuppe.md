@@ -6,7 +6,7 @@ image: images/post/dandelion-soup.webp
 categories: 
   - dinner for x
   - herbal cuisine
-  - re-cooked
+  - recooked
   - vegetarian
 type: regular
 tags: 
