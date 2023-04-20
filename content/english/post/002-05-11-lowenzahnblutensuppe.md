@@ -1,6 +1,6 @@
 ---
-title: Dandelion flower soup
-slug: dandelion soup
+title: Dandelion Flower Soup
+slug: dandelion-flower-soup
 date: 2010-05-11T18:00:00
 image: images/post/dandelion-soup.webp
 categories: 
