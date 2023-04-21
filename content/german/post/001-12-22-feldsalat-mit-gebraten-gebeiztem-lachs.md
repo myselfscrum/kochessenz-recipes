@@ -4,7 +4,7 @@ slug: feldsalat-lachs
 date: 2009-12-22T19:00:00
 image: images/post/salmon-salad.webp
 categories: 
-  - dinner-for-x
+  - dinner for x
 type: regular
 tags: 
   - feldsalat

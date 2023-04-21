@@ -4,7 +4,7 @@ slug: ravioli-steak
 date: 2010-01-01T20:00:00
 image: images/post/steak-ravioli.webp
 categories: 
-  - dinner-for-x
+  - dinner for x
 type: regular
 tags: 
   - creme fraiche

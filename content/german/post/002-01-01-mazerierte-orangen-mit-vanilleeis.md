@@ -4,7 +4,7 @@ slug: orangen-mit-vanilleeis
 date: 2010-01-01T21:00:00
 image: images/post/orange-vanilleeis.webp
 categories: 
-  - dinner-for-x
+  - dinner for x
   - vegetarisch
 type: regular
 tags: 

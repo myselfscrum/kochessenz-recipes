@@ -3,7 +3,7 @@ title: "Capellini mit Lachs"
 date: "2009-09-20"
 image: images/post/capellini-lachs.webp
 categories: 
-  - "dinner-for-x"
+  - "dinner for x"
 type: regular
 tags: 
   - basilikum

@@ -3,7 +3,7 @@ title: Dinner for Four
 date: 2009-10-11
 image: images/post/robert.webp
 categories: 
-  - dinner-for-x
+  - dinner for x
 type: regular
 tags: 
   - feldsalat
