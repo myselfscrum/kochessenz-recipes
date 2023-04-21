@@ -10,7 +10,7 @@ type: regular
 tags: 
   - meringue
   - shortcrust
-  - orange-curd
+  - orange curd
   - chocolate
 ---
 

@@ -16,7 +16,7 @@ tags:
   - tangerine
   - horseradish
   - carrot
-  - beet
+  - beetroot
   - celery
   - tomato
 ---

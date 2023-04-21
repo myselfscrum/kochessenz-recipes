@@ -10,7 +10,7 @@ tags:
   - ei
   - salz
   - trüffel
-  - weißer pfeffer
+  - pfeffer, weiß
 ---
 
 Tja ich muss sie nun schon mal testen, die **[just erworbene Trüffel](../trueffel/)**... Inzwischen ist sie vom Lehm befreit, dank Oral-B kein Problem. Nun ist sie stumpf-schwarzbraun, an einigen Stellen rötlich wie dunkles Kirschholz.

@@ -10,7 +10,7 @@ type: regular
 tags: 
   - wild garlic
   - nettle
-  - giersch
+  - goutweed
   - potato
   - salmon
   - parmesan

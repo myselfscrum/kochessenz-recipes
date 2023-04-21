@@ -13,7 +13,7 @@ tags:
   - spined loach
   - white wine
   - savoy cabbage
-  - coarse mustard
+  - mustard, coarse
 ---
 
 After a week on the road, finally an evening at home again. It always takes me a while to re-acclimatize, so today is a simple dish. Inspired by Siebeck's savoy windings, I decide to try it once again with savoy cabbage and fish.

@@ -17,7 +17,7 @@ tags:
   - asparagus
 ---
 
-Did I ever mention that I love fancy sandwiches? Unfortunately, you get on the road usually only labbriges toast with pressed ham and plastic cheese, made swallowable by E-tried so-called Remoulade. With a little imagination, almost anything is possible...
+Did I ever mention that I love fancy sandwiches? Unfortunately, you get on the road usually only floppy toast with pressed ham and plastic cheese, made swallowable by so-called Remoulade. With a little imagination, almost anything is possible...
 
 During the week it must go always fast, therefore here a small bread for in between.
 
@@ -29,7 +29,7 @@ During the week it must go always fast, therefore here a small bread for in betw
 * some nutmeg 
 * a little salt
 
-Peel and finely dice asparagus spears, sauté in butter until no longer quite crunchy. Seasoning. Cut the tip in half lengthwise and steam. It is decoration afterwards.
+Peel and finely dice asparagus spears, sauté in butter until no longer quite crunchy. Seasoning. Cut the tip in half lengthwise and steam. It is for decoration afterwards.
 
 Divide broccoli into tiny florets and blanch for 2 minutes.
 

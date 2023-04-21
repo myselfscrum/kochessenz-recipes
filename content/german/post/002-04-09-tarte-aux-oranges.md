@@ -10,7 +10,7 @@ type: regular
 tags: 
   - baiser
   - mürbeteig
-  - orange-curd
+  - orange curd
   - schokolade
 ---
 

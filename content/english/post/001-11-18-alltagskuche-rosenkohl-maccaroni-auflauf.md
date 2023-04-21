@@ -11,7 +11,7 @@ tags:
   - champignon
   - tarragon
   - maccaroni
-  - Brussels sprouts
+  - brussels sprouts
   - creme fraiche
 ---
 
