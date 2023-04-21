@@ -5,7 +5,7 @@ date: 2010-05-11T18:00:00
 image: images/post/dandelion-soup.webp
 categories: 
   - dinner for x
-  - krauterküche
+  - kräuterküche
   - nachgekochtes
   - vegetarisch
 type: regular
