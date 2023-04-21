@@ -2,7 +2,7 @@
 title: Spargel-Brokkoli-Bruschetta
 slug: spargel-brokkoli-bruschetta
 date: 2010-05-12
-image: spargel-brokkoli-bruschetta.webp
+image: images/post/spargel-brokkoli-bruschetta.webp
 categories: 
   - kräuterküche
   - nachmittagsgenuss

@@ -2,7 +2,7 @@
 title: Asparagus and Broccoli Bruschetta
 slug: asparagus-broccoli bruschetta
 date: 2010-05-12
-image: spargel-brokkoli-bruschetta.webp
+image: images/post/spargel-brokkoli-bruschetta.webp
 categories: 
   - herbal cuisine
   - afternoon delight
