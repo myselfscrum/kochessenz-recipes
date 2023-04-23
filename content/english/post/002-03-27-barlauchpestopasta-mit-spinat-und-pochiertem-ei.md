@@ -1,5 +1,5 @@
 ---
-title: Wild Garlic Pasta with Spinach and Poached Egg
+title: Ramson Pasta with Spinach and Poached Egg
 slug: wild-garlic-pasta-with-spinach-and-poached-egg
 date: 2010-03-27T19:00:00
 image: images/post/baerlauchpasta.webp
@@ -8,13 +8,13 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - wild garlic
+  - ramson
   - egg
   - pasta dough
   - spinach
 ---
 
-Schuhbeck's lasagna, which I'm planning as a main course today, seems very manageable to me. So I cut off a little pasta dough and produce a small appetizer, especially since it gives me a wonderful use for the first wild garlic of the season.
+Schuhbeck's lasagna, which I'm planning as a main course today, seems very manageable to me. So I cut off a little pasta dough and produce a small appetizer, especially since it gives me a wonderful use for the first ramson of the season.
 
 I produce the noodles from
 
@@ -22,7 +22,7 @@ I produce the noodles from
 
 They are, when cooked, done in 2 minutes. Therefore, everything else must be ready by then
 
-* 20 g wild garlic, freed from the stems and chopped small (save the stems). 
+* 20 g ramson, freed from the stems and chopped small (save the stems). 
 * 20 g pine nuts 
 * 20 g pecorino, grated 
 * 1 tablespoon of good olive oil
@@ -30,8 +30,8 @@ They are, when cooked, done in 2 minutes. Therefore, everything else must be rea
 I put together in the mortar and produce a pesto.
 
 * 1 double handful of baby spinach 
-* the stems of wild garlic 
-* 2 wild garlic leaves
+* the stems of ramson 
+* 2 ramson leaves
 
 I steam briefly until soft.
 

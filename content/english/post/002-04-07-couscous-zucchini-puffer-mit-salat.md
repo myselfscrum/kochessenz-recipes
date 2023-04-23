@@ -8,7 +8,7 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - wild garlic
+  - ramson
   - couscous
   - egg
   - fennel seed
@@ -27,7 +27,7 @@ leftover food with the remaining **[couscous from yesterday](../onion-orange-cou
 * 1 heaped tablespoon flour 
 * good salt 
 * 1 tsp. fennel seeds 
-* a handful of wild garlic, chopped 
+* a handful of ramson, chopped 
 * a small piece of ginger 
 * 1 teaspoon dried green pepper, crushed
 

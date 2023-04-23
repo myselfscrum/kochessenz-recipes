@@ -8,7 +8,7 @@ categories:
   - vegetarian
 type: regular
 tags: 
-  - wild garlic
+  - ramson
   - blue cheese
   - butter
   - dill
@@ -27,7 +27,7 @@ are already saved. What to do with them? The refrigerator gives the following
 * 2 leeks 
 * 1 carrot 
 * 1/2 bunch of dill 
-* a few wild garlic leaves
+* a few ramson leaves
 
 The light parts of the leek I cut after cleaning in approx. 8 cm long pieces, which I boil in scarcely 10 minutes in a little water with
 
@@ -35,7 +35,7 @@ The light parts of the leek I cut after cleaning in approx. 8 cm long pieces, wh
 
 so that it is just soft enough. The darker rest, ruffled from washing, is cut into narrow pieces and goes into the pan, along with some of the leek broth from cooking. When it's soft, the roughly chopped dill is added.
 
-I cut up the carrot à la julienne and steam it separately also until soft, here the wild garlic leaves help to flavor it.
+I cut up the carrot à la julienne and steam it separately also until soft, here the ramson leaves help to flavor it.
 
 Now everything goes into the baking dish - first the small leek and the carrot, then the leek pieces. On my half of the casserole still
 

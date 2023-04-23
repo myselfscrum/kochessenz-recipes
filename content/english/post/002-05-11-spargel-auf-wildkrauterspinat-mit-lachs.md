@@ -8,7 +8,7 @@ categories:
   - herbal cuisine
 type: regular
 tags: 
-  - wild garlic
+  - ramson
   - nettle
   - goutweed
   - potato
@@ -33,7 +33,7 @@ I clean, remove the thick stems and steam them in a pan with butter and a little
 
 I boil in 10 minutes until soft and mash them with a little butter with a fork to a coarse puree. Season to taste with nutmeg and salt.
 
-* 1/2 bunch wild garlic
+* 1/2 bunch ramson
 
 is blanched briefly, then placed nest-like on the plates. The puree is placed on top. Next to it the wild herbs, on top the asparagus.
 

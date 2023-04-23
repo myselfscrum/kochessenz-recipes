@@ -21,12 +21,12 @@ I start with the gratin
 
 * 200 ml milk 
 * 2 good tablespoons of mascarpone cheese 
-* 4 wild garlic leaves 
+* 4 ramson leaves 
 * 4 medium potatoes, peeled 
 * 100 g dandelion buds 
 * 125 g Roquefort
 
-I heat the milk with the mascarpone cream in a pan, then add the wild garlic leaves, chopped and pounded in a mortar with some coarse salt. When the liquid is hot, I plane the potatoes thinly with the truffle slicer to it. The potatoes now pre-cook for about 15 minutes at low heat. Then I put them into a casserole dish with the buds, which I have freed from the throat leaves and blanched briefly, and cover the vegetables with slices of Roquefort - or crumbs, as it is difficult to cut.
+I heat the milk with the mascarpone cream in a pan, then add the ramson leaves, chopped and pounded in a mortar with some coarse salt. When the liquid is hot, I plane the potatoes thinly with the truffle slicer to it. The potatoes now pre-cook for about 15 minutes at low heat. Then I put them into a casserole dish with the buds, which I have freed from the throat leaves and blanched briefly, and cover the vegetables with slices of Roquefort - or crumbs, as it is difficult to cut.
 
 Now off with it in the preheated oven at 200°, 15 Miunten, at the end still briefly under the grill.
 
