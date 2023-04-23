@@ -1,5 +1,5 @@
 ---
-title: roasted Asparagus with Tomato Pasta and Wild Herb Pesto
+title: Roasted Asparagus with Tomato Pasta and Wild Herb Pesto
 slug: roasted-asparagus-with-tomato-pasta
 date: 2010-05-14
 image: images/post/bratspargel.webp
