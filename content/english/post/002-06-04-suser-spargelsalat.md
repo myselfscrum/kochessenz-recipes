@@ -1,7 +1,7 @@
 ---
 title: Sweet Asparagus Salad
 slug: sweet-asparagus-salad
-date: 2010-06-04
+date: 2010-06-04T21:00:00
 image: images/post/sweet-asparagus.webp
 categories: 
   - recooked
