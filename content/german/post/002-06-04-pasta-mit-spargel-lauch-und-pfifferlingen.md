@@ -1,7 +1,7 @@
 ---
 title: Pasta mit Spargel und Pfifferlingen
 slug: pasta-mit-spargel-und-pfifferlingen
-date: 2010-06-04
+date: 2010-06-04T19:00:00
 image: images/post/tagliatelle-chanterelle.webp
 categories: 
   - alltagsküche

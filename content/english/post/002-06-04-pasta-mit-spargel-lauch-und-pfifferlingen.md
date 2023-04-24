@@ -1,7 +1,7 @@
 ---
 title: Pasta with Asparagus and Chanterelles
 slug: pasta-with-asparagus-and-chanterelles
-date: 2010-06-04
+date: 2010-06-04T19:00:00
 image: images/post/tagliatelle-chanterelle.webp
 categories: 
   - everyday cooking
