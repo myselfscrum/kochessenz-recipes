@@ -1,6 +1,6 @@
 ---
 title: Kräuterpasta mit Letscho
-slug: kraeterpasta-mit-letscho
+slug: kraeuterpasta-mit-letscho
 date: 2010-06-11
 image: images/post/letscho-pasta.webp
 categories: 
