@@ -7,6 +7,7 @@ categories:
   - alltagsküche
   - kräuterküche
   - vegetarisch
+type: regular
 tags: 
   - butter
   - ingwer

@@ -7,6 +7,7 @@ categories:
   - everyday cooking
   - herbal cuisine
   - vegetarian
+type: regular
 tags: 
   - butter
   - ginger
