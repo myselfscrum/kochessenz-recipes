@@ -1,7 +1,7 @@
 ---
 title: Kingklip with Foglie d'Ulivo
 slug: kingklip with Foglie d'Ulivo
-date: 2010-06-23
+date: 2010-06-23T19:00:00
 image: images/post/kingklip.webp
 categories: 
   - everyday cooking

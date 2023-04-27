@@ -16,7 +16,7 @@ tags:
   - nelke
 ---
 
-Der gewiefte Koch recycelt wo er kann - so auch Oskar Marti. Er nimmt die Überreste vom [Holunderblütensirup](../holunderblueten-sirup) und produziert einen Essig daraus.
+Der gewiefte Koch recycelt wo er kann - so auch Oskar Marti. Er nimmt die Überreste vom **[Holunderblütensirup](../holunderblueten-sirup)** und produziert einen Essig daraus.
 
 * 2 Liter Apfelessig 
 * die Holunderblüten aus dem Sirup 

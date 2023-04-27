@@ -29,7 +29,7 @@ Hallo-o! Die Spargelzeit ist noch nicht zu Ende! Daher kommt in diesem Haushalt 
 
 4 Stangen dicken weißen Spargel 4 Stangen dicken grünen Spargel
 
-Ersterer kocht für gut 10 Minuten, zweiter für gut 5. Die Pasta für den Nudelteig ergibt sich aus dem zweiten Teil des [Teigs von gestern](../kraeuterpasta-mit-letscho). Ansonsten folge ich dem Rezept für [Lasagne mit Wokgemüse](../lasagne-mit-lachsforelle-und-wokgemuese) - nur ohne Fisch eben. Es ist genug Gemüse diesmal, um die 3 Schichten zu bilden: Gemüse - Spargel - Gemüse. Obenauf gebe ich ich diesmal bangend
+Ersterer kocht für gut 10 Minuten, zweiter für gut 5. Die Pasta für den Nudelteig ergibt sich aus dem zweiten Teil des **[Teigs von gestern](../kraeuterpasta-mit-letscho)**. Ansonsten folge ich dem Rezept für **[Lasagne mit Wokgemüse](../lasagne-mit-lachsforelle-und-wokgemuese)** - nur ohne Fisch eben. Es ist genug Gemüse diesmal, um die 3 Schichten zu bilden: Gemüse - Spargel - Gemüse. Obenauf gebe ich ich diesmal bangend
 
 etwas Parmesan,
 

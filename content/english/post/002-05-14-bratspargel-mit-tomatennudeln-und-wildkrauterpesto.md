@@ -27,7 +27,7 @@ I still have a scarce
 
 in the fridge, which is peeled and kept moist. Then I create from
 
-* 200g [tomato-pasta-dough](../tomato-pasta-with-zucchini-and-savory) (thawed and run through the pasta machine)
+* 200g **[tomato-pasta-dough](../tomato-pasta-with-zucchini-and-savory)** (thawed and run through the pasta machine)
 
 Tagliatelle, which I temporarily store suspended until it's their turn. The asparagus needs to roast on medium heat for 20 minutes. It does that quite well by pressing it into the pan with a small pot lid. that way, even the not-so-straight and the halved thick (thanks to **[Jessie](http://jessieschmeckts.wordpress.com/2010/05/13/spargel-und-hollandaise-fur-topflose-koche/)** for the tip!) spears brown evenly. I fry in olive oil and brush a little butter over them at the end and salt cautiously.
 

@@ -35,7 +35,7 @@ schneide ich in nuggetgroße Stücke und mariniere sie für 30 Minuten in
 Dann brate ich das Fleisch mit Sauce, bis diese klebrig verkocht ist.
 
 * 500g Spargel, geschält und in Stücke geschnitten 
-* 1 EL [roter Thai-Curry](../001-10-24-rote-thai-currypaste) 
+* 1 EL **[roter Thai-Curry](../001-10-24-rote-thai-currypaste)** 
 * 200ml Büchse Kokosnussmilch 
 * 1 Frühlingszwiebel 
 * 1 Stückchen geriebener Ingwer

@@ -37,7 +37,7 @@ I cut into nugget-sized pieces and marinate them for 30 minutes in
 Then I fry the meat with sauce until it boils away sticky.
 
 * 500g asparagus, peeled and cut into pieces. 
-* 1 tbsp [red thai curry](../001-10-24-red-thai-curry-paste) 
+* 1 tbsp **[red thai curry](../001-10-24-red-thai-curry-paste)** 
 * 200ml can of coconut milk 
 * 1 spring onion 
 * 1 piece of grated ginger

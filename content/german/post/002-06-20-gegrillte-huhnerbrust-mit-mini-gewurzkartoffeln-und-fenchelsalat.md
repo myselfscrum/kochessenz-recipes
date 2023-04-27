@@ -62,7 +62,7 @@ Die Schale kommt nun für gut 15 Minuten in den Ofen, bis die Kartoffeln gar sin
 
 in sehr feine Scheiben und vermenge sie sofort mit einer Vinaigrette aus
 
-* 3 EL [Holunderblütenessig](../holunderbluetenessig) 
+* 3 EL **[Holunderblütenessig](../holunderbluetenessig)** 
 * 3 EL Olivenöl 
 * Fleur de Sel 
 * Pfeffer

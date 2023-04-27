@@ -22,7 +22,7 @@ Sunday morning in the meadows of Münster... Two suspicious figures in thick hik
 * 600 g white asparagus 
 * 400 g green asparagus
 
-is peeled (the peels go into the stock for the [dandelion flower soup](../dandelion-flower-soup)) and cooked briefly - the white asparagus 8 minutes, the green 5. Here, cooking in a pan is recommended, so that the heads also become soft despite the short cooking time.
+is peeled (the peels go into the stock for the **[dandelion flower soup](../dandelion-flower-soup)**) and cooked briefly - the white asparagus 8 minutes, the green 5. Here, cooking in a pan is recommended, so that the heads also become soft despite the short cooking time.
 
 * 50 g goutweed 
 * 50 g stinging nettle

@@ -62,7 +62,7 @@ The dish now goes into the oven for a good 15 minutes until the potatoes are coo
 
 in very fine slices and mix it immediately with a vinaigrette of
 
-* 3 tablespoons [elderflower vinegar](../holunderbluetenessig) 
+* 3 tablespoons **[elderflower vinegar](../elderflower-vinegar)** 
 * 3 tablespoons olive oil 
 * Fleur de Sel 
 * pepper

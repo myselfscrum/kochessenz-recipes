@@ -22,7 +22,7 @@ Sonntagmorgen in den Münsteraner Wiesen... Zwei verdächtige Gestalten in dicke
 * 600 g weißer Spargel 
 * 400 g grüner Spargel
 
-wird geschält (die Schalen wandern in den Fond für die [Löwenzahnblütensuppe](../loewenzahnbluetensuppe)) und kurz gekocht - der weiße Spargel 8 Minuten, der grüne 5. Hier empfiehlt sich das Kochen in der Pfanne, damit auch die Köpfe trotz kurzer Garzeit weich werden.
+wird geschält (die Schalen wandern in den Fond für die **[Löwenzahnblütensuppe](../loewenzahnbluetensuppe)**) und kurz gekocht - der weiße Spargel 8 Minuten, der grüne 5. Hier empfiehlt sich das Kochen in der Pfanne, damit auch die Köpfe trotz kurzer Garzeit weich werden.
 
 * 50 g Giersch 
 * 50 g Brennessel

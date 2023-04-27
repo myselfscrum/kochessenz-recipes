@@ -30,7 +30,7 @@ Hello-o! Asparagus season is not over yet! Therefore, at least one kilo goes und
 * 4 spears of thick white asparagus 
 * 4 spears of thick green asparagus
 
-The former cooks for a good 10 minutes, the latter for a good 5. The pasta for the pasta dough comes from the second part of the [dough from yesterday](../herb-pasta-with-lecso). Otherwise, I follow the recipe for [lasagna-with-wok-vegetables](../lasagna-with-salmon-trout-and-wok-vegetables) - just without fish. There are enough vegetables this time to make the 3 layers: Vegetables - Asparagus - Vegetables. On top I give this time anxiously
+The former cooks for a good 10 minutes, the latter for a good 5. The pasta for the pasta dough comes from the second part of the **[dough from yesterday](../herb-pasta-with-lecso)**. Otherwise, I follow the recipe for **[lasagna-with-wok-vegetables](../lasagna-with-salmon-trout-and-wok-vegetables)** - just without fish. There are enough vegetables this time to make the 3 layers: Vegetables - Asparagus - Vegetables. On top I give this time anxiously
 
 some parmesan,
 

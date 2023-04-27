@@ -16,7 +16,7 @@ tags:
   - clove
 ---
 
-The crafty cook recycles where he can - so does Oskar Marti. He takes the leftovers from [elderflower syrup](../elderflower-syrup) and produces a vinegar from it.
+The crafty cook recycles where he can - so does Oskar Marti. He takes the leftovers from **[elderflower syrup](../elderflower-syrup)** and produces a vinegar from it.
 
 * 2 liters of apple cider vinegar 
 * the elderflowers from the syrup 
