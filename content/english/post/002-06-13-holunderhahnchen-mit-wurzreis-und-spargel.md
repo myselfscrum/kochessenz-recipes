@@ -7,6 +7,7 @@ categories:
   - the best
   - dinner for x
   - herbal cuisine
+type: regular  
 tags: 
   - green asparagus
   - chicken breast

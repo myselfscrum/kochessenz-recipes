@@ -7,6 +7,7 @@ categories:
   - die besten
   - dinner for x
   - kräuterküche
+type: regular
 tags: 
   - grüner spargel
   - hähnchenbrust
