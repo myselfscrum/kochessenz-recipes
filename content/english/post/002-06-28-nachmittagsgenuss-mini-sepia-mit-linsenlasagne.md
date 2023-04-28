@@ -2,7 +2,7 @@
 title: Mini Sepia with Lentil Lasagna
 slug: mini-sepia-with-lentil-lasagna
 date: 2010-06-28
-image: images/post/calamari-lentils.webp
+image: images/post/calamari-linsen.webp
 categories: 
   - afternoon delight
 type: regular
