@@ -1,6 +1,6 @@
 ---
-title: New Potatoes with Glasswort and Bell Peppers
-slug: new-potatoes-with-glasswort-and-bell-peppers
+title: New Potatoes with Samphire and Bell Peppers
+slug: new-potatoes-with-samphire-and-bell-peppers
 date: 2010-06-28T19:00:00
 image: images/post/queller.webp
 categories: 
@@ -11,10 +11,10 @@ tags:
   - butter
   - potato
   - bell pepper
-  - glasswort
+  - samphire
 ---
 
-One more leftover from shopping for the cooking weekend - a packet of glasswort.
+One more leftover from shopping for the cooking weekend - a packet of samphire.
 
 I quickly put
 
@@ -27,8 +27,8 @@ on. 10 minutes before the end of the cooking time I steam
 
 in a good amount of butter. 4 minutes before the end of the potato cooking time I add
 
-* 150 g of glasswort
+* 150 g of samphire
 
-and saute them in the buttered vegetables until hot. Then the potatoes are added unpeeled. Salting is not necessary, because the glasswort is salty enough. Add some pepper and you have a great dinner for summer evenings.
+and saute them in the buttered vegetables until hot. Then the potatoes are added unpeeled. Salting is not necessary, because the samphire is salty enough. Add some pepper and you have a great dinner for summer evenings.
 
 >
