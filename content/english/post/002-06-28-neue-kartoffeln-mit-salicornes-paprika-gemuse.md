@@ -31,4 +31,4 @@ in a good amount of butter. 4 minutes before the end of the potato cooking time 
 
 and saute them in the buttered vegetables until hot. Then the potatoes are added unpeeled. Salting is not necessary, because the samphire is salty enough. Add some pepper and you have a great dinner for summer evenings.
 
->
+> samphire with potato and bell pepper ragout 

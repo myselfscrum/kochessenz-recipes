@@ -31,4 +31,4 @@ in ordentlich Butter an. 4 Minuten vor dem Ende der Kartoffelkochzeit gebe ich
 
 hinzu und schwenke sie in dem Buttgermüse heiß. Dann kommen die Kartoffeln ungepellt dazu. Salzen ist nicht nötig, da die Queller salzig genug sind. Etwas Pfeffer drüber, fertig ist ein klasse Abendessen für Sommerabende.
 
->
+> samphire with potato and bell pepper ragout 
