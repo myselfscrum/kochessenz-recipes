@@ -10,7 +10,7 @@ type: regular
 tags: 
   - butter
   - potato
-  - paprika
+  - bell pepper
   - glasswort
 ---
 
@@ -22,7 +22,7 @@ I quickly put
 
 on. 10 minutes before the end of the cooking time I steam
 
-* 1/2 bell bell pepper yellow, peeled, in strips 
+* 1/2 yellow bell pepper, peeled, in strips 
 * 1/2 red bell bell pepper, peeled, in strips
 
 in a good amount of butter. 4 minutes before the end of the potato cooking time I add
