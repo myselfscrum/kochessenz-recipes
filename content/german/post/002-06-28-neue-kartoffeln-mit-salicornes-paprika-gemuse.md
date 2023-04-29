@@ -1,7 +1,7 @@
 ---
 title: Neue Kartoffeln mit Queller-Paprika-Gemüse
 slug: neue-kartoffeln-mit-queller-paprika-gemuese
-date: 2010-06-28
+date: 2010-06-28T19:00:00
 image: images/post/queller.webp
 categories: 
   - alltagsküche

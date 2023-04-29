@@ -1,7 +1,7 @@
 ---
 title: Mini-Sepia mit Linsenlasagne
 slug: mini-sepia-mit-linsenlasagne
-date: 2010-06-28
+date: 2010-06-28T16:00:00
 image: images/post/calamari-linsen.webp
 categories: 
   - nachmittagsgenuss

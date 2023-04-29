@@ -1,7 +1,7 @@
 ---
 title: New Potatoes with Glasswort and Bell Peppers
 slug: new-potatoes-with-glasswort-and-bell-peppers
-date: 2010-06-28
+date: 2010-06-28T19:00:00
 image: images/post/queller.webp
 categories: 
   - everyday cooking
