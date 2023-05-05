@@ -28,7 +28,7 @@ Ich entferne die äußeren Blätter und halbiere den Kopf. Der Strunk kommt ab, 
 
 * 200 g Champignons, fein gewürfelt 
 * die inneren Blätter, fein geschnitten 
-* 1 guter TL Curry, übrig von [hier](../gegrillte-huehnerbrust-mit-mini-gewuerzkartoffeln-und-fenchelsalat).
+* 1 guter TL Curry, übrig von **[hier](../gegrillte-huehnerbrust-mit-mini-gewuerzkartoffeln-und-fenchelsalat)**.
 
 All das brät in der Pfanne kurz aber heftig an. Die Masse passt nun genau in den Kohl. Dann schneide ich
 
