@@ -2,7 +2,7 @@
 title: Baked feta with orange zucchini
 slug: baked-feta-with-orange-zucchini
 date: 2010-07-12
-image: images/post/feta-orange
+image: images/post/feta-orange.webp
 categories: 
   - everyday cooking
   - vegetarian

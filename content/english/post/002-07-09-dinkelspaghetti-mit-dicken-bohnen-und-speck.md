@@ -1,5 +1,5 @@
 ---
-title: Spelt Spaghetti with broad beans and bacon
+title: Spelt Spaghetti with Broad Beans and Bacon
 slug: spelt-spaghetti-with-broad-beans-and-bacon
 date: 2010-07-09
 image: images/post/spaghetti-beans.webp

@@ -2,7 +2,7 @@
 title: Gebackener Feta mit Orangen-Zucchini
 slug: gebackener-feta-mit-orangen-zucchini
 date: 2010-07-12
-image: images/post/feta-orange
+image: images/post/feta-orange.webp
 categories: 
   - alltagsküche
   - vegetarisch
