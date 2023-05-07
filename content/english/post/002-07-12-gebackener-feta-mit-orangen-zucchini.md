@@ -1,5 +1,5 @@
 ---
-title: Baked feta with orange zucchini
+title: Baked Feta with Orange-Zucchini
 slug: baked-feta-with-orange-zucchini
 date: 2010-07-12
 image: images/post/feta-orange.webp
